@@ -1,0 +1,66 @@
+{
+  "README.md": {
+    "required_phrases": [
+      "these 13 tools are related company brands",
+      "not a successful-generation test",
+      "All 13 pages were readable",
+      "84 source recipes"
+    ]
+  },
+  "README_zh.md": {
+    "required_phrases": [
+      "以下工具均为本公司相关品牌。",
+      "本轮没有实际提交生成",
+      "13 个页面均已读到",
+      "84 条提示词"
+    ]
+  },
+  "README_ja.md": {
+    "required_phrases": [
+      "同じ企業グループのブランド",
+      "生成は実行していません",
+      "13ページすべて",
+      "Flaq AI"
+    ]
+  },
+  "README_ko.md": {
+    "required_phrases": [
+      "같은 회사 계열 브랜드",
+      "생성 요청은 하지 않았습니다",
+      "13개 페이지",
+      "Flaq AI"
+    ]
+  },
+  "README_es.md": {
+    "required_phrases": [
+      "marcas relacionadas de la misma empresa",
+      "no generamos videos",
+      "las 13 páginas",
+      "Flaq AI"
+    ]
+  },
+  "README_fr.md": {
+    "required_phrases": [
+      "marques liées à la même entreprise",
+      "sans génération de vidéo",
+      "les 13 pages",
+      "Flaq AI"
+    ]
+  },
+  "README_de.md": {
+    "required_phrases": [
+      "Marken desselben Unternehmens",
+      "Es wurden keine Videos generiert",
+      "allen 13 Seiten",
+      "Flaq-AI"
+    ]
+  },
+  "README_pt.md": {
+    "required_phrases": [
+      "marcas relacionadas da mesma empresa",
+      "nenhum vídeo foi gerado",
+      "nas 13 páginas",
+      "Flaq AI"
+    ]
+  }
+}

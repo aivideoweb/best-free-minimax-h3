@@ -1,0 +1,50 @@
+name: Short-practice proposal
+description: Propose a new free-tool practice or improve an existing one.
+title: '[Practice] '
+body:
+  - type: markdown
+    attributes:
+      value: |
+        New practices belong in practices/COMM-NNN.md, not the inherited prompts/ library.
+        Existing 13 tool practices can be improved with synchronized English and Chinese versions.
+        Link external X examples through the separate tool/video update form.
+  - type: dropdown
+    id: change
+    attributes:
+      label: Contribution type
+      options:
+        - New original community short practice
+        - Improve an existing tool practice
+    validations:
+      required: true
+  - type: input
+    id: tool
+    attributes:
+      label: Exact free tool URL and input mode
+      placeholder: Text only, or start-and-end image pair
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Goal, setup and complete prompt
+      description: Target one five-second shot; describe opening, action, camera, ending and any required images.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Review points and evidence status
+      description: Concept is acceptable. Tested entries need date, settings, inputs, output link, edits and known defects.
+    validations:
+      required: true
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Attribution and rights
+      options:
+        - label: This is my original wording and I have rights to any submitted inputs or media.
+          required: true
+        - label: I have not included private data, credentials or fabricated test results.
+          required: true

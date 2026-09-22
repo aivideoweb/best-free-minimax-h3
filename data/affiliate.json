@@ -1,0 +1,9 @@
+{
+  "brand": "VideoWeb AI",
+  "program_url": "https://videoweb.ai/affiliate-program/",
+  "checked_at": "2026-09-22",
+  "first_valid_order_percent": 20,
+  "following_valid_order_percent": 10,
+  "window_days_after_registration": 60,
+  "free_generation_is_commissionable": false
+}

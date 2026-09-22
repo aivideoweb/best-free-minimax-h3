@@ -1,0 +1,385 @@
+{
+  "repository": "https://github.com/flaqai/awesome-minimax-h3-video-prompts",
+  "commit": "9fed21c196ffa5495b8f6d8de29cc77ba71eb66d",
+  "tool_urls": [
+    "https://musicmaker.im/free-minimax-h3/",
+    "https://ugcmaker.org/free-minimax-h3/",
+    "https://heydream.im/free-minimax-h3/",
+    "https://flaq.ai/free-minimax-h3/",
+    "https://bestimage.ai/free-minimax-h3/",
+    "https://flyne.ai/free-minimax-h3/",
+    "https://videoweb.ai/free-minimax-h3/",
+    "https://seaimagine.com/free-minimax-h3/",
+    "https://seevido.com/free-minimax-h3/",
+    "https://fylia.ai/free-minimax-h3/",
+    "https://vo4.org/free-minimax-h3/",
+    "https://chat4o.ai/free-minimax-h3/",
+    "https://aitryon.art/free-minimax-h3/"
+  ],
+  "recipe_ids": [
+    "BRD-001",
+    "BRD-002",
+    "BRD-003",
+    "PRD-001",
+    "PRD-002",
+    "PRD-003",
+    "UGC-001",
+    "UGC-002",
+    "UGC-003",
+    "TRV-001",
+    "TRV-002",
+    "TRV-003",
+    "FNB-001",
+    "FNB-002",
+    "FNB-003",
+    "FSH-001",
+    "FSH-002",
+    "FSH-003",
+    "CIN-001",
+    "CIN-002",
+    "CIN-003",
+    "ANI-001",
+    "ANI-002",
+    "ANI-003",
+    "ACT-001",
+    "ACT-002",
+    "ACT-003",
+    "VFX-001",
+    "VFX-002",
+    "VFX-003",
+    "DIG-001",
+    "DIG-002",
+    "DIG-003",
+    "SOC-001",
+    "SOC-002",
+    "SOC-003",
+    "MUS-001",
+    "MUS-002",
+    "MUS-003",
+    "MUS-004",
+    "EDU-001",
+    "EDU-002",
+    "EDU-003",
+    "EDU-004",
+    "ARC-001",
+    "ARC-002",
+    "ARC-003",
+    "ARC-004",
+    "MOB-001",
+    "MOB-002",
+    "MOB-003",
+    "MOB-004",
+    "NAT-001",
+    "NAT-002",
+    "NAT-003",
+    "NAT-004",
+    "IND-001",
+    "IND-002",
+    "IND-003",
+    "IND-004",
+    "EDT-001",
+    "EDT-002",
+    "EDT-003",
+    "EDT-004",
+    "MRF-001",
+    "MRF-002",
+    "MRF-003",
+    "MRF-004",
+    "CHR-001",
+    "CHR-002",
+    "CHR-003",
+    "CHR-004",
+    "MOG-001",
+    "MOG-002",
+    "MOG-003",
+    "MOG-004",
+    "SRL-001",
+    "SRL-002",
+    "SRL-003",
+    "SRL-004",
+    "VER-001",
+    "VER-002",
+    "VER-003",
+    "VER-004"
+  ],
+  "source_assets": [
+    "assets/hero-minimax-h3-video-prompts.webp",
+    "assets/gallery/modular-lunch-jar-kit.webp",
+    "assets/gallery/topographic-map-archive.webp",
+    "assets/gallery/radial-cork-speaker.webp",
+    "assets/gallery/clay-repair-robot.webp",
+    "assets/gallery/honest-desk-lamp-demo.webp",
+    "assets/gallery/rain-washed-canal-morning.webp",
+    "assets/gallery/paper-birds-storm-shelter.webp",
+    "assets/gallery/midnight-observatory-tea.webp",
+    "assets/gallery/indoor-climbing-final-hold.webp",
+    "assets/gallery/three-biome-museum-rail.webp",
+    "assets/gallery/dynamic-night-market-poster.webp"
+  ],
+  "inherited_files": [
+    {
+      "path": "assets/gallery/clay-repair-robot.webp",
+      "source_sha256": "f9e99c9304c758590e09fec469761b42952facf239bc3a260e3e91ee292ef512",
+      "accepted_sha256": "f9e99c9304c758590e09fec469761b42952facf239bc3a260e3e91ee292ef512",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "assets/gallery/dynamic-night-market-poster.webp",
+      "source_sha256": "19e952063c0d9c7d4a9c2ab20323e9f28bf3604dd826b45bf16d69f1cb990b7c",
+      "accepted_sha256": "19e952063c0d9c7d4a9c2ab20323e9f28bf3604dd826b45bf16d69f1cb990b7c",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "assets/gallery/honest-desk-lamp-demo.webp",
+      "source_sha256": "27d85385224bf1fe38072c3a0d067b35d9101664738e92626632225fe371f6b0",
+      "accepted_sha256": "27d85385224bf1fe38072c3a0d067b35d9101664738e92626632225fe371f6b0",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "assets/gallery/indoor-climbing-final-hold.webp",
+      "source_sha256": "1e0c85b9f12a08954d43fa348b3e36f632c8d68c5e81f8ceae3b06b1e030939c",
+      "accepted_sha256": "1e0c85b9f12a08954d43fa348b3e36f632c8d68c5e81f8ceae3b06b1e030939c",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "assets/gallery/midnight-observatory-tea.webp",
+      "source_sha256": "e213d9072030191ec95f50e5572b9a4d72b3f07edc1f3d8fd43e26d7e7ace7c8",
+      "accepted_sha256": "e213d9072030191ec95f50e5572b9a4d72b3f07edc1f3d8fd43e26d7e7ace7c8",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "assets/gallery/modular-lunch-jar-kit.webp",
+      "source_sha256": "085cd5b1094bb7848d628b7d6658ecb88aa3aeeebcabb1b8e63d317fd3c8e5c4",
+      "accepted_sha256": "085cd5b1094bb7848d628b7d6658ecb88aa3aeeebcabb1b8e63d317fd3c8e5c4",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "assets/gallery/paper-birds-storm-shelter.webp",
+      "source_sha256": "8ed7805a7e4783b65593e363c9a6d811dd07dfe0cbdcfa6e156992faf687d996",
+      "accepted_sha256": "8ed7805a7e4783b65593e363c9a6d811dd07dfe0cbdcfa6e156992faf687d996",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "assets/gallery/radial-cork-speaker.webp",
+      "source_sha256": "079f76ad15afe59eb7ddc54c071e01ccc806dd38212da0cf13b52695dc64a22f",
+      "accepted_sha256": "079f76ad15afe59eb7ddc54c071e01ccc806dd38212da0cf13b52695dc64a22f",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "assets/gallery/rain-washed-canal-morning.webp",
+      "source_sha256": "1a040dab3444051e5d704be5947a480066feef5eadf23185a22632f8a1af6284",
+      "accepted_sha256": "1a040dab3444051e5d704be5947a480066feef5eadf23185a22632f8a1af6284",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "assets/gallery/three-biome-museum-rail.webp",
+      "source_sha256": "121aae2040b678b61bb4311c20a4beca0362ef7acbbaa8de12d7f7eb673d8f89",
+      "accepted_sha256": "121aae2040b678b61bb4311c20a4beca0362ef7acbbaa8de12d7f7eb673d8f89",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "assets/gallery/topographic-map-archive.webp",
+      "source_sha256": "91c666a95aea903bcd8baf4429d4ea16100a2fa53aba70c08a261f548fe52451",
+      "accepted_sha256": "91c666a95aea903bcd8baf4429d4ea16100a2fa53aba70c08a261f548fe52451",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "assets/hero-minimax-h3-video-prompts.webp",
+      "source_sha256": "9ef6177b87264684fb4e7dd8ae9df39390e963729099119bee1504c0167a2eb1",
+      "accepted_sha256": "9ef6177b87264684fb4e7dd8ae9df39390e963729099119bee1504c0167a2eb1",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "docs/api-workflow.md",
+      "source_sha256": "b653daf487d8486b627abe826cd294f4f7f6e3179f7a876b388d4df7364e5697",
+      "accepted_sha256": "b653daf487d8486b627abe826cd294f4f7f6e3179f7a876b388d4df7364e5697",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "docs/deployment-guide.md",
+      "source_sha256": "fa91aaf41f1e6691e1015bb642758cfe2961200f7ec7b97374577f0ed01d607a",
+      "accepted_sha256": "fa91aaf41f1e6691e1015bb642758cfe2961200f7ec7b97374577f0ed01d607a",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "docs/minimax-h3-overview.md",
+      "source_sha256": "a18addd8d0d34dcebbfdd0a7fdb4025b40a5afacf2b61306f7938bd9248f7989",
+      "accepted_sha256": "a18addd8d0d34dcebbfdd0a7fdb4025b40a5afacf2b61306f7938bd9248f7989",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "docs/multilingual-prompting.md",
+      "source_sha256": "6b50e4f50be7e25245da30031e1ac841370c63f7848788ec7d1a8f09b251e7c3",
+      "accepted_sha256": "6b50e4f50be7e25245da30031e1ac841370c63f7848788ec7d1a8f09b251e7c3",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "docs/official-h3-examples.md",
+      "source_sha256": "2fbb79586da116015a7f81b6322ca8faffde9d787573173a926c6d8cb8f45295",
+      "accepted_sha256": "2fbb79586da116015a7f81b6322ca8faffde9d787573173a926c6d8cb8f45295",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "docs/prompting-guide.md",
+      "source_sha256": "45cade089ab8512ffc71c2ac0d143c04a1259b0c493960ef4ef4b9f3af93c49c",
+      "accepted_sha256": "45cade089ab8512ffc71c2ac0d143c04a1259b0c493960ef4ef4b9f3af93c49c",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "docs/use-case-matrix.md",
+      "source_sha256": "e9f8b812933818d349c87ff755aa833525f6c3fdf11b8f5f576ba4dcc89d243c",
+      "accepted_sha256": "e9f8b812933818d349c87ff755aa833525f6c3fdf11b8f5f576ba4dcc89d243c",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/01-brand-advertising.md",
+      "source_sha256": "392f5d48bb52d76c6a8e713b37b2836ee80df285bddb91f027b1b5a3492307c0",
+      "accepted_sha256": "392f5d48bb52d76c6a8e713b37b2836ee80df285bddb91f027b1b5a3492307c0",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/02-product-ecommerce.md",
+      "source_sha256": "2b640d397280a07dfc0ccfc3a0580667b11db60b4cb080a61f12e33fe8cbeb28",
+      "accepted_sha256": "2b640d397280a07dfc0ccfc3a0580667b11db60b4cb080a61f12e33fe8cbeb28",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/03-ugc-lifestyle.md",
+      "source_sha256": "a7b1954ffc5e7c88d715e1d2d8bb3ae1e7c770fe71d19e4fa82d4b342a1c8d90",
+      "accepted_sha256": "a7b1954ffc5e7c88d715e1d2d8bb3ae1e7c770fe71d19e4fa82d4b342a1c8d90",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/04-travel-hospitality.md",
+      "source_sha256": "db9e3ffe7f5d8c3cd9ba6d6681d143fe519f321bb469a51f3dd579a4d968b398",
+      "accepted_sha256": "db9e3ffe7f5d8c3cd9ba6d6681d143fe519f321bb469a51f3dd579a4d968b398",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/05-food-beverage.md",
+      "source_sha256": "f6ad2baff2392be450cc2f2262bbb9565e7bd1cbcc802bd20e7b87bd203de423",
+      "accepted_sha256": "f6ad2baff2392be450cc2f2262bbb9565e7bd1cbcc802bd20e7b87bd203de423",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/06-fashion-beauty.md",
+      "source_sha256": "587b8fbfe8b7ab39e2f532bd38202a32d1e7e5aa8ec686f5aaa15090efc71c37",
+      "accepted_sha256": "587b8fbfe8b7ab39e2f532bd38202a32d1e7e5aa8ec686f5aaa15090efc71c37",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/07-cinematic-storytelling.md",
+      "source_sha256": "6573829f273c267a326161d6aa40b0080f99169e1c0ab67297d5d9d8481b1d82",
+      "accepted_sha256": "6573829f273c267a326161d6aa40b0080f99169e1c0ab67297d5d9d8481b1d82",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/08-animation-stylized.md",
+      "source_sha256": "25acd8564acba2f99c79c087ffcd132213660f99e2e066a643962da7f3ce1711",
+      "accepted_sha256": "25acd8564acba2f99c79c087ffcd132213660f99e2e066a643962da7f3ce1711",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/09-action-sports.md",
+      "source_sha256": "f957d274671b32db00942d0f69c5444140cb1f8977c56de291f0a72fe8078ba7",
+      "accepted_sha256": "f957d274671b32db00942d0f69c5444140cb1f8977c56de291f0a72fe8078ba7",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/10-fantasy-scifi-vfx.md",
+      "source_sha256": "5cbf38e037a68d25fcb9cef0a36afad30f9c2b37126947243bed0504226f05b9",
+      "accepted_sha256": "5cbf38e037a68d25fcb9cef0a36afad30f9c2b37126947243bed0504226f05b9",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/11-ui-game-digital.md",
+      "source_sha256": "964f8957c712556033427d2c4decfa37041a5956d46e29f5155a7aaf4dff5f54",
+      "accepted_sha256": "964f8957c712556033427d2c4decfa37041a5956d46e29f5155a7aaf4dff5f54",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/12-transitions-comedy-social.md",
+      "source_sha256": "40824f9d5165381f556bbafcf3358897e28b926d8d79490ecea23c2919248512",
+      "accepted_sha256": "40824f9d5165381f556bbafcf3358897e28b926d8d79490ecea23c2919248512",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/13-music-performance-audio.md",
+      "source_sha256": "8a578ead8f09eebf48dbee77980b8b290eed284a3e8a6937760fa26bc1309eb2",
+      "accepted_sha256": "8a578ead8f09eebf48dbee77980b8b290eed284a3e8a6937760fa26bc1309eb2",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/14-education-documentary-science.md",
+      "source_sha256": "76f661e17f800a1079cec5157621297c6e8d7633c144319ec8c8e2c56a80957d",
+      "accepted_sha256": "76f661e17f800a1079cec5157621297c6e8d7633c144319ec8c8e2c56a80957d",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/15-architecture-interiors-real-estate.md",
+      "source_sha256": "8e563448f449014946c5c3e94317685e1759d4002821543daaba638e9251b99a",
+      "accepted_sha256": "8e563448f449014946c5c3e94317685e1759d4002821543daaba638e9251b99a",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/16-automotive-mobility.md",
+      "source_sha256": "d377d47b5d571947848386ea065c0c19f6520bee0d4e179f94fa2ebac2575c09",
+      "accepted_sha256": "d377d47b5d571947848386ea065c0c19f6520bee0d4e179f94fa2ebac2575c09",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/17-nature-animals-pets.md",
+      "source_sha256": "b3a64c25430b7ab77b2ca0427cf690a5dd0e3e2c134d76c0e8f802fa4aa3a5b5",
+      "accepted_sha256": "b3a64c25430b7ab77b2ca0427cf690a5dd0e3e2c134d76c0e8f802fa4aa3a5b5",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/18-industry-business-public-service.md",
+      "source_sha256": "758f2821b341af0dbd3224b345a5a5afb08bde0ec9355dee678257ee9545b106",
+      "accepted_sha256": "758f2821b341af0dbd3224b345a5a5afb08bde0ec9355dee678257ee9545b106",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/19-editing-continuation-localization.md",
+      "source_sha256": "79884d488ca2330dfee159e1ecce8f8507b80e829cb6aa63bcd64340eff9062e",
+      "accepted_sha256": "79884d488ca2330dfee159e1ecce8f8507b80e829cb6aa63bcd64340eff9062e",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/20-multireference-camera-transfer.md",
+      "source_sha256": "5d0627477085fbd0d5a35b35fcb9d415f78fdea56b0863ac100f3380733a51f4",
+      "accepted_sha256": "5d0627477085fbd0d5a35b35fcb9d415f78fdea56b0863ac100f3380733a51f4",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/21-character-dialogue-performance.md",
+      "source_sha256": "af08758ee24989a5ba66ba6c45df28f4255c8ce4d7cb9043ae0f0bd6b56b2523",
+      "accepted_sha256": "af08758ee24989a5ba66ba6c45df28f4255c8ce4d7cb9043ae0f0bd6b56b2523",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/22-motion-graphics-dynamic-posters.md",
+      "source_sha256": "04dae249419ecc2fd8d16affaa0df9bdf897a4c54484298d755bb36479406fce",
+      "accepted_sha256": "04dae249419ecc2fd8d16affaa0df9bdf897a4c54484298d755bb36479406fce",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/23-surreal-physics-optical-illusions.md",
+      "source_sha256": "f639ce4809de36c9f12e6ab7a1e82eec5f4b7b38ab1c04afc5eed328538f79e3",
+      "accepted_sha256": "f639ce4809de36c9f12e6ab7a1e82eec5f4b7b38ab1c04afc5eed328538f79e3",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "prompts/24-vertical-series-live-creator.md",
+      "source_sha256": "7d56704514dd37ec7a0e4069b94eb54f331237365fe5fc6b547e547e5a842d61",
+      "accepted_sha256": "7d56704514dd37ec7a0e4069b94eb54f331237365fe5fc6b547e547e5a842d61",
+      "adaptation": "unchanged"
+    },
+    {
+      "path": "templates/README.md",
+      "source_sha256": "1af0e627b7c19b9d0d5ba912cd35cf9977b3de0656abdb7f0e96616d1fcf896d",
+      "accepted_sha256": "1af0e627b7c19b9d0d5ba912cd35cf9977b3de0656abdb7f0e96616d1fcf896d",
+      "adaptation": "unchanged"
+    }
+  ]
+}
