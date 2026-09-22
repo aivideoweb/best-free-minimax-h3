@@ -108,23 +108,23 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 </table>
 
 <table>
-<tr><th>画面预览</th><th>案例与用法</th></tr>
+<tr><th colspan="2">街头美食：环境、制作与人物反应</th></tr>
 <tr><td width="50%"><a href="https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2085233539185061888/img/ZAkMSVzHz9ihLPyD.jpg" alt="街头美食：环境、制作与人物反应 — @nawalsehar" width="100%"></a></td>
-<td width="9999" valign="middle"><p><strong>街头美食：环境、制作与人物反应</strong><br><br><strong>学什么：</strong> 用环境全景、制作细节和试吃反应分担叙事。<br><br><a href="https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29">▶ 打开 MP4</a><br><br>@nawalsehar<br><a href="https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29">MP4</a> · <a href="https://x.com/nawalsehar/status/2085233880353915217">完整提示词</a> · <a href="./docs/x-community-showcase.md#xh3-012">解析与 5 秒改写</a></p></td></tr>
+<td width="9999" valign="middle"><p><strong>学什么：</strong> 用环境全景、制作细节和试吃反应分担叙事。<br><br><a href="https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29">▶ 打开 MP4</a><br><br>@nawalsehar<br><a href="https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29">MP4</a> · <a href="https://x.com/nawalsehar/status/2085233880353915217">完整提示词</a> · <a href="./docs/x-community-showcase.md#xh3-012">解析与 5 秒改写</a></p></td></tr>
 </table>
 
 **想换题材，可以这样延伸**
 
 <table>
-<tr><th>构图参考</th><th>可以怎么试</th></tr>
+<tr><th colspan="2"><a href="./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression">台灯：一次按键说明功能（英文进阶）</a></th></tr>
 <tr><td width="30%"><img src="./assets/gallery/honest-desk-lamp-demo.webp" alt="成人创作者演示折叠台灯" width="240"></td>
-<td width="9999" valign="middle"><p><strong><a href="./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression">台灯：一次按键说明功能（英文进阶）</a></strong><br><br>一次按键，灯亮起，最后停住。先检查灯具形状和开关动作，再添加广告字幕。<br><br><a href="https://ugcmaker.org/free-minimax-h3/">用 UGC Maker 试拍</a></p></td></tr>
+<td width="9999" valign="middle"><p>一次按键，灯亮起，最后停住。先检查灯具形状和开关动作，再添加广告字幕。<br><br><a href="https://ugcmaker.org/free-minimax-h3/">用 UGC Maker 试拍</a></p></td></tr>
 </table>
 
 <table>
-<tr><th>构图参考</th><th>可以怎么试</th></tr>
+<tr><th colspan="2"><a href="./prompts/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo">午餐罐：一次开盖展示结构（英文进阶）</a></th></tr>
 <tr><td width="30%"><img src="./assets/gallery/modular-lunch-jar-kit.webp" alt="包含五个组件的原创无品牌模块化午餐罐" width="240"></td>
-<td width="9999" valign="middle"><p><strong><a href="./prompts/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo">午餐罐：一次开盖展示结构（英文进阶）</a></strong><br><br>只拍一次开盖，展示内部结构。保持罐身、盖子和组件数量一致，避免同时拆装多个部件。<br><br><a href="https://ugcmaker.org/free-minimax-h3/">用 UGC Maker 试拍</a></p></td></tr>
+<td width="9999" valign="middle"><p>只拍一次开盖，展示内部结构。保持罐身、盖子和组件数量一致，避免同时拆装多个部件。<br><br><a href="https://ugcmaker.org/free-minimax-h3/">用 UGC Maker 试拍</a></p></td></tr>
 </table>
 
 **继续找同类题材：** [品牌与广告（英文）](./prompts/01-brand-advertising.md) · [产品与电商（英文）](./prompts/02-product-ecommerce.md) · [创作者演示与生活方式（英文）](./prompts/03-ugc-lifestyle.md) · [美食与饮料（英文）](./prompts/05-food-beverage.md) · [时尚与美妆（英文）](./prompts/06-fashion-beauty.md) · [竖屏系列与直播创作（英文）](./prompts/24-vertical-series-live-creator.md)
@@ -180,17 +180,17 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 </table>
 
 <table>
-<tr><th>画面预览</th><th>案例与用法</th></tr>
+<tr><th colspan="2">动态海报：逐步组装但不破坏版式</th></tr>
 <tr><td width="30%"><a href="https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg" alt="动态海报：逐步组装但不破坏版式 — @LudovicCreator" width="180"></a></td>
-<td width="9999" valign="middle"><p><strong>动态海报：逐步组装但不破坏版式</strong><br><br><strong>学什么：</strong> 图层依次进入，版式稳定后留出阅读时间。<br><br><a href="https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12">▶ 打开 MP4</a><br><br>@LudovicCreator<br><a href="https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12">MP4</a> · <a href="https://x.com/LudovicCreator/status/2083628879407632890">完整提示词</a> · <a href="./docs/x-community-showcase.md#xh3-014">解析与 5 秒改写</a></p></td></tr>
+<td width="9999" valign="middle"><p><strong>学什么：</strong> 图层依次进入，版式稳定后留出阅读时间。<br><br><a href="https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12">▶ 打开 MP4</a><br><br>@LudovicCreator<br><a href="https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12">MP4</a> · <a href="https://x.com/LudovicCreator/status/2083628879407632890">完整提示词</a> · <a href="./docs/x-community-showcase.md#xh3-014">解析与 5 秒改写</a></p></td></tr>
 </table>
 
 **想换题材，可以这样延伸**
 
 <table>
-<tr><th>构图参考</th><th>可以怎么试</th></tr>
+<tr><th colspan="2"><a href="./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat">海报：一层进入，其余不动（英文进阶）</a></th></tr>
 <tr><td width="30%"><img src="./assets/gallery/dynamic-night-market-poster.webp" alt="夜市纸拼贴海报，保留空白标题区" width="180"></td>
-<td width="9999" valign="middle"><p><strong><a href="./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat">海报：一层进入，其余不动（英文进阶）</a></strong><br><br>每次只让一个图层进入，其余版式不动。结尾停留，给观众留出读标题的时间。<br><br><a href="https://musicmaker.im/free-minimax-h3/">用 MusicMaker 试拍</a></p></td></tr>
+<td width="9999" valign="middle"><p>每次只让一个图层进入，其余版式不动。结尾停留，给观众留出读标题的时间。<br><br><a href="https://musicmaker.im/free-minimax-h3/">用 MusicMaker 试拍</a></p></td></tr>
 </table>
 
 **继续找同类题材：** [音乐、表演与声音驱动视频（英文）](./prompts/13-music-performance-audio.md) · [动态图形与动态海报（英文）](./prompts/22-motion-graphics-dynamic-posters.md)
@@ -295,12 +295,13 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 ### 案例与延伸
 
 <table>
+<tr><th colspan="2">角色登场：从局部揭示到完整轮廓</th></tr>
 <tr>
 <td width="50%">
 <a href="https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg" alt="角色登场：从局部揭示到完整轮廓 — @aimikoda" width="100%"></a>
 </td>
 <td width="9999" valign="middle">
-<p><strong>角色登场：从局部揭示到完整轮廓</strong><br><br><strong>学什么：</strong> 用同一角色参考图衔接细节、全身和表情。<br><br><a href="https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29">▶ 打开 MP4</a><br><br>@aimikoda<br><a href="https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29">MP4</a> · <a href="https://x.com/aimikoda/status/2086412223061135392">完整提示词</a> · <a href="./docs/x-community-showcase.md#xh3-003">解析与 5 秒改写</a></p>
+<p><strong>学什么：</strong> 用同一角色参考图衔接细节、全身和表情。<br><br><a href="https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29">▶ 打开 MP4</a><br><br>@aimikoda<br><a href="https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29">MP4</a> · <a href="https://x.com/aimikoda/status/2086412223061135392">完整提示词</a> · <a href="./docs/x-community-showcase.md#xh3-003">解析与 5 秒改写</a></p>
 </td>
 </tr>
 </table>
@@ -373,9 +374,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 下面游戏界面案例值得借鉴的是：按状态变化逐步讲清过程。将这种写法用于课程时，一段只引出一个讲解步骤。
 
 <table>
-<tr><th>画面预览</th><th>案例与用法</th></tr>
+<tr><th colspan="2">游戏界面：让回合过程清楚可读</th></tr>
 <tr><td width="50%"><a href="https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg" alt="游戏界面：让回合过程清楚可读 — @AllaAisling" width="100%"></a></td>
-<td width="9999" valign="middle"><p><strong>游戏界面：让回合过程清楚可读</strong><br><br><strong>学什么：</strong> 逐步呈现界面状态，检查图层是否跟随画面漂移。<br><br><a href="https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29">▶ 打开 MP4</a><br><br>@AllaAisling<br><a href="https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29">MP4</a> · <a href="https://x.com/AllaAisling/status/2082909383424446745">完整提示词</a> · <a href="./docs/x-community-showcase.md#xh3-011">解析与 5 秒改写</a></p></td></tr>
+<td width="9999" valign="middle"><p><strong>学什么：</strong> 逐步呈现界面状态，检查图层是否跟随画面漂移。<br><br><a href="https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29">▶ 打开 MP4</a><br><br>@AllaAisling<br><a href="https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29">MP4</a> · <a href="https://x.com/AllaAisling/status/2082909383424446745">完整提示词</a> · <a href="./docs/x-community-showcase.md#xh3-011">解析与 5 秒改写</a></p></td></tr>
 </table>
 
 **继续找同类题材：** [界面、游戏与数字体验（英文）](./prompts/11-ui-game-digital.md) · [教育、纪录与科学（英文）](./prompts/14-education-documentary-science.md) · [自然、动物与宠物（英文）](./prompts/17-nature-animals-pets.md) · [工业、商业与公共服务（英文）](./prompts/18-industry-business-public-service.md)
@@ -424,9 +425,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 ### 案例与延伸
 
 <table>
-<tr><th>画面预览</th><th>案例与用法</th></tr>
+<tr><th colspan="2">日常影像与不可能事件：值得研究的偏差</th></tr>
 <tr><td width="50%"><a href="https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2086878515744669696/img/-jjYBSEiZo_2M_eS.jpg" alt="日常影像与不可能事件：值得研究的偏差 — @cocktailpeanut" width="100%"></a></td>
-<td width="9999" valign="middle"><p><strong>日常影像与不可能事件：值得研究的偏差</strong><br><br><strong>学什么：</strong> 比较日常铺垫与意外事件，也检查结果是否符合提示词。<br><br><a href="https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29">▶ 打开 MP4</a><br><br>@cocktailpeanut<br><a href="https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29">MP4</a> · <a href="https://x.com/cocktailpeanut/status/2086879654116495564">完整提示词</a> · <a href="./docs/x-community-showcase.md#xh3-006">解析与 5 秒改写</a></p></td></tr>
+<td width="9999" valign="middle"><p><strong>学什么：</strong> 比较日常铺垫与意外事件，也检查结果是否符合提示词。<br><br><a href="https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29">▶ 打开 MP4</a><br><br>@cocktailpeanut<br><a href="https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29">MP4</a> · <a href="https://x.com/cocktailpeanut/status/2086879654116495564">完整提示词</a> · <a href="./docs/x-community-showcase.md#xh3-006">解析与 5 秒改写</a></p></td></tr>
 </table>
 
 **继续找同类题材：** [奇幻、科幻与视觉特效（英文）](./prompts/10-fantasy-scifi-vfx.md) · [建筑、室内与房地产（英文）](./prompts/15-architecture-interiors-real-estate.md) · [超现实物理与视觉错觉（英文）](./prompts/23-surreal-physics-optical-illusions.md)
