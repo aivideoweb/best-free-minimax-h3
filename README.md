@@ -233,9 +233,9 @@ Fixed medium shot; unchanged identity and button position. No walking, speech or
 
 [Try this in SeeVido](https://seevido.com/free-minimax-h3/)
 
-**Inspect and change one thing:** Face, wardrobe and hands, clear reaction order, and a full listening check if dialogue is used. Reduce the turn to “almost still, only a tiny tilt toward the button.” If identity still drifts, trial the character holding still before adding motion.
+**Inspect and change one thing:** Check that the yellow square head, black bead eyes, blue pouch and button position stay consistent, and that the ping comes before the head turn. Reduce the turn to “almost still, only a tiny tilt toward the button.” If identity still drifts, trial the character holding still before adding motion.
 
-**Build on the usable shot:** Build a short story from this single reaction: hold briefly, keep the head turn, then freeze the ending. If a falling-button opener is needed, generate a separate close-up containing only the bench and button, avoiding a second mismatched robot.
+**Build on the usable shot:** Build a short story from this single reaction: hold briefly, keep the head turn, then freeze the ending. If a falling-button opener is needed, generate a separate close-up containing only the bench and button. Keep one landing sound, cut to the head turn, and remove the reaction clip’s duplicate ping; carry continuous ambience across the cut.
 
 **Optional support:** [Fylia AI](https://fylia.ai/free-minimax-h3/) — Alternative starting point for illustration; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate a missing scene transition
 

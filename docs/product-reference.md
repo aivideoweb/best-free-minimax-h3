@@ -36,6 +36,12 @@ This template has not been generation-tested. Inspect the beginning, middle and 
 
 Prefer trimming opening, action and ending from one usable clip before generating more shots. For a new angle, prepare its matching endpoint pair and compare appearance and lighting across takes.
 
-For identity references, separate product and setting controls, camera-reference video or audio-driven rhythm, read the input requirements in the [advanced prompt library](../prompts/README.md) and choose a compatible workflow. Do not paste a multi-reference brief into a form with only two endpoint slots.
+For identity references, separate product and setting controls, camera-reference video or audio-driven rhythm, first check the inputs in the [advanced prompt library](../prompts/README.md), then choose a route:
+
+- **Understand the input modes:** Read the [model capability and input overview](./minimax-h3-overview.md) to distinguish endpoint guidance from multiple references.
+- **Work with a developer:** Follow the [API workflow](./api-workflow.md) and its official documentation links to check whether the current endpoint accepts the images, video and audio your example needs.
+- **Run locally:** Start with the [deployment guide](./deployment-guide.md#english-deployment-reference). Check the checkpoint, input types and hardware requirements before setting up the runtime.
+
+The last two routes require technical setup; they do not describe features included in the free tool pages. A form with only two endpoint slots cannot directly accept a multi-reference brief.
 
 [Make a tea-ad concept step by step](./commerce-three-shots.md) · [Free-form walkthrough](./first-clip.md)
