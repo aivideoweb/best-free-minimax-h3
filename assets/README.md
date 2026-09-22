@@ -75,3 +75,8 @@ Return to the [main README](../README.md) or the [84-prompt library](../prompts/
 The `videoweb-free-h3.svg` banner and 13 cards under `tools/` are new vector navigation artwork for this directory. They are not screenshots, official logos, model benchmarks or generated video results. The source image files retain their original briefs and attribution. See [provenance](../docs/provenance.md).
 
 `videoweb-free-form.jpg` is an unedited browser screenshot of the public VideoWeb free form, captured 2026-09-22 after closing a promotional popup. No personal account data or generated output is shown. Site appearance belongs to VideoWeb; this is an interface reference, not a new generated scene.
+
+
+## Cinematic homepage hero
+
+`videoweb-free-h3-cinematic.png` replaces the original vector banner on all eight README entry pages. Created on 2026-09-22 using the built-in image generation tool, with the [full generation prompt](./videoweb-hero-prompt.txt). The 2172 × 724 artwork combines product, character and music scenes with VideoWeb branding. It is an editorial illustration, not a MiniMax H3 output, tool screenshot or performance example. The older SVG is retained as an unused previous design.

@@ -86,7 +86,7 @@ for page in readmes:
         require(phrase in text, f'{page.name}: missing verified relationship/status statement: {phrase}')
     require('https://videoweb.ai/affiliate-program/' in text, f'{page.name}: missing affiliate link')
     require('https://flaq.ai/affiliate-program/' not in text, f'{page.name}: wrong affiliate brand')
-    require('assets/videoweb-free-h3.svg' in text, f'{page.name}: missing branded hero')
+    require('assets/videoweb-free-h3-cinematic.png' in text, f'{page.name}: missing branded hero')
     require('docs/free-tool-prompts.md' in text and 'docs/x-community-showcase.md' in text, f'{page.name}: missing learning routes')
     affiliate_sections = [s for s in text.split('\n## ') if affiliate['program_url'] in s]
     require(len(affiliate_sections) == 1, f'{page.name}: affiliate section missing or duplicated')

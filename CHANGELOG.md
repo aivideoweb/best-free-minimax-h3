@@ -2,6 +2,8 @@
 
 ## 2026-09-22
 
+- Replaced the card-style hero with a cinematic generated banner across all eight README pages; retained the original artwork and documented the new image prompt and provenance.
+
 - Reorganized the English and Chinese homepages around six application workflows with one default starting tool, optional support/pickup tools, shared trial guidance, task-specific review criteria and inline practices. Kept the 13-tool inventory as a secondary reference and retained all visual galleries. Role assignments are editorial, not tested performance differences; AITryOn remains page-verified and generation-untested.
 
 - Expanded the English and Chinese homepages: 3 official motion previews, all 15 X cases with direct video/prompt links and learning notes, 24 category rows, 11 gallery images, 4 short practices and a complete attributed BRD-001 recipe. Tool rows now explain concrete uses and link directly to their practices. Added offline checks to preserve inline homepage coverage.

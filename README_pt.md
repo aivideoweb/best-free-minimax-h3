@@ -1,6 +1,6 @@
 # Ferramentas gratuitas de MiniMax H3
 
-![VideoWeb AI — Free H3](./assets/videoweb-free-h3.svg)
+![VideoWeb AI — Free H3](./assets/videoweb-free-h3-cinematic.png)
 
 [English](./README.md) · [简体中文](./README_zh.md) · [日本語](./README_ja.md) · [한국어](./README_ko.md) · [Español](./README_es.md) · [Français](./README_fr.md) · [Deutsch](./README_de.md) · [Português](./README_pt.md)
 
