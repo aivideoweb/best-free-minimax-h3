@@ -138,6 +138,20 @@ for entry in entries:
     require('source_text_sha256' in entry and 'inherited_frame_review_source' in entry, f'{entry["id"]}: missing provenance')
     require('no new full playback' in entry['verification'], f'{entry["id"]}: unclear current verification limits')
 
+# Keep the full visual browse path on both primary homepages.
+for filename in ['README.md', 'README_zh.md']:
+    home = (ROOT / filename).read_text()
+    for entry in entries:
+        require(f']({entry["thumbnail_url"]})' in home, f'{filename}: missing inline case preview {entry["id"]}')
+        for field in ['video_url', 'prompt_url']:
+            require(entry[field] in home, f'{filename}: missing direct {field} for {entry["id"]}')
+    for path in ROOT.glob('prompts/[0-9]*.md'):
+        require(f'./prompts/{path.name}' in home, f'{filename}: missing category {path.name}')
+    for path in ROOT.glob('assets/gallery/*.webp'):
+        require(f'](./assets/gallery/{path.name})' in home, f'{filename}: missing inline reference {path.name}')
+    require(home.count('```text\n') >= 4, f'{filename}: missing copy-ready homepage practice')
+    require(home.count('.gif)](') >= 3, f'{filename}: missing official motion previews')
+
 for svg in ROOT.rglob('*.svg'):
     try:
         ElementTree.parse(svg)
