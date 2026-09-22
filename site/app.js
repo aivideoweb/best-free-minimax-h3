@@ -150,6 +150,7 @@ function render() {
     const card = el("article", null, "card"),
       button = el("button", null, "preview");
     button.type = "button";
+    button.dataset.caseId = entry.id;
     button.setAttribute("aria-label", t("播放：", "Play: ") + title(entry));
     const img = el("img");
     img.src = entry.thumbnail_url;
@@ -185,6 +186,15 @@ fetch("cases.json")
   .then((value) => {
     data = value;
     render();
+    const requestedCase = new URLSearchParams(location.search).get("case");
+    const entry = data.entries.find((item) => item.id === requestedCase);
+    if (entry) {
+      const button = Array.from(document.querySelectorAll(".preview")).find(
+        (item) => item.dataset.caseId === entry.id,
+      );
+      button.scrollIntoView({ block: "center" });
+      openPlayer(entry, button);
+    }
   })
   .catch(() => {
     $("status").textContent = t(

@@ -6,6 +6,10 @@
 
 The gallery includes 15 videos, six workflow filters and Chinese/English switching. Click a preview to open the player; Escape, the close button or the backdrop closes it and stops playback.
 
+README 中的案例图片直接打开对应播放器。例如，`?lang=zh&case=XH3-002` 打开中文耳机广告案例；`lang=en` 使用英文。浏览器若限制自动播放，点击播放器内的播放按钮即可。
+
+README case previews link directly to the corresponding player with `?lang=en&case=XH3-002`. If autoplay is blocked, press play in the video controls.
+
 ## 发布与更新 / Publishing and updates
 
 页面托管在 [BoogeyYagaa/minimax-h3-video-gallery](https://github.com/BoogeyYagaa/minimax-h3-video-gallery)，源码与案例仍由本仓库维护。
