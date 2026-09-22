@@ -12,3 +12,4 @@ jobs:
           python-version: '3.12'
       - run: python scripts/check_content.py
       - run: python scripts/test_content.py
+      - run: python scripts/build_mobile_readme.py --check
