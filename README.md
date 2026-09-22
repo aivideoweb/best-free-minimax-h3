@@ -49,17 +49,21 @@ Each route follows **reference → lesson → copy and try → inspect and revis
 
 [See the form and step-by-step guide](./docs/first-clip.md). You can also compare two prompt versions in [Flaq AI](https://flaq.ai/free-minimax-h3/) using the same settings. Note the picture, sound and download results, or start directly in your chosen tool.
 
-Each workflow includes composition references, a prompt to copy and creator videos to learn from. The art illustrates a visual idea and the videos demonstrate techniques; neither shows tested results from the free tools below. Break longer examples into individual shots for practice. Advanced examples need additional duration or inputs; use them to study production methods, and use the five-second exercises in the free forms.
+Reference art teaches composition and creator videos demonstrate techniques; neither shows tested results from these free tools. Use the **five-second exercises** in the free forms. For longer scenes or multiple references, follow the input requirements beside each **advanced example**.
 
 <a id="workflow-commerce"></a>
 
-### Commerce and creator ads
+<a id="commerce-and-creator-ads"></a>
+
+## 1. Commerce and creator ads
 
 Product demonstrations and ad openings for sellers and creators.
 
 ![Fictional tea bottle in a mountaintop observatory, composition reference](./assets/gallery/midnight-observatory-tea.webp)
 
 **From reference to your own shot:** Starlight, condensation and dawn can bring out the texture of a glass tea bottle. Keep only light passing across the bottle for the free trial: preserve its silhouette and space for copy to make one product shot for the edit. [Advanced example (12–15s, multiple references)](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch)
+
+### Try the shot
 
 **Primary tool:** [UGC Maker](https://ugcmaker.org/free-minimax-h3/) — Begin with one product reveal before adding creator reactions or speech.
 
@@ -79,20 +83,21 @@ Reuse this structure to explore your product concept: **bottle** is the subject,
 
 [Try this in UGC Maker](https://ugcmaker.org/free-minimax-h3/)
 
-**Inspect and change one thing:** Check bottle and cap geometry, continuous light and usable copy space above. Replace the observatory with a plain background, leaving other instructions unchanged. Restore the setting after bottle geometry holds.
+### Inspect and edit
 
-**Build on the usable shot:** Edit this single generation into three beats: a 1-second opening freeze, about 3 seconds of light movement and a 2-second ending freeze. All use the same file; generate a separate establishing shot only if needed. [Timeline, insert prompt and editing steps](./docs/commerce-three-shots.md)
+**Check and revise:** Check bottle and cap geometry, continuous light and usable copy space above. Replace the observatory with a plain background, leaving other instructions unchanged. Restore the setting after bottle geometry holds.
 
-**Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Explore an alternate product composition; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate one transition shot; assemble it in an editor
+**Editing plan:** Edit this single generation into three beats: a 1-second opening freeze, about 3 seconds of light movement and a 2-second ending freeze. All use the same file; generate a separate establishing shot only if needed. [Timeline, insert prompt and editing steps](./docs/commerce-three-shots.md)
 
-**Optional pickup shots:** [Flyne AI](https://flyne.ai/free-minimax-h3/) — Use when a product reveal is missing; [SeeVido](https://seevido.com/free-minimax-h3/) — Use when a reaction shot is missing; [AITryOn](https://aitryon.art/free-minimax-h3/) — Use for missing fabric-motion shots in apparel ads
+- **Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Explore an alternate product composition; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate one transition shot; assemble it in an editor
+- **Optional pickup shots:** [Flyne AI](https://flyne.ai/free-minimax-h3/) — Use when a product reveal is missing; [SeeVido](https://seevido.com/free-minimax-h3/) — Use when a reaction shot is missing; [AITryOn](https://aitryon.art/free-minimax-h3/) — Use for missing fabric-motion shots in apparel ads
 
-**See how creators approach it**
+### Examples and variations
 
 | Headphone commercial: macro to exploded view | Skincare campaign: night-to-morning continuity | Street-food vlog: place, preparation and reaction |
 | --- | --- | --- |
 | [![Headphone commercial: macro to exploded view — @LudovicCreator](https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg)](https://x.com/LudovicCreator/status/2082783319075291312/video/1) | [![Skincare campaign: night-to-morning continuity — @AIwithJessica](https://pbs.twimg.com/amplify_video_thumb/2083012032279064576/img/QvG1RJ-3ZOfkL6S9.jpg)](https://x.com/AIwithJessica/status/2083013658230317082/video/1) | [![Street-food vlog: place, preparation and reaction — @nawalsehar](https://pbs.twimg.com/amplify_video_thumb/2085233539185061888/img/ZAkMSVzHz9ihLPyD.jpg)](https://x.com/nawalsehar/status/2085233880353915217/video/1) |
-| **Learn:** Four timed sections connect material detail, a rotating product, separated components and reassembly. The geometry constraints make this useful for studying product continuity. | **Learn:** Track one product and person across changes in lighting, shot size and location; compare the final product frame with its earlier appearance. | **Learn:** Compare wide location context, preparation detail and the tasting reaction; these serve different storytelling purposes. |
+| **Learn:** Keep product geometry consistent through macro, rotation, separation and reassembly. | **Learn:** Compare person and product continuity across lighting and location changes. | **Learn:** Give setting, preparation and tasting reactions distinct storytelling roles. |
 | @LudovicCreator · [MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) · [Full prompt](https://x.com/LudovicCreator/status/2082783319075291312) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-002) | @AIwithJessica · [MP4](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29) · [Full prompt](https://x.com/AIwithJessica/status/2083013658230317082) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-008) | @nawalsehar · [MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) · [Full prompt](https://x.com/nawalsehar/status/2085233880353915217) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-012) |
 
 **Try another subject next**
@@ -107,13 +112,17 @@ Reuse this structure to explore your product concept: **bottle** is the subject,
 
 <a id="workflow-music"></a>
 
-### Music and release teasers
+<a id="music-and-release-teasers"></a>
+
+## 2. Music and release teasers
 
 Animated cover concepts and teaser visuals for musicians and cover designers.
 
 ![Graphite-and-cork portable speaker, composition reference](./assets/gallery/radial-cork-speaker.webp)
 
 **From reference to your own shot:** The speaker example shows how an orbit can reveal shape and material. Adapt it into a teaser background: make one restrained orbit, then add your own track and title in editing. [Advanced example (12s, camera-video reference)](./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content)
+
+### Try the shot
 
 **Primary tool:** [MusicMaker](https://musicmaker.im/free-minimax-h3/) — Make a visual bed for a track first, then control musical timing in editing.
 
@@ -131,21 +140,26 @@ Room ambience only; no generated song, lyrics or text.
 
 [Try this in MusicMaker](https://musicmaker.im/free-minimax-h3/)
 
-**Inspect and change one thing:** Check speaker silhouette, material stability and a steady orbit; verify titles, captions and beat timing in editing. If the orbit deforms the speaker, lock the camera and change only the light; add a small camera move after its shape holds.
+### Inspect and edit
 
-**Build on the usable shot:** Use this one generation for three beats: a 1-second opening freeze, about 3 seconds of orbit and a 2-second final freeze. Do not generate three times. Add your track, adjust cuts and overlay the title and release date.
+**Check and revise:** Check speaker silhouette, material stability and a steady orbit; verify titles, captions and beat timing in editing. If the orbit deforms the speaker, lock the camera and change only the light; add a small camera move after its shape holds.
 
-**Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Explore a different cover composition; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate a missing visual transition
+**Editing plan:** Use this one generation for three beats: a 1-second opening freeze, about 3 seconds of orbit and a 2-second final freeze. Do not generate three times. Add your track, adjust cuts and overlay the title and release date.
 
-**Optional pickup shots:** [SeaImagine](https://seaimagine.com/free-minimax-h3/) — Add spatial or lighting atmosphere; [Fylia AI](https://fylia.ai/free-minimax-h3/) — Add restrained illustrated or character motion
+- **Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Explore a different cover composition; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate a missing visual transition
+- **Optional pickup shots:** [SeaImagine](https://seaimagine.com/free-minimax-h3/) — Add spatial or lighting atmosphere; [Fylia AI](https://fylia.ai/free-minimax-h3/) — Add restrained illustrated or character motion
 
-**See how creators approach it**
+### Examples and variations
 
-| Kinetic typography: a quote becomes a story | Beat-driven western title sequence | Motion poster: assemble a layout without losing it |
-| --- | --- | --- |
-| [![Kinetic typography: a quote becomes a story — @umesh_ai](https://pbs.twimg.com/amplify_video_thumb/2083909175646785536/img/jQZFhoydpvrJNuCW.jpg)](https://x.com/umesh_ai/status/2083909535593644291/video/1) | [![Beat-driven western title sequence — @doctorwasif](https://pbs.twimg.com/amplify_video_thumb/2085599599801077760/img/koDdEvAQb0L9RUpH.jpg)](https://x.com/doctorwasif/status/2085599659326935100/video/1) | [![Motion poster: assemble a layout without losing it — @LudovicCreator](https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg)](https://x.com/LudovicCreator/status/2083628852165672988/video/1) |
-| **Learn:** The brief assigns successive phrases their own timing, visual scale and transition. Finish with a readable hold rather than continuous motion. | **Learn:** Study how held poses alternate with short action bursts, with titles reserved for strong musical accents. | **Learn:** Treat the poster as layered components that enter in a deliberate order, then settle long enough to read. Preserve hierarchy rather than filling every region with movement. |
-| @umesh_ai · [MP4](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29) · [Full prompt](https://x.com/umesh_ai/status/2083909535593644291) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-001) | @doctorwasif · [MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) · [Full prompt](https://x.com/doctorwasif/status/2085599659326935100) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-007) | @LudovicCreator · [MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) · [Full prompt](https://x.com/LudovicCreator/status/2083628879407632890) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-014) |
+| Kinetic typography: a quote becomes a story | Beat-driven western title sequence |
+| --- | --- |
+| [![Kinetic typography: a quote becomes a story — @umesh_ai](https://pbs.twimg.com/amplify_video_thumb/2083909175646785536/img/jQZFhoydpvrJNuCW.jpg)](https://x.com/umesh_ai/status/2083909535593644291/video/1) | [![Beat-driven western title sequence — @doctorwasif](https://pbs.twimg.com/amplify_video_thumb/2085599599801077760/img/koDdEvAQb0L9RUpH.jpg)](https://x.com/doctorwasif/status/2085599659326935100/video/1) |
+| **Learn:** Time each phrase and hold the ending long enough to read. | **Learn:** Alternate held poses with short actions; place titles on strong beats. |
+| @umesh_ai · [MP4](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29) · [Full prompt](https://x.com/umesh_ai/status/2083909535593644291) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-001) | @doctorwasif · [MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) · [Full prompt](https://x.com/doctorwasif/status/2085599659326935100) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-007) |
+
+| Video preview | What to study |
+| --- | --- |
+| [<img src="https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg" alt="Motion poster: assemble a layout without losing it — @LudovicCreator" width="240">](https://x.com/LudovicCreator/status/2083628852165672988/video/1) | **Motion poster: assemble a layout without losing it**<br><br>**Learn:** Bring layers in sequentially, then hold the finished layout for reading.<br><br>@LudovicCreator · [MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) · [Full prompt](https://x.com/LudovicCreator/status/2083628879407632890) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-014) |
 
 **Try another subject next**
 
@@ -159,13 +173,17 @@ Room ambience only; no generated song, lyrics or text.
 
 <a id="workflow-storyboard"></a>
 
-### Cinematic storyboards
+<a id="cinematic-storyboards"></a>
+
+## 3. Cinematic storyboards
 
 Opening, entrance, camera and transition studies for directors and storyboard artists.
 
 ![Rain-washed canal, stone bridge and parked bicycle, composition reference](./assets/gallery/rain-washed-canal-morning.webp)
 
 **From reference to your own shot:** A canal after rain makes a useful establishing shot. Keep one move along the bank toward the bridge: explicit start and end positions make spatial continuity easier to inspect than several camera moves at once. [Advanced example (12–15s, location images)](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning)
+
+### Try the shot
 
 **Primary tool:** [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) — Start with the VideoWeb single-shot practice; VO4 is an alternative for a moving subject, not a required second stage.
 
@@ -182,20 +200,21 @@ Keep the bridge and bank fixed, bicycle still. Soft water; no cuts, speech or te
 
 [Try this in VideoWeb AI](https://videoweb.ai/free-minimax-h3/)
 
-**Inspect and change one thing:** Check bridge and bank geometry, consistent travel direction and a usable ending. If the bridge bends or the bank jumps, shorten the camera move before adding a cyclist or turn.
+### Inspect and edit
 
-**Build on the usable shot:** Use this take as the establishing storyboard. For a character entrance, generate a separate bridge-side shot, reusing location, light, camera height and travel direction. Compare bridge and bank geometry before cutting them together.
+**Check and revise:** Check bridge and bank geometry, consistent travel direction and a usable ending. If the bridge bends or the bank jumps, shorten the camera move before adding a cyclist or turn.
 
-**Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Explore a composition alternative; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate a transition between storyboard beats
+**Editing plan:** Use this take as the establishing storyboard. For a character entrance, generate a separate bridge-side shot, reusing location, light, camera height and travel direction. Compare bridge and bank geometry before cutting them together.
 
-**Optional pickup shots:** [VO4](https://vo4.org/free-minimax-h3/) — Use for a missing moving-subject tracking shot
+- **Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Explore a composition alternative; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate a transition between storyboard beats
+- **Optional pickup shots:** [VO4](https://vo4.org/free-minimax-h3/) — Use for a missing moving-subject tracking shot
 
-**See how creators approach it**
+### Examples and variations
 
 | Cliffside chase: one continuous camera path | Swimming sequence: distinguish four motion patterns |
 | --- | --- |
 | [![Cliffside chase: one continuous camera path — @umesh_ai](https://pbs.twimg.com/amplify_video_thumb/2082499279680405504/img/sccNuuy1xWEtEzVo.jpg)](https://x.com/umesh_ai/status/2082499539735588916/video/1) | [![Swimming sequence: distinguish four motion patterns — @johnAGI168](https://pbs.twimg.com/amplify_video_thumb/2082798728948125696/img/cgvj4miYM0jtq8zu.jpg)](https://x.com/johnAGI168/status/2082798969499832514/video/1) |
-| **Learn:** Study how obstacles motivate reframing while the moving subject supplies a continuous point of attention. The ending shifts from pursuit to a wide reveal. | **Learn:** Use this as a motion-clarity study: inspect transitions and whether each action remains recognizable at the allotted speed. |
+| **Learn:** Let obstacles motivate camera movement while keeping the chase path clear. | **Learn:** Check that each swimming stroke remains recognizable through transitions. |
 | @umesh_ai · [MP4](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29) · [Full prompt](https://x.com/umesh_ai/status/2082499539735588916) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-013) | @johnAGI168 · [MP4](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29) · [Full prompt](https://x.com/johnAGI168/status/2082798969499832514) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-010) |
 
 **Try another subject next**
@@ -210,13 +229,17 @@ Keep the bridge and bank fixed, bicycle still. Soft water; no cuts, speech or te
 
 <a id="workflow-story"></a>
 
-### Social character stories
+<a id="social-character-stories"></a>
+
+## 4. Social character stories
 
 Character reactions and short-drama concepts for social and short-film creators.
 
 ![Yellow clay repair robot on a miniature workbench, composition reference](./assets/gallery/clay-repair-robot.webp)
 
 **From reference to your own shot:** A robot finding, lifting and storing a button makes a small story. Start with “hear a ping, turn and notice”: the order of a reaction can tell a story without fitting the whole plot into one generation. [Advanced example (12s, character and motion references)](./prompts/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button)
+
+### Try the shot
 
 **Primary tool:** [SeeVido](https://seevido.com/free-minimax-h3/) — Start with one character reaction; use Fylia as an illustrated-style alternative, avoiding simultaneous identity and style changes.
 
@@ -233,26 +256,31 @@ Fixed medium shot; unchanged identity and button position. No walking, speech or
 
 [Try this in SeeVido](https://seevido.com/free-minimax-h3/)
 
-**Inspect and change one thing:** Check that the yellow square head, black bead eyes, blue pouch and button position stay consistent, and that the ping comes before the head turn. Reduce the turn to “almost still, only a tiny tilt toward the button.” If identity still drifts, trial the character holding still before adding motion.
+### Inspect and edit
 
-**Build on the usable shot:** Build a short story from this single reaction: hold briefly, keep the head turn, then freeze the ending. If a falling-button opener is needed, generate a separate close-up containing only the bench and button. Keep one landing sound, cut to the head turn, and remove the reaction clip’s duplicate ping; carry continuous ambience across the cut.
+**Check and revise:** Check that the yellow square head, black bead eyes, blue pouch and button position stay consistent, and that the ping comes before the head turn. Reduce the turn to “almost still, only a tiny tilt toward the button.” If identity still drifts, trial the character holding still before adding motion.
 
-**Optional support:** [Fylia AI](https://fylia.ai/free-minimax-h3/) — Alternative starting point for illustration; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate a missing scene transition
+**Editing plan:** Build a short story from this single reaction: hold briefly, keep the head turn, then freeze the ending. If a falling-button opener is needed, generate a separate close-up containing only the bench and button. Keep one landing sound, cut to the head turn, and remove the reaction clip’s duplicate ping; carry continuous ambience across the cut.
 
-**Optional pickup shots:** [UGC Maker](https://ugcmaker.org/free-minimax-h3/) — Add a product-use action; [Flyne AI](https://flyne.ai/free-minimax-h3/) — Add an isolated product reveal
+- **Optional support:** [Fylia AI](https://fylia.ai/free-minimax-h3/) — Alternative starting point for illustration; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate a missing scene transition
+- **Optional pickup shots:** [UGC Maker](https://ugcmaker.org/free-minimax-h3/) — Add a product-use action; [Flyne AI](https://flyne.ai/free-minimax-h3/) — Add an isolated product reveal
 
-**See how creators approach it**
+### Examples and variations
 
-| Character entrance: detail to full silhouette | Blue-studio fashion: three references in one scene | Bamboo-forest mystery: tension through close-ups |
-| --- | --- | --- |
-| [![Character entrance: detail to full silhouette — @aimikoda](https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg)](https://x.com/aimikoda/status/2086412223061135392/video/1) | [![Blue-studio fashion: three references in one scene — @egeberkina](https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg)](https://x.com/egeberkina/status/2083301476206588086/video/1) | [![Bamboo-forest mystery: tension through close-ups — @sipteaandcoffee](https://pbs.twimg.com/amplify_video_thumb/2083131917797556224/img/7PDZpzJGurMtyH6Q.jpg)](https://x.com/sipteaandcoffee/status/2083132770650571041/video/1) |
-| **Learn:** A single identity reference anchors a progression from a small detail to body, expression and full silhouette. Reproduction requires a suitable character reference. | **Learn:** The prompt gives each reference a distinct actor and combines choreography with graphic overlays. Identity assets are required; the text alone is not a complete reproduction package. | **Learn:** Color, depth, lighting and shot/reverse-shot coverage carry the drama. The prompt constrains the period setting without supplying a timed dialogue script. |
-| @aimikoda · [MP4](https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29) · [Full prompt](https://x.com/aimikoda/status/2086412223061135392) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-003) | @egeberkina · [MP4](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29) · [Full prompt](https://x.com/egeberkina/status/2083301476206588086) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-004) | @sipteaandcoffee · [MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) · [Full prompt](https://x.com/sipteaandcoffee/status/2083132770650571041) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-005) |
+| Blue-studio fashion: three references in one scene | Bamboo-forest mystery: tension through close-ups |
+| --- | --- |
+| [![Blue-studio fashion: three references in one scene — @egeberkina](https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg)](https://x.com/egeberkina/status/2083301476206588086/video/1) | [![Bamboo-forest mystery: tension through close-ups — @sipteaandcoffee](https://pbs.twimg.com/amplify_video_thumb/2083131917797556224/img/7PDZpzJGurMtyH6Q.jpg)](https://x.com/sipteaandcoffee/status/2083132770650571041/video/1) |
+| **Learn:** Assign each reference its actor before combining their movements. | **Learn:** Build suspense with color, depth and shot/reverse-shot coverage. |
+| @egeberkina · [MP4](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29) · [Full prompt](https://x.com/egeberkina/status/2083301476206588086) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-004) | @sipteaandcoffee · [MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) · [Full prompt](https://x.com/sipteaandcoffee/status/2083132770650571041) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-005) |
+
+| Video preview | What to study |
+| --- | --- |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg" alt="Character entrance: detail to full silhouette — @aimikoda" width="240">](https://x.com/aimikoda/status/2086412223061135392/video/1) | **Character entrance: detail to full silhouette**<br><br>**Learn:** Use one character reference to connect details, full-body views and expressions.<br><br>@aimikoda · [MP4](https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29) · [Full prompt](https://x.com/aimikoda/status/2086412223061135392) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-003) |
 
 | Suspense short: dialogue, reaction and sound reversal | Japanese animation teaser: identity and expression control |
 | --- | --- |
 | [![Suspense short: dialogue, reaction and sound reversal — @drjoetw](https://pbs.twimg.com/amplify_video_thumb/2082668962203230208/img/qTeIl8rcO_BopQxq.jpg)](https://x.com/drjoetw/status/2082669221222207488/video/1) | [![Japanese animation teaser: identity and expression control — @haruuraeadss](https://pbs.twimg.com/amplify_video_thumb/2082945330925240322/img/v7Ke-e6Pa0EJnv3G.jpg)](https://x.com/haruuraeadss/status/2082945363431080299/video/1) |
-| **Learn:** The sequence builds a question, follows a pointing gesture, then answers it through a reaction shot. Audio changes carry the tonal reversal. | **Learn:** Separate the character lock from permitted expression and gesture changes. The prompt also assigns camera changes to moments of discovery. |
+| **Learn:** Use a pointing gesture, a reaction and a sound change to deliver the twist. | **Learn:** Keep identity fixed while changing expressions and shots at story beats. |
 | @drjoetw · [MP4](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) · [Full prompt](https://x.com/drjoetw/status/2082669221222207488) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-009) | @haruuraeadss · [MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) · [Full prompt](https://x.com/haruuraeadss/status/2082945363431080299) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-015) |
 
 **Try another subject next**
@@ -267,13 +295,17 @@ Fixed medium shot; unchanged identity and button position. No walking, speech or
 
 <a id="workflow-education"></a>
 
-### Teaching and presentations
+<a id="teaching-and-presentations"></a>
+
+## 5. Teaching and presentations
 
 Concept illustrations and presentation drafts for educators and product teams.
 
 ![Museum tabletop rail connecting three miniature environments, composition reference](./assets/gallery/three-biome-museum-rail.webp)
 
 **From reference to your own shot:** A rail connecting three miniature environments guides viewers through each zone. Start with one exhibit zone so viewers can see what the lesson concerns; add verified labels and narration afterwards. This is a lesson opener, not a scientific explanation; factual and causal claims need sourced narration. [Advanced example (15s, multiple references)](./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take)
+
+### Try the shot
 
 **Primary tool:** [Chat4o AI](https://chat4o.ai/free-minimax-h3/) — Describe one visible action and test whether it clarifies a concept; this route is a video entry point, not a text-writing service.
 
@@ -291,22 +323,23 @@ Soft room tone; no labels, arrows or narration.
 
 [Try this in Chat4o AI](https://chat4o.ai/free-minimax-h3/)
 
-**Inspect and change one thing:** Factual accuracy and misleading motion; label conceptual illustrations as such. If exhibit boundaries move, lock the camera. Add labels manually and do not use generated motion to assert unverified causal relationships.
+### Inspect and edit
 
-**Build on the usable shot:** Use the opening of this one clip to establish the model, its push to emphasize the zone, and a final freeze for accurate labels. No three separate generations are needed. Add sourced narration and identify it as a miniature concept illustration.
+**Check and revise:** Factual accuracy and misleading motion; label conceptual illustrations as such. If exhibit boundaries move, lock the camera. Add labels manually and do not use generated motion to assert unverified causal relationships.
 
-**Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Trial a clearer composition; [HeyDream](https://heydream.im/free-minimax-h3/) — Add a transition between explanation steps
+**Editing plan:** Use the opening of this one clip to establish the model, its push to emphasize the zone, and a final freeze for accurate labels. No three separate generations are needed. Add sourced narration and identify it as a miniature concept illustration.
 
-**Optional pickup shots:** [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) — Add a spatial reveal or opening shot
+- **Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Trial a clearer composition; [HeyDream](https://heydream.im/free-minimax-h3/) — Add a transition between explanation steps
+- **Optional pickup shots:** [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) — Add a spatial reveal or opening shot
 
-**See how creators approach it**
+### Examples and variations
 
 Borrow the game-interface example’s step-by-step state changes: in a lesson, introduce one explanation step per shot.
 
 | Game interface: a readable turn-based sequence |
 | --- |
 | [![Game interface: a readable turn-based sequence — @AllaAisling](https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg)](https://x.com/AllaAisling/status/2082909383424446745/video/1) |
-| **Learn:** Follow state changes: cards appear, one is selected, an action resolves, resources update, then the opposing turn begins. Check whether overlays stay anchored during camera changes. |
+| **Learn:** Show interface states in sequence and check that overlays stay anchored. |
 | @AllaAisling · [MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) · [Full prompt](https://x.com/AllaAisling/status/2082909383424446745) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-011) |
 
 **More in this workflow:** [UI, game and digital experience](./prompts/11-ui-game-digital.md) · [Education, documentary and science](./prompts/14-education-documentary-science.md) · [Nature, animals and pets](./prompts/17-nature-animals-pets.md) · [Industry, business and public service](./prompts/18-industry-business-public-service.md)
@@ -315,13 +348,17 @@ Borrow the game-interface example’s step-by-step state changes: in a lesson, i
 
 <a id="workflow-art"></a>
 
-### Visual art and architecture
+<a id="visual-art-and-architecture"></a>
+
+## 6. Visual art and architecture
 
 Surreal scenes, architectural atmosphere and lighting studies for visual designers.
 
 ![Archive map rising into a miniature landscape, composition reference](./assets/gallery/topographic-map-archive.webp)
 
 **From reference to your own shot:** A flat map becoming a miniature landscape creates a playful surreal scene. Lift only one contour first: fixed paper edges and surrounding lines make it clear whether the intended impossible change occurs. [Advanced example (15s, multiple references)](./prompts/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape)
+
+### Try the shot
 
 **Primary tool:** [SeaImagine](https://seaimagine.com/free-minimax-h3/) — Change one small area while keeping the rest ordinary so the intended effect is easy to assess.
 
@@ -339,20 +376,21 @@ Soft paper friction; no added text or people.
 
 [Try this in SeaImagine](https://seaimagine.com/free-minimax-h3/)
 
-**Inspect and change one thing:** Check fixed paper edges and surrounding lines, motion confined to the chosen area and continuous paper texture. If the whole map melts, restrict motion to one central line and reduce its lift. Keep the camera locked.
+### Inspect and edit
 
-**Build on the usable shot:** Keep the flat opening, ridge lift and ending hold from this one clip as a linear short. For a loop, create a return to the flat state in editing; different first and last frames will not automatically loop seamlessly.
+**Check and revise:** Check fixed paper edges and surrounding lines, motion confined to the chosen area and continuous paper texture. If the whole map melts, restrict motion to one central line and reduce its lift. Keep the camera locked.
 
-**Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Trial an alternative composition; [Fylia AI](https://fylia.ai/free-minimax-h3/) — Alternative for an illustrated style
+**Editing plan:** Keep the flat opening, ridge lift and ending hold from this one clip as a linear short. For a loop, create a return to the flat state in editing; different first and last frames will not automatically loop seamlessly.
 
-**Optional pickup shots:** [VO4](https://vo4.org/free-minimax-h3/) — Add moving-subject tracking; [HeyDream](https://heydream.im/free-minimax-h3/) — Add a transition between spaces
+- **Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Trial an alternative composition; [Fylia AI](https://fylia.ai/free-minimax-h3/) — Alternative for an illustrated style
+- **Optional pickup shots:** [VO4](https://vo4.org/free-minimax-h3/) — Add moving-subject tracking; [HeyDream](https://heydream.im/free-minimax-h3/) — Add a transition between spaces
 
-**See how creators approach it**
+### Examples and variations
 
 | Ordinary footage, impossible event: a useful mismatch |
 | --- |
 | [![Ordinary footage, impossible event: a useful mismatch — @cocktailpeanut](https://pbs.twimg.com/amplify_video_thumb/2086878515744669696/img/-jjYBSEiZo_2M_eS.jpg)](https://x.com/cocktailpeanut/status/2086879654116495564/video/1) |
-| **Learn:** The brief delays its impossible event behind ordinary activity. This is useful for studying setup and surprise, alongside whether H3 follows the requested physical event. |
+| **Learn:** Compare the everyday setup with the surprise, and check whether the result follows the prompt. |
 | @cocktailpeanut · [MP4](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29) · [Full prompt](https://x.com/cocktailpeanut/status/2086879654116495564) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-006) |
 
 **More in this workflow:** [Fantasy, sci-fi and VFX](./prompts/10-fantasy-scifi-vfx.md) · [Architecture, interiors and real estate](./prompts/15-architecture-interiors-real-estate.md) · [Surreal physics and optical illusions](./prompts/23-surreal-physics-optical-illusions.md)
@@ -400,23 +438,23 @@ Official release notes describe 4–15 seconds and a 768-pixel default short edg
 
 ## Free MiniMax H3 tools
 
-Explore 13 free MiniMax H3 tools below. Choose an entry point for your current task, open its practice prompt and try your first shot.
+**Shared settings: no signup, 5s / 480p.** Find an entry by suggested use, then open its profile or practice.
 
-| Tool | Start with | Output stated on page | Profile and practice |
-|---|---|---|---|
-| [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) | Opening shots, transitions and camera studies for filmmakers and marketers. Use a short take to decide whether the framing communicates the scene before planning a longer sequence. | 5s / 480p | [Profile](./docs/tools.md#videoweb) · [Continue workflow](#workflow-storyboard) |
-| [MusicMaker](https://musicmaker.im/free-minimax-h3/) | A music-focused platform for cover animation, release teasers and visual backgrounds. Create a short visual, download it, then cut it against your own track in an editor. | 5s / 480p | [Profile](./docs/tools.md#musicmaker) · [Continue workflow](#workflow-music) |
-| [UGC Maker](https://ugcmaker.org/free-minimax-h3/) | A creator-oriented workspace for product demonstrations and short social concepts. Test an opening action, such as turning on a lamp, before developing an ad script. | 5s / 480p | [Profile](./docs/tools.md#ugcmaker) · [Continue workflow](#workflow-commerce) |
-| [HeyDream](https://heydream.im/free-minimax-h3/) | A general creative suite for exploring scene ideas from text or a pair of endpoint images. Useful when the next decision is a composition or transition rather than a finished film. | 5s / 480p | [Profile](./docs/tools.md#heydream) · [Prompt](./docs/free-tool-prompts.md#heydream) |
-| [Flaq AI](https://flaq.ai/free-minimax-h3/) | A browser H3 entry point on a platform that also offers model APIs. Use the free page to compare two wording choices before considering a separate developer integration. | 5s / 480p | [Profile](./docs/tools.md#flaq) · [Prompt](./docs/free-tool-prompts.md#flaq) |
-| [BestImage AI](https://bestimage.ai/free-minimax-h3/) | An image and video platform with text and two-frame routes. Useful for exploring motion between your own compositions, product arrangements or storyboard endpoints. | 5s / 480p | [Profile](./docs/tools.md#bestimage) · [Prompt](./docs/free-tool-prompts.md#bestimage) |
-| [Flyne AI](https://flyne.ai/free-minimax-h3/) | A browser route for compact product-motion and graphic concepts. Try a single reveal or movement from a brief or endpoint pair, then review the resulting composition. | 5s / 480p | [Profile](./docs/tools.md#flyne) · [Prompt](./docs/free-tool-prompts.md#flyne) |
-| [SeaImagine](https://seaimagine.com/free-minimax-h3/) | A visual exploration entry point for imagined architecture, surreal compositions and atmosphere. One restrained movement helps assess scale and lighting. | 5s / 480p | [Profile](./docs/tools.md#seaimagine) · [Continue workflow](#workflow-art) |
-| [SeeVido](https://seevido.com/free-minimax-h3/) | A short-video entry point for a character reaction or product reveal. Build a compact story around one visible event rather than several scene changes. | 5s / 480p | [Profile](./docs/tools.md#seevido) · [Continue workflow](#workflow-story) |
-| [Fylia AI](https://fylia.ai/free-minimax-h3/) | A creative entry point for portrait motion, illustrated worlds and everyday scenes. Use a restrained gesture or environmental movement to test the tone. | 5s / 480p | [Profile](./docs/tools.md#fylia) · [Prompt](./docs/free-tool-prompts.md#fylia) |
-| [VO4](https://vo4.org/free-minimax-h3/) | A video concept tool for arrival shots, moving cameras and fictional environments. Specify a simple spatial path so that the take has a readable beginning and end. | 5s / 480p | [Profile](./docs/tools.md#vo4) · [Prompt](./docs/free-tool-prompts.md#vo4) |
-| [Chat4o AI](https://chat4o.ai/free-minimax-h3/) | A text-led entry point for simple learning scenes and presentation ideas. Use one clear action to make an abstract explanation easier to discuss. | 5s / 480p | [Profile](./docs/tools.md#chat4o) · [Continue workflow](#workflow-education) |
-| [AITryOn](https://aitryon.art/free-minimax-h3/) | A fashion-oriented creative platform whose free H3 page supports text or two-frame clips with audio. Use it to sketch garment movement, outfit scenes and product concepts before a larger production. | 5s / 480p | [Profile](./docs/tools.md#aitryon) · [Prompt](./docs/free-tool-prompts.md#aitryon) |
+| Tool | Suggested use | Profile and practice |
+| --- | --- | --- |
+| [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) | Opening shots and camera studies | [Profile](./docs/tools.md#videoweb) · [Workflow](#workflow-storyboard) |
+| [MusicMaker](https://musicmaker.im/free-minimax-h3/) | Animated covers and release teasers | [Profile](./docs/tools.md#musicmaker) · [Workflow](#workflow-music) |
+| [UGC Maker](https://ugcmaker.org/free-minimax-h3/) | Product demos and ad openings | [Profile](./docs/tools.md#ugcmaker) · [Workflow](#workflow-commerce) |
+| [HeyDream](https://heydream.im/free-minimax-h3/) | Scene concepts and transitions | [Profile](./docs/tools.md#heydream) · [Prompt](./docs/free-tool-prompts.md#heydream) |
+| [Flaq AI](https://flaq.ai/free-minimax-h3/) | Prompt and sound comparisons | [Profile](./docs/tools.md#flaq) · [Prompt](./docs/free-tool-prompts.md#flaq) |
+| [BestImage AI](https://bestimage.ai/free-minimax-h3/) | Product compositions and endpoint transitions | [Profile](./docs/tools.md#bestimage) · [Prompt](./docs/free-tool-prompts.md#bestimage) |
+| [Flyne AI](https://flyne.ai/free-minimax-h3/) | Product reveals and graphic motion | [Profile](./docs/tools.md#flyne) · [Prompt](./docs/free-tool-prompts.md#flyne) |
+| [SeaImagine](https://seaimagine.com/free-minimax-h3/) | Surreal scenes and architectural atmosphere | [Profile](./docs/tools.md#seaimagine) · [Workflow](#workflow-art) |
+| [SeeVido](https://seevido.com/free-minimax-h3/) | Character reactions and social stories | [Profile](./docs/tools.md#seevido) · [Workflow](#workflow-story) |
+| [Fylia AI](https://fylia.ai/free-minimax-h3/) | Portrait motion and illustrated scenes | [Profile](./docs/tools.md#fylia) · [Prompt](./docs/free-tool-prompts.md#fylia) |
+| [VO4](https://vo4.org/free-minimax-h3/) | Entrances and moving-camera shots | [Profile](./docs/tools.md#vo4) · [Prompt](./docs/free-tool-prompts.md#vo4) |
+| [Chat4o AI](https://chat4o.ai/free-minimax-h3/) | Teaching concepts and presentation drafts | [Profile](./docs/tools.md#chat4o) · [Workflow](#workflow-education) |
+| [AITryOn](https://aitryon.art/free-minimax-h3/) | Garment motion and outfit concepts | [Profile](./docs/tools.md#aitryon) · [Prompt](./docs/free-tool-prompts.md#aitryon) |
 
 
 Check the free conditions and output settings before starting; queues, availability and terms may change. [View the page-check records](./docs/provenance.md).

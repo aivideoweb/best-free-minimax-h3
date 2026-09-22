@@ -40,6 +40,19 @@ class ContentGuardTests(unittest.TestCase):
         p.write_text(p.read_text().replace('5s / 480p', '15s / 2K', 1))
         self.check('stale output')
 
+    def test_shared_output_drift(self):
+        p = self.repo / 'README_zh.md'
+        p.write_text(p.read_text().replace('**共同规格：免注册，5 秒 / 480p。**', '**共同规格：免注册，15 秒 / 2K。**'))
+        self.check('stale shared output')
+
+    def test_duplicate_html_case_is_rejected(self):
+        p = self.repo / 'README.md'
+        text = p.read_text()
+        import re
+        preview = re.search(r'<img src="https://pbs[^>]+>', text).group(0)
+        p.write_text(text + '\n' + preview + '\n')
+        self.check('expected one inline case preview')
+
     def test_missing_evidence(self):
         p = self.repo / 'data/tools.json'
         data = json.loads(p.read_text())

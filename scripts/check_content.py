@@ -81,7 +81,12 @@ for page in readmes:
         if rows:
             cells = rows[0].split(' | ')
             expected_output = f'{t["duration_seconds"]} 秒 / {t["resolution"]}' if page.name == 'README_zh.md' else f'{t["duration_seconds"]}s / {t["resolution"]}'
-            require(cells[2] == expected_output, f'{page.name}: stale output for {t["id"]}')
+            if page.name in ['README.md', 'README_zh.md']:
+                shared = f'**共同规格：免注册，{expected_output}。**' if page.name == 'README_zh.md' else f'**Shared settings: no signup, {expected_output}.**'
+                require(shared in text, f'{page.name}: stale shared output for {t["id"]}')
+                require(len(cells) == 3, f'{page.name}: expected compact tool row for {t["id"]}')
+            else:
+                require(cells[2] == expected_output, f'{page.name}: stale output for {t["id"]}')
     for phrase in contracts[page.name]['required_phrases']:
         require(phrase in text, f'{page.name}: missing verified relationship/status statement: {phrase}')
     require('https://videoweb.ai/affiliate-program/' in text, f'{page.name}: missing affiliate link')
@@ -150,7 +155,7 @@ for workflow in workflows['workflows']:
         home = (ROOT / filename).read_text()
         require(f'<a id="workflow-{workflow["id"]}"></a>' in home, f'{filename}: missing workflow')
         require('quick-trial' in home, f'{filename}: missing shared trial method')
-        section = home.split(f'<a id="workflow-{workflow["id"]}"></a>', 1)[-1].split('<a id="workflow-', 1)[0].split('\n## ', 1)[0]
+        section = home.split(f'<a id="workflow-{workflow["id"]}"></a>', 1)[-1].split('<a id="workflow-', 1)[0].split('\n## Explore more prompts', 1)[0].split('\n## 更完整的提示词库', 1)[0]
         require(f'](./assets/gallery/{workflow["image"]})' in section, f'{filename}: workflow reference mismatch')
         require(f'](./prompts/{workflow["recipe"]})' in section, f'{filename}: missing source-to-practice link')
         for case_id in workflow['cases']:
@@ -172,7 +177,7 @@ for filename in ['README.md', 'README_zh.md']:
     explicit_ids = re.findall(r'<a id="([^"]+)"></a>', home)
     require(len(explicit_ids) == len(set(explicit_ids)), f'{filename}: duplicate explicit anchor')
     for entry in entries:
-        require(home.count(f']({entry["thumbnail_url"]})') == 1, f'{filename}: expected one inline case preview {entry["id"]}')
+        require(len(re.findall(r'(?:\]\(|src=")' + re.escape(entry['thumbnail_url']) + r'(?:\)|")', home)) == 1, f'{filename}: expected one inline case preview {entry["id"]}')
         for field in ['video_url', 'prompt_url']:
             require(entry[field] in home, f'{filename}: missing direct {field} for {entry["id"]}')
     for path in ROOT.glob('prompts/[0-9]*.md'):
