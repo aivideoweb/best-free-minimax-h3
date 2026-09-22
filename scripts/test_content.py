@@ -64,6 +64,18 @@ class ContentGuardTests(unittest.TestCase):
         p.write_text(p.read_text().replace('以下工具均为本公司相关品牌。', ''))
         self.check('missing verified relationship/status statement')
 
+    def test_workflow_source_connection_is_required(self):
+        p = self.repo / 'README_zh.md'
+        p.write_text(p.read_text().replace(
+            '](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch)',
+            '](./prompts/01-brand-advertising.md)', 1))
+        self.check('missing source-to-practice link')
+
+    def test_duplicate_homepage_gallery_is_rejected(self):
+        p = self.repo / 'README.md'
+        p.write_text(p.read_text() + '\n![Repeated tea image](./assets/gallery/midnight-observatory-tea.webp)\n')
+        self.check('expected one inline reference')
+
     def test_new_community_practice_is_allowed(self):
         p = self.repo / 'practices/COMM-001.md'
         p.write_text('# COMM-001 One quiet leaf\n\n## Goal\nShow one leaf moving.\n\n## Setup\nText only, 5s, 16:9.\n\n## Prompt\n```text\nA leaf moves gently in a fixed shot; hold the ending.\n```\n\n## Review\nCheck leaf shape.\n\n## Evidence\nStatus: concept\nOriginal test fixture, not generated.\n')

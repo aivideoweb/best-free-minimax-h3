@@ -9,8 +9,8 @@
       "primary": "ugcmaker",
       "output_zh": "商品演示、广告开场；适合电商运营、达人和小商家。",
       "output": "Product demonstrations and ad openings for sellers and creators.",
-      "reason_zh": "从一次按键或产品揭示开始，容易看清产品和动作是否稳定。",
-      "reason": "Begin with one switch press or product reveal so product and action continuity are easy to inspect.",
+      "reason_zh": "先完成一个产品揭示镜头，再考虑人物反应和口播。",
+      "reason": "Begin with one product reveal before adding creator reactions or speech.",
       "support": [
         [
           "bestimage",
@@ -42,14 +42,39 @@
       ],
       "steps_zh": "先写一个产品动作 → 用 UGC Maker 试拍并检查 → 在同一工具完成必要镜头 → 剪辑；只在缺镜头时补拍。",
       "steps": "Write one product action → trial it in UGC Maker and inspect → make the needed shots there → edit; add another tool only for a missing shot.",
-      "inputs_zh": "产品参考和一句卖点；用图片引导时准备一致的首尾图，文字和价格后期添加。",
-      "inputs": "Prepare product references and one selling point; for frame guidance supply matching start/end images. Add exact copy and prices in editing.",
+      "inputs_zh": "先用下方虚构茶瓶试拍；换成自己的商品时，写清形状、颜色和一个要展示的细节。",
+      "inputs": "Try the fictional tea bottle below first. For your own product, specify its shape, color and one detail to reveal.",
       "image": "midnight-observatory-tea.webp",
       "case": 2,
-      "review_zh": "产品外观、手指接触、声音与动作、广告表述是否真实。",
-      "review": "Product appearance, finger contact, sound/action alignment and truthful claims.",
-      "tags_zh": "电商 · 产品动作 · 竖屏",
-      "tags": "commerce · product action · vertical"
+      "review_zh": "检查瓶身和瓶盖是否变形、光线是否连续、上方是否留下放文案的空间。",
+      "review": "Check bottle and cap geometry, continuous light and usable copy space above.",
+      "tags_zh": "电商 · 产品揭示 · 文案留白",
+      "tags": "commerce · product reveal · copy space",
+      "recipe": "01-brand-advertising.md#brd-001-midnight-observatory-tea-launch",
+      "recipe_id": "BRD-001",
+      "cases": [
+        2,
+        8,
+        12
+      ],
+      "categories": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        24
+      ],
+      "lesson_zh": "源配方把星光、水滴和天光变化组成一支茶饮广告。免费试拍只取“光线扫过瓶身”：保留产品轮廓与文案留白，先做一个能接进广告的产品镜头。",
+      "lesson": "The source tea ad combines starlight, condensation and dawn. Keep only light passing across the bottle for the free trial: preserve its silhouette and space for copy to make one product shot for the edit.",
+      "next_zh": "先用观测站环境开场，接瓶身光线镜头，再停在产品主画面上加一句卖点。三段沿用同一瓶子和蓝调光线；精确标签与广告文字后期添加。",
+      "next": "Open on the observatory, cut to light crossing the bottle, then hold on the product and add one selling point. Reuse its shape and blue-hour lighting; add exact labels and ad copy in editing.",
+      "fix_zh": "把观测站改为空白背景，其他条件先不动；瓶形稳定后再恢复环境。",
+      "fix": "Replace the observatory with a plain background, leaving other instructions unchanged. Restore the setting after bottle geometry holds.",
+      "homepage_prompt_zh": "生成一个 5 秒的 16:9 产品镜头。\n观测站桌面上，一只修长烟色玻璃茶瓶有深绿色瓶盖和空白浅色标签。\n固定中景，只有一条窄光缓慢扫过静止瓶身，最后一秒停留。\n瓶身、瓶盖和标签形状不变，上方留出文案空白。\n轻微远处风声，不生成文字、对白或额外动作。",
+      "homepage_prompt": "Create one five-second product shot, 16:9.\nA tall smoked-glass tea bottle with a dark green cap and blank pale label stands on an observatory desk.\nFixed medium shot: only a narrow band of light crosses the still bottle. Hold the last second.\nKeep bottle, cap and label geometry fixed; leave copy space above.\nFaint distant wind; no lettering, speech or extra action.",
+      "image_alt_zh": "山顶观测站中的虚构茶瓶，源库参考图",
+      "image_alt": "Fictional tea bottle in a mountaintop observatory, source-library reference"
     },
     {
       "id": "music",
@@ -58,8 +83,8 @@
       "primary": "musicmaker",
       "output_zh": "动态封面、音乐预告视觉；适合音乐人和封面设计师。",
       "output": "Animated cover concepts and teaser visuals for musicians and cover designers.",
-      "reason_zh": "从静态封面的小幅运动开始，再由剪辑控制音乐节奏。",
-      "reason": "Start with a small movement around cover artwork; control musical timing in editing.",
+      "reason_zh": "先做一段可配歌的视觉底片，歌曲节奏在剪辑时控制。",
+      "reason": "Make a visual bed for a track first, then control musical timing in editing.",
       "support": [
         [
           "bestimage",
@@ -86,14 +111,35 @@
       ],
       "steps_zh": "先选自己有权使用的歌和一个视觉主题 → MusicMaker 试拍 → 检查后补同主题镜头 → 剪辑软件配歌、卡点与字幕。",
       "steps": "Choose a cleared track and one visual theme → trial in MusicMaker → inspect and add matching shots → time music and captions in an editor.",
-      "inputs_zh": "封面设计或文字场景描述，以及有权使用的音乐；不要把免费页面当作音频参考上传工具。",
-      "inputs": "Prepare artwork or a written scene and a cleared track; do not assume the free page accepts audio-reference uploads.",
-      "image": "paper-birds-storm-shelter.webp",
-      "case": 7,
-      "review_zh": "封面形状、风格一致性；最终节拍、字幕和歌曲由剪辑检查。",
-      "review": "Cover shape and visual consistency; verify final beat timing, captions and track in the edit.",
-      "tags_zh": "音乐 · 方形封面 · 后期配歌",
-      "tags": "music · square cover · edited soundtrack"
+      "inputs_zh": "先试下方虚构音箱；换成自己的封面物件时，只替换外观描述。准备有权使用的歌曲供后期配乐。",
+      "inputs": "Try the fictional speaker below; substitute your own cover object by changing its appearance description. Prepare a cleared track for the edit.",
+      "image": "radial-cork-speaker.webp",
+      "case": 1,
+      "review_zh": "检查音箱轮廓和材质是否保持不变、绕拍是否平稳；歌名、字幕和节拍在剪辑时检查。",
+      "review": "Check speaker silhouette, material stability and a steady orbit; verify titles, captions and beat timing in editing.",
+      "tags_zh": "音乐 · 预告视觉 · 后期配歌",
+      "tags": "music · teaser visual · edited soundtrack",
+      "recipe": "20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content",
+      "recipe_id": "MRF-002",
+      "cases": [
+        1,
+        7,
+        14
+      ],
+      "categories": [
+        13,
+        22
+      ],
+      "lesson_zh": "源配方用音箱演示绕拍，并强调只借运镜、不复制参考内容。这里把它改成新歌预告的视觉底片：先用一小段平稳绕拍，再由剪辑配上自己的歌曲和标题。",
+      "lesson": "The source speaker recipe borrows camera motion without copying reference content. Adapt it into a teaser background: make one restrained orbit, then add your own track and title in editing.",
+      "next_zh": "先留一秒静止音箱，再接小幅绕拍，最后停留并加入歌名和发布日期。把这三段导入剪辑软件，配自己的歌，在重拍处剪切。",
+      "next": "Begin with a second of the still speaker, follow with the short orbit, then hold for a title and release date. Import these beats into an editor, add your own track and cut on its beats.",
+      "fix_zh": "绕拍时音箱变形，就先固定镜头，仅让光线变化；确认轮廓稳定后再加小幅运镜。",
+      "fix": "If the orbit deforms the speaker, lock the camera and change only the light; add a small camera move after its shape holds.",
+      "homepage_prompt_zh": "生成一个 5 秒的 1:1 镜头，作为新歌预告视觉。\n石墨灰与软木拼接的虚构便携音箱放在干净桌面上。\n摄影机围绕静止音箱缓慢移动一个很小的角度，最后一秒停住。\n音箱轮廓、按键数量和软木纹理不变，上方留白。\n只保留室内环境声，不生成歌曲、歌词或文字。",
+      "homepage_prompt": "Create one five-second shot, 1:1, as a music teaser visual.\nA fictional graphite-and-cork portable speaker rests on a clean desk.\nSlowly orbit through a small angle around the still speaker; hold the last second.\nKeep silhouette, button count and cork texture fixed; leave space above.\nRoom ambience only; no generated song, lyrics or text.",
+      "image_alt_zh": "石墨灰与软木便携音箱，源库参考图",
+      "image_alt": "Graphite-and-cork portable speaker, source-library reference"
     },
     {
       "id": "storyboard",
@@ -125,14 +171,38 @@
       ],
       "steps_zh": "VideoWeb 试拍一个明确起止的镜头 → 检查空间与运镜 → 同工具补必要镜头 → 剪辑排列分镜。",
       "steps": "Trial one shot with clear endpoints in VideoWeb → inspect space and camera path → add necessary shots in the same tool → arrange the storyboard in an editor.",
-      "inputs_zh": "起始构图、结束构图、主体路线；图片引导需要成对首尾图。",
-      "inputs": "Define opening and ending compositions and the subject path; frame guidance needs both endpoint images.",
+      "inputs_zh": "先试下方运河，再把地点换成你的开场环境；始终写明镜头从哪里出发、停在哪里。",
+      "inputs": "Try the canal below, then substitute your opening location. Always specify where the camera starts and stops.",
       "image": "rain-washed-canal-morning.webp",
       "case": 13,
-      "review_zh": "门框和空间是否变形、运动方向是否一致、结尾是否能接下一镜。",
-      "review": "Geometry, consistent screen direction and whether the ending can connect to the next shot.",
+      "review_zh": "检查桥体和岸线是否变形、前进方向是否一致、结尾是否能接下一镜。",
+      "review": "Check bridge and bank geometry, consistent travel direction and a usable ending.",
       "tags_zh": "分镜 · 运镜 · 首尾帧",
-      "tags": "storyboard · camera movement · endpoint frames"
+      "tags": "storyboard · camera movement · endpoint frames",
+      "recipe": "04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning",
+      "recipe_id": "TRV-001",
+      "cases": [
+        13,
+        10
+      ],
+      "categories": [
+        4,
+        7,
+        9,
+        16,
+        19,
+        20
+      ],
+      "lesson_zh": "源配方用雨后运河建立地点氛围。先取“沿岸推进到石桥”这一段：把镜头起点和终点写清楚，比同时要求多种运镜更容易检查空间是否稳定。",
+      "lesson": "The source canal recipe establishes a place after rain. Keep one move along the bank toward the bridge: explicit start and end positions make spatial continuity easier to inspect than several camera moves at once.",
+      "next_zh": "先用运河镜头确定环境，再补桥边人物入场，最后停在人物将要走向的方向。统一摄影机高度和移动方向，剪成三格动态分镜。",
+      "next": "Establish the canal, add a character entering beside the bridge, then hold toward their next destination. Keep camera height and screen direction consistent across the three storyboard shots.",
+      "fix_zh": "桥体弯曲或岸线跳动时，缩短推进距离；先不要再增加骑车人或转弯。",
+      "fix": "If the bridge bends or the bank jumps, shorten the camera move before adding a cyclist or turn.",
+      "homepage_prompt_zh": "生成一个 5 秒的 16:9 镜头。\n雨后清晨的虚构运河小镇，石桥在前方，一辆自行车静靠岸边。\n摄影机保持人眼高度，沿岸缓慢向石桥推进，最后一秒停住。\n石桥和岸线不变，自行车不动。轻微水声，不要切镜、对白或文字。",
+      "homepage_prompt": "Create one five-second shot, 16:9.\nA fictional canal town after rain, with a stone bridge ahead and a parked bicycle on the bank.\nAt eye level, slowly push along the bank toward the bridge; hold the last second.\nKeep the bridge and bank fixed, bicycle still. Soft water; no cuts, speech or text.",
+      "image_alt_zh": "雨后运河、石桥与停靠自行车，源库参考图",
+      "image_alt": "Rain-washed canal, stone bridge and parked bicycle, source-library reference"
     },
     {
       "id": "story",
@@ -169,14 +239,38 @@
       ],
       "steps_zh": "自己先写三句故事 → SeeVido 试拍一个反应 → 检查角色一致性 → 同工具补前后镜头 → 剪辑；产品镜头按需加入。",
       "steps": "Write a three-sentence story yourself → trial one reaction in SeeVido → check identity continuity → add adjacent shots in the same tool → edit; add product inserts only if needed.",
-      "inputs_zh": "角色外观、服装和场景描述；跨镜头沿用相同参考，不保证跨工具身份一致。",
-      "inputs": "Prepare identity, wardrobe and location descriptions; reuse references across shots. Cross-tool identity consistency is not guaranteed.",
+      "inputs_zh": "先试下方机器人；换人物时，固定外观、服装和场景，只改一次反应。跨镜头重复使用相同描述仍需检查一致性。",
+      "inputs": "Try the robot below. For another character, fix identity, wardrobe and setting and change only one reaction. Repeated descriptions still require continuity checks.",
       "image": "clay-repair-robot.webp",
-      "case": 15,
+      "case": 3,
       "review_zh": "脸、服装和手部是否变化，反应顺序是否清楚；对白另行完整听审。",
       "review": "Face, wardrobe and hands, clear reaction order, and a full listening check if dialogue is used.",
       "tags_zh": "社交故事 · 角色反应 · 一致性",
-      "tags": "social story · character reaction · continuity"
+      "tags": "social story · character reaction · continuity",
+      "recipe": "08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button",
+      "recipe_id": "ANI-002",
+      "cases": [
+        3,
+        4,
+        5,
+        9,
+        15
+      ],
+      "categories": [
+        8,
+        12,
+        21
+      ],
+      "lesson_zh": "源配方让修理机器人发现、搬起并收好纽扣。先只拍“听见一声，转头发现”：故事的吸引力来自反应顺序，不必一次塞进完整剧情。",
+      "lesson": "The source robot finds, lifts and stores a button. Start with “hear a ping, turn and notice”: the order of a reaction can tell a story without fitting the whole plot into one generation.",
+      "next_zh": "把纽扣落下作为开场，机器人转头作为主体，纽扣旁的停顿作为结尾。沿用同一套机器人外观和工作台描述，再考虑加入搬运动作。",
+      "next": "Open with a button landing, use the head turn as the main reaction, then hold beside the button. Reuse the same robot and workshop description before adding a lifting action.",
+      "fix_zh": "把转头幅度改为“几乎不动，只轻微偏向纽扣”；若仍变形，先试角色静止的一镜，确认外观再加动作。",
+      "fix": "Reduce the turn to “almost still, only a tiny tilt toward the button.” If identity still drifts, trial the character holding still before adding motion.",
+      "homepage_prompt_zh": "生成一个 5 秒的 9:16 黏土动画镜头。\n木制微缩工作台上，一个芥末黄色方头机器人有黑色珠眼和蓝色工具袋。\n听见一次轻微金属声后，它稍微转头看向旁边的珍珠色纽扣，停住。\n固定中景，机器人外观和纽扣位置不变，不走路、不说话、不加文字。",
+      "homepage_prompt": "Create one five-second clay-animation shot, 9:16.\nA mustard-yellow square-headed robot with black bead eyes and a blue pouch stands on a miniature wooden bench.\nAfter one soft metallic ping, it turns its head slightly toward a pearl button and holds.\nFixed medium shot; unchanged identity and button position. No walking, speech or text.",
+      "image_alt_zh": "微缩工作台上的黄色黏土修理机器人，源库参考图",
+      "image_alt": "Yellow clay repair robot on a miniature workbench, source-library reference"
     },
     {
       "id": "education",
@@ -208,14 +302,35 @@
       ],
       "steps_zh": "先核对知识与讲解脚本 → Chat4o 试拍单个动作 → 检查事实和画面 → 补必要镜头 → 后期添加准确图注与解说。",
       "steps": "Verify the lesson and script → trial one action in Chat4o → check factual and visual accuracy → add needed shots → add accurate labels and narration in editing.",
-      "inputs_zh": "已核实的讲解要点和场景描述；准确文字、数字和箭头后期制作。",
-      "inputs": "Prepare verified teaching points and a scene description; add exact text, numbers and arrows in editing.",
-      "image": "topographic-map-archive.webp",
+      "inputs_zh": "先试下方展台镜头；换成自己的课程时，一段只呈现一个已核实的讲解要点，图注与解说后期添加。",
+      "inputs": "Try the exhibit below; for your own lesson, show one verified teaching point per shot and add labels and narration in editing.",
+      "image": "three-biome-museum-rail.webp",
       "case": 11,
       "review_zh": "知识是否正确、动作是否容易误解；把非实拍示意标为概念演示。",
       "review": "Factual accuracy and misleading motion; label conceptual illustrations as such.",
       "tags_zh": "教学 · 概念演示 · 事实检查",
-      "tags": "education · concept illustration · fact check"
+      "tags": "education · concept illustration · fact check",
+      "recipe": "20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take",
+      "recipe_id": "MRF-001",
+      "cases": [
+        11
+      ],
+      "categories": [
+        11,
+        14,
+        17,
+        18
+      ],
+      "lesson_zh": "源配方用一条轨道串起三个微缩生态环境。教学试拍先取其中一个展区，让观众看清“我要讲哪个区域”，具体知识再用准确图注和解说补充。 这个镜头只做课程开场，不承担科学解释；事实和因果要由有来源的讲解补充。",
+      "lesson": "The source recipe links three miniature biomes by a rail. Start with one exhibit zone so viewers can see what the lesson concerns; add verified labels and narration afterwards. This is a lesson opener, not a scientific explanation; factual and causal claims need sourced narration.",
+      "next_zh": "先展示完整展台定位，再用缓慢推进强调森林区域，最后在静止画面上加图注。每段只讲一个要点，避免把微缩示意误当成真实生态过程。",
+      "next": "Establish the model, push toward its forest zone, then add labels over the held frame. Explain one point per shot and distinguish the model from real ecological processes.",
+      "fix_zh": "展区边界变化时改为固定镜头；图注由人添加，不靠生成画面解释未经核实的因果关系。",
+      "fix": "If exhibit boundaries move, lock the camera. Add labels manually and do not use generated motion to assert unverified causal relationships.",
+      "homepage_prompt_zh": "生成一个 5 秒的 16:9 教学概念镜头。\n桌面微缩展台分为森林、沙地和湿地区域，一条小轨道贯穿其间。\n从能看见完整展台的中景缓慢推进森林区域，最后一秒停留。\n所有区域边界、轨道和植物位置固定，不增加物种。\n轻微室内环境声，不生成文字、箭头或解说。",
+      "homepage_prompt": "Create one five-second educational concept shot, 16:9.\nA tabletop exhibit has forest, sand and wetland zones connected by a small rail.\nFrom a medium view of the whole model, slowly push toward the forest; hold the last second.\nKeep zone boundaries, rail and plants fixed; add no species.\nSoft room tone; no labels, arrows or narration.",
+      "image_alt_zh": "轨道串联三个微缩环境的博物馆展台，源库参考图",
+      "image_alt": "Museum tabletop rail connecting three miniature environments, source-library reference"
     },
     {
       "id": "art",
@@ -224,8 +339,8 @@
       "primary": "seaimagine",
       "output_zh": "超现实场景、建筑氛围和光影试验；适合视觉与概念设计师。",
       "output": "Surreal scenes, architectural atmosphere and lighting studies for visual designers.",
-      "reason_zh": "从一个空间里的单一光影变化开始，容易检查透视与反射。",
-      "reason": "Start with one lighting change in one space so perspective and reflections can be inspected.",
+      "reason_zh": "先让一个局部发生变化，其余画面保持正常，便于判断创意是否成立。",
+      "reason": "Change one small area while keeping the rest ordinary so the intended effect is easy to assess.",
       "support": [
         [
           "bestimage",
@@ -252,14 +367,34 @@
       ],
       "steps_zh": "SeaImagine 试拍一个空间变化 → 检查透视与反射 → 同工具补同风格镜头 → 剪辑；缺人物或移动镜头时再选备选。",
       "steps": "Trial one spatial change in SeaImagine → inspect perspective and reflections → add matching shots there → edit; use an alternative only for a missing character or moving shot.",
-      "inputs_zh": "空间描述、光线方向和保持不变的建筑结构；图片引导需成对首尾图。",
-      "inputs": "Define the space, lighting direction and fixed architecture; prepare both endpoint images for frame guidance.",
-      "image": "three-biome-museum-rail.webp",
+      "inputs_zh": "先试下方虚构地图；改成建筑氛围时，可把抬起的纸脊换成掠过墙面的光影，仍只保留一个变化。",
+      "inputs": "Try the fictional map below. For architecture, replace the rising ridge with a shadow crossing a wall, still keeping only one change.",
+      "image": "topographic-map-archive.webp",
       "case": 6,
-      "review_zh": "柱子和边界是否漂移、反射是否合理、超现实变化是否按意图发生。",
-      "review": "Stable columns and boundaries, plausible reflections and intentional surreal changes.",
+      "review_zh": "检查纸张边缘和其余线条是否固定、只有指定区域抬起、纸张质感是否连贯。",
+      "review": "Check fixed paper edges and surrounding lines, motion confined to the chosen area and continuous paper texture.",
       "tags_zh": "视觉艺术 · 建筑 · 光影",
-      "tags": "visual art · architecture · lighting"
+      "tags": "visual art · architecture · lighting",
+      "recipe": "23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape",
+      "recipe_id": "SRL-001",
+      "cases": [
+        6
+      ],
+      "categories": [
+        10,
+        15,
+        23
+      ],
+      "lesson_zh": "源配方把平面地图变成立体景观。先只让一条等高线抬起：固定纸张边缘和其余线条，才能看清超现实变化究竟有没有按要求发生。",
+      "lesson": "The source map becomes a miniature landscape. Lift only one contour first: fixed paper edges and surrounding lines make it clear whether the intended impossible change occurs.",
+      "next_zh": "先用平面地图建立正常状态，再接等高线抬起的主体镜头，最后停在立体轮廓。沿用俯拍角度和纸张纹理，后期排列成短循环草稿。",
+      "next": "Establish the flat map, follow with the contour lift, then hold on the raised shape. Keep the overhead angle and paper texture consistent when arranging a short loop draft.",
+      "fix_zh": "整张地图融化时，限定只有中央一条线运动，并降低抬起幅度；先固定摄影机。",
+      "fix": "If the whole map melts, restrict motion to one central line and reduce its lift. Keep the camera locked.",
+      "homepage_prompt_zh": "生成一个 5 秒的 16:9 超现实镜头。\n固定俯拍：档案桌上一张米色纸质等高线地图。\n只有中央一条等高线缓慢抬起成低矮纸脊，最后一秒停住。\n纸张边缘和其余线条保持平面、位置不变，不裂开、不融化。\n轻微纸张摩擦声，不增加文字或人物。",
+      "homepage_prompt": "Create one five-second surreal shot, 16:9.\nLocked overhead view of a cream paper contour map on an archive desk.\nOnly one central contour slowly rises into a low paper ridge; hold the last second.\nKeep paper edges and all other lines flat and fixed. No tearing or melting.\nSoft paper friction; no added text or people.",
+      "image_alt_zh": "档案桌上的地图隆起成立体景观，源库参考图",
+      "image_alt": "Archive map rising into a miniature landscape, source-library reference"
     }
   ]
 }

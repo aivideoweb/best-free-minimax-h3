@@ -151,8 +151,15 @@ for workflow in workflows['workflows']:
         require(f'<a id="workflow-{workflow["id"]}"></a>' in home, f'{filename}: missing workflow')
         require('quick-trial' in home, f'{filename}: missing shared trial method')
         section = home.split(f'<a id="workflow-{workflow["id"]}"></a>', 1)[-1].split('<a id="workflow-', 1)[0].split('\n## ', 1)[0]
+        require(f'](./assets/gallery/{workflow["image"]})' in section, f'{filename}: workflow reference mismatch')
+        require(f'](./prompts/{workflow["recipe"]})' in section, f'{filename}: missing source-to-practice link')
+        for case_id in workflow['cases']:
+            entry = next(e for e in entries if e['id'] == f'XH3-{case_id:03d}')
+            require(entry['thumbnail_url'] in section, f'{filename}: case outside its workflow')
+        for category in workflow['categories']:
+            require(f'./prompts/{category:02d}-' in section, f'{filename}: category outside its workflow')
         suffix = '_zh' if filename == 'README_zh.md' else ''
-        for field in ['name', 'output', 'reason', 'steps', 'inputs', 'review', 'tags']:
+        for field in ['name', 'output', 'reason', 'inputs', 'review', 'tags', 'lesson', 'homepage_prompt', 'fix', 'next', 'image_alt']:
             require(workflow[field + suffix] in section, f'{filename}: workflow {workflow["id"]} differs from {field} metadata')
         for role in ['support', 'pickup']:
             for item in workflow[role]:
@@ -162,14 +169,16 @@ for workflow in workflows['workflows']:
 # Keep the full visual browse path on both primary homepages.
 for filename in ['README.md', 'README_zh.md']:
     home = (ROOT / filename).read_text()
+    explicit_ids = re.findall(r'<a id="([^"]+)"></a>', home)
+    require(len(explicit_ids) == len(set(explicit_ids)), f'{filename}: duplicate explicit anchor')
     for entry in entries:
-        require(f']({entry["thumbnail_url"]})' in home, f'{filename}: missing inline case preview {entry["id"]}')
+        require(home.count(f']({entry["thumbnail_url"]})') == 1, f'{filename}: expected one inline case preview {entry["id"]}')
         for field in ['video_url', 'prompt_url']:
             require(entry[field] in home, f'{filename}: missing direct {field} for {entry["id"]}')
     for path in ROOT.glob('prompts/[0-9]*.md'):
         require(f'./prompts/{path.name}' in home, f'{filename}: missing category {path.name}')
     for path in ROOT.glob('assets/gallery/*.webp'):
-        require(f'](./assets/gallery/{path.name})' in home, f'{filename}: missing inline reference {path.name}')
+        require(len(re.findall(r'(?:\]\(|src=")\./assets/gallery/' + re.escape(path.name) + r'(?:\)|")', home)) == 1, f'{filename}: expected one inline reference {path.name}')
     require(home.count('```text\n') >= 4, f'{filename}: missing copy-ready homepage practice')
     require(home.count('.gif)](') >= 3, f'{filename}: missing official motion previews')
 

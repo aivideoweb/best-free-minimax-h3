@@ -4,7 +4,7 @@ This VideoWeb AI directory adapts [Flaq AI’s MiniMax H3 cookbook](https://gith
 
 Nine additional X case leads and frame-review notes came from the sibling [VideoWeb prompt project](https://github.com/aivideoweb/awesome-minimax-h3-prompts). All 15 post texts and video metadata, plus the XH3-014 prompt reply, were retrieved again via FxTwitter on 2026-09-22. Previous frame-review observations are attributed to that earlier review, not a new complete playback. No generation was performed for this directory.
 
-New material: tool-first English and Chinese homepages; 13 tool profiles and short-shot practice prompts; VideoWeb navigation artwork; comparison and maintenance records. Tool use cases are editorial suggestions, not comparative output tests.
+New material: workflow-led English and Chinese homepages; 13 tool profiles and standalone short-shot practices; six homepage five-second adaptations linked to their source recipes; VideoWeb navigation artwork; comparison and maintenance records. The six homepage adaptations are editorial text-only briefs, not six newly tested outputs and not additions to the 84 source-recipe count. Tool use cases are editorial suggestions, not comparative output tests.
 
 ## Page evidence
 
