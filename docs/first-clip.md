@@ -12,6 +12,8 @@ Actual VideoWeb browser form, captured 2026-09-22 after dismissing the promotion
 3. Paste the brief below, choose 16:9, complete any page verification and submit once. Follow the queue rather than repeatedly submitting.
 4. Preview the video and audio; check the doorway, camera path and ending. If the page returns a downloadable result, save the useful take. Browser-local history is not a backup.
 
+For a specific product or character, first read [how to prepare endpoint images](./product-reference.md).
+
 <a id="videoweb-first-prompt"></a>
 
 ```text

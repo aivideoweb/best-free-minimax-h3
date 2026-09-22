@@ -49,7 +49,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 [查看表单截图和操作步骤](./docs/first-clip_zh.md)。想比较两种提示词写法，也可以在 [Flaq AI](https://flaq.ai/free-minimax-h3/) 用相同设置分别试拍，记录画面、声音和下载结果；选好工具后可直接开始。
 
-每个场景都有构图参考、可复制的短提示词和创作者视频。参考图用于说明画面构思，创作者视频用于学习镜头方法；它们不是下方免费工具的实测结果。较长视频可拆成多个短镜头练习。
+每个场景都有构图参考、可复制的短提示词和创作者视频。参考图用于说明画面构思，创作者视频用于学习镜头方法；它们不是下方免费工具的实测结果。较长视频可拆成多个短镜头练习。 标注“进阶”的示例有额外时长或素材要求，用来学习完整制作思路；免费表单请使用下方 5 秒练习。
 
 <a id="workflow-commerce"></a>
 
@@ -59,11 +59,11 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 ![山顶观测站中的虚构茶瓶，构图参考](./assets/gallery/midnight-observatory-tea.webp)
 
-**从参考到自己的镜头：** 茶饮广告可以用星光、水滴和天光变化来展示瓶身质感。第一次试拍只保留“光线扫过瓶身”：保留产品轮廓与文案留白，先做一个能接进广告的产品镜头。 [BRD-001 完整提示词](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch)
+**从参考到自己的镜头：** 茶饮广告可以用星光、水滴和天光变化来展示瓶身质感。第一次试拍只保留“光线扫过瓶身”：保留产品轮廓与文案留白，先做一个能接进广告的产品镜头。 [进阶示例（英文，12–15 秒，多素材）](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch)
 
 **主工具：** [UGC Maker](https://ugcmaker.org/free-minimax-h3/) — 先完成一个产品揭示镜头，再考虑人物反应和口播。
 
-**换成你的题材：** 先用下方虚构茶瓶试拍；换成自己的商品时，写清形状、颜色和一个要展示的细节。
+**换成你的题材：** 先用下方虚构茶瓶试构图和光线。文字替换适合概念样片；需要保留真实商品外观时，先按参考图指南准备素材。 [商品与角色参考图怎么准备](./docs/product-reference_zh.md)
 
 **复制试拍 · 5 秒 / 480p · 纯文字**
 
@@ -75,13 +75,13 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 轻微远处风声，不生成文字、对白或额外动作。
 ```
 
-这段写法可以套到自己的商品：**茶瓶**是主体，**窄光扫过**是动作，**固定中景**是镜头，**形状不变**是约束，**最后一秒停留**方便接字幕，**远处风声**决定听感。先只替换商品外观，跑通后再换动作。
+这段写法可以用来描述你想试拍的商品概念：**茶瓶**是主体，**窄光扫过**是动作，**固定中景**是镜头，**形状不变**是约束，**最后一秒停留**方便接字幕，**远处风声**决定听感。先只替换商品外观，跑通后再换动作。
 
 [用 UGC Maker 试这个镜头](https://ugcmaker.org/free-minimax-h3/)
 
 **看结果，改一处：** 检查瓶身和瓶盖是否变形、光线是否连续、上方是否留下放文案的空间。 把观测站改为空白背景，其他条件先不动；瓶形稳定后再恢复环境。
 
-**有了可用镜头，再往下做：** 先用观测站环境开场，接瓶身光线镜头，再停在产品主画面上加一句卖点。三段沿用同一瓶子和蓝调光线；精确标签与广告文字后期添加。
+**有了可用镜头，再往下做：** 先用这一次生成的视频剪出三个段落：开场定格 1 秒、光线动作约 3 秒、结尾定格 2 秒。三段使用同一文件；需要环境开场时再另生成空镜。 [三段时间线、补镜提示词和剪辑步骤](./docs/commerce-three-shots_zh.md)
 
 **按需辅助：** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — 补产品构图试拍；[HeyDream](https://heydream.im/free-minimax-h3/) — 生成一个过渡镜头，随后在剪辑软件拼接
 
@@ -97,11 +97,11 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 **想换题材，可以这样延伸**
 
-| [台灯：一次按键说明功能](./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression) | [午餐罐：一次开盖展示结构](./prompts/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo) |
+| [台灯：一次按键说明功能（英文进阶）](./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression) | [午餐罐：一次开盖展示结构（英文进阶）](./prompts/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo) |
 | --- | --- |
 | <img src="./assets/gallery/honest-desk-lamp-demo.webp" alt="成人创作者演示折叠台灯" width="360"> | <img src="./assets/gallery/modular-lunch-jar-kit.webp" alt="包含五个组件的原创无品牌模块化午餐罐" width="360"> |
 
-**继续找同类题材：** [品牌与广告](./prompts/01-brand-advertising.md) · [产品与电商](./prompts/02-product-ecommerce.md) · [创作者演示与生活方式](./prompts/03-ugc-lifestyle.md) · [美食与饮料](./prompts/05-food-beverage.md) · [时尚与美妆](./prompts/06-fashion-beauty.md) · [竖屏系列与直播创作](./prompts/24-vertical-series-live-creator.md)
+**继续找同类题材：** [品牌与广告（英文）](./prompts/01-brand-advertising.md) · [产品与电商（英文）](./prompts/02-product-ecommerce.md) · [创作者演示与生活方式（英文）](./prompts/03-ugc-lifestyle.md) · [美食与饮料（英文）](./prompts/05-food-beverage.md) · [时尚与美妆（英文）](./prompts/06-fashion-beauty.md) · [竖屏系列与直播创作（英文）](./prompts/24-vertical-series-live-creator.md)
 
 `电商 · 产品揭示 · 文案留白` · [回到场景选择](#workflows)
 
@@ -113,11 +113,11 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 ![石墨灰与软木便携音箱，构图参考](./assets/gallery/radial-cork-speaker.webp)
 
-**从参考到自己的镜头：** 音箱示例展示了如何用绕拍突出物体的轮廓和材质。制作新歌预告时，可以借用这种运镜：先用一小段平稳绕拍，再由剪辑配上自己的歌曲和标题。 [MRF-002 完整提示词](./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content)
+**从参考到自己的镜头：** 音箱示例展示了如何用绕拍突出物体的轮廓和材质。制作新歌预告时，可以借用这种运镜：先用一小段平稳绕拍，再由剪辑配上自己的歌曲和标题。 [进阶示例（英文，12 秒，含运镜视频参考）](./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content)
 
 **主工具：** [MusicMaker](https://musicmaker.im/free-minimax-h3/) — 先做一段可配歌的预告画面，歌曲节奏在剪辑时控制。
 
-**换成你的题材：** 先试下方虚构音箱；换成自己的封面物件时，只替换外观描述。准备有权使用的歌曲供后期配乐。
+**换成你的题材：** 先试下方虚构音箱，再换成其他封面物件做概念样片。需要准确还原实体或封面设计时，先准备参考图；歌曲留到剪辑时添加。 [商品与角色参考图怎么准备](./docs/product-reference_zh.md)
 
 **复制试拍 · 5 秒 / 480p · 纯文字**
 
@@ -133,7 +133,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 **看结果，改一处：** 检查音箱轮廓和材质是否保持不变、绕拍是否平稳；歌名、字幕和节拍在剪辑时检查。 绕拍时音箱变形，就先固定镜头，仅让光线变化；确认轮廓稳定后再加小幅运镜。
 
-**有了可用镜头，再往下做：** 先留一秒静止音箱，再接小幅绕拍，最后停留并加入歌名和发布日期。把这三段导入剪辑软件，配自己的歌，在重拍处剪切。
+**有了可用镜头，再往下做：** 先用这一次生成剪出三段：开场定格 1 秒、小幅绕拍约 3 秒、结尾定格 2 秒；不必重新生成三次。再配自己的歌，调整剪切位置，加入歌名与发布日期。
 
 **按需辅助：** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — 需要不同产品或封面构图时选用；[HeyDream](https://heydream.im/free-minimax-h3/) — 缺连接两段视觉的过渡镜头时选用
 
@@ -149,11 +149,11 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 **想换题材，可以这样延伸**
 
-| [海报：一层进入，其余不动](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) |
+| [海报：一层进入，其余不动（英文进阶）](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) |
 | --- |
 | <img src="./assets/gallery/dynamic-night-market-poster.webp" alt="夜市纸拼贴海报，保留空白标题区" width="360"> |
 
-**继续找同类题材：** [音乐、表演与声音驱动视频](./prompts/13-music-performance-audio.md) · [动态图形与动态海报](./prompts/22-motion-graphics-dynamic-posters.md)
+**继续找同类题材：** [音乐、表演与声音驱动视频（英文）](./prompts/13-music-performance-audio.md) · [动态图形与动态海报（英文）](./prompts/22-motion-graphics-dynamic-posters.md)
 
 `音乐 · 预告视觉 · 后期配歌` · [回到场景选择](#workflows)
 
@@ -165,7 +165,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 ![雨后运河、石桥与停靠自行车，构图参考](./assets/gallery/rain-washed-canal-morning.webp)
 
-**从参考到自己的镜头：** 雨后的运河适合用来交代故事发生的地点。先取“沿岸推进到石桥”这一段：把镜头起点和终点写清楚，比同时要求多种运镜更容易检查空间是否稳定。 [TRV-001 完整提示词](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning)
+**从参考到自己的镜头：** 雨后的运河适合用来交代故事发生的地点。先取“沿岸推进到石桥”这一段：把镜头起点和终点写清楚，比同时要求多种运镜更容易检查空间是否稳定。 [进阶示例（英文，12–15 秒，地点参考图）](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning)
 
 **主工具：** [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) — 默认从 VideoWeb 的单镜头练习起步；VO4 是移动主体镜头的备选，不必两者都用。
 
@@ -184,7 +184,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 **看结果，改一处：** 检查桥体和岸线是否变形、前进方向是否一致、结尾是否能接下一镜。 桥体弯曲或岸线跳动时，缩短推进距离；先不要再增加骑车人或转弯。
 
-**有了可用镜头，再往下做：** 先用运河镜头确定环境，再补桥边人物入场，最后停在人物将要走向的方向。统一摄影机高度和移动方向，剪成三格动态分镜。
+**有了可用镜头，再往下做：** 先把这一镜作为环境分镜。若需要人物入场，另生成一个桥边人物镜头，复用地点、天光、摄影机高度和前进方向；先比较石桥与岸线是否相符，再剪在一起。
 
 **按需辅助：** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — 补构图方案；[HeyDream](https://heydream.im/free-minimax-h3/) — 补分镜之间的过渡镜头
 
@@ -200,11 +200,11 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 **想换题材，可以这样延伸**
 
-| [攀岩：只留最后一次抓握](./prompts/09-action-sports.md#act-001-indoor-climbing-final-move) |
+| [攀岩：只留最后一次抓握（英文进阶）](./prompts/09-action-sports.md#act-001-indoor-climbing-final-move) |
 | --- |
 | ![配备安全装备、正在室内黄色线路攀爬的虚构成年运动员](./assets/gallery/indoor-climbing-final-hold.webp) |
 
-**继续找同类题材：** [旅行与酒店](./prompts/04-travel-hospitality.md) · [电影叙事](./prompts/07-cinematic-storytelling.md) · [动作与运动](./prompts/09-action-sports.md) · [汽车与出行](./prompts/16-automotive-mobility.md) · [视频编辑、续写与本地化](./prompts/19-editing-continuation-localization.md) · [多参考与运镜迁移](./prompts/20-multireference-camera-transfer.md)
+**继续找同类题材：** [旅行与酒店（英文）](./prompts/04-travel-hospitality.md) · [电影叙事（英文）](./prompts/07-cinematic-storytelling.md) · [动作与运动（英文）](./prompts/09-action-sports.md) · [汽车与出行（英文）](./prompts/16-automotive-mobility.md) · [视频编辑、续写与本地化（英文）](./prompts/19-editing-continuation-localization.md) · [多参考与运镜迁移（英文）](./prompts/20-multireference-camera-transfer.md)
 
 `分镜 · 运镜 · 首尾帧` · [回到场景选择](#workflows)
 
@@ -216,11 +216,11 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 ![微缩工作台上的黄色黏土修理机器人，构图参考](./assets/gallery/clay-repair-robot.webp)
 
-**从参考到自己的镜头：** 修理机器人发现、搬起并收好纽扣，就能构成一个小故事。先只拍“听见一声，转头发现”：故事的吸引力来自反应顺序，不必一次塞进完整剧情。 [ANI-002 完整提示词](./prompts/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button)
+**从参考到自己的镜头：** 修理机器人发现、搬起并收好纽扣，就能构成一个小故事。先只拍“听见一声，转头发现”：故事的吸引力来自反应顺序，不必一次塞进完整剧情。 [进阶示例（英文，12 秒，角色与动作参考）](./prompts/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button)
 
 **主工具：** [SeeVido](https://seevido.com/free-minimax-h3/) — 先完成一个角色的一次反应；偏插画风格时可改用 Fylia，避免同时换人物和画风。
 
-**换成你的题材：** 先试下方机器人；换人物时，固定外观、服装和场景，只改一次反应。跨镜头重复使用相同描述仍需检查一致性。
+**换成你的题材：** 先试下方机器人，确定反应和气氛。需要连续使用同一角色时，按参考图指南准备一致的外观素材，再逐镜比较。 [商品与角色参考图怎么准备](./docs/product-reference_zh.md)
 
 **复制试拍 · 5 秒 / 480p · 纯文字**
 
@@ -235,7 +235,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 **看结果，改一处：** 脸、服装和手部是否变化，反应顺序是否清楚；对白另行完整听审。 把转头幅度改为“几乎不动，只轻微偏向纽扣”；若仍变形，先试角色静止的一镜，确认外观再加动作。
 
-**有了可用镜头，再往下做：** 把纽扣落下作为开场，机器人转头作为主体，纽扣旁的停顿作为结尾。沿用同一套机器人外观和工作台描述，再考虑加入搬运动作。
+**有了可用镜头，再往下做：** 先用这一次反应镜头做小故事：开头短暂停留，保留转头动作，再在末帧定格收尾。若需要纽扣落下的开场，另生成只含工作台和纽扣的特写；不要让第二个不一致的机器人混入。
 
 **按需辅助：** [Fylia AI](https://fylia.ai/free-minimax-h3/) — 插画风格的备选起点；[HeyDream](https://heydream.im/free-minimax-h3/) — 需要场景连接时生成过渡镜头
 
@@ -257,11 +257,11 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 **想换题材，可以这样延伸**
 
-| [纸鸟：先听声，再做反应](./prompts/21-character-dialogue-performance.md#chr-001-paper-birds-plan-for-the-storm) |
+| [纸鸟：先听声，再做反应（英文进阶）](./prompts/21-character-dialogue-performance.md#chr-001-paper-birds-plan-for-the-storm) |
 | --- |
 | ![暴雨温室中的原创靛蓝和藏红纸艺鸟角色](./assets/gallery/paper-birds-storm-shelter.webp) |
 
-**继续找同类题材：** [动画与风格化影像](./prompts/08-animation-stylized.md) · [转场、喜剧与社交内容](./prompts/12-transitions-comedy-social.md) · [角色、对白与表演](./prompts/21-character-dialogue-performance.md)
+**继续找同类题材：** [动画与风格化影像（英文）](./prompts/08-animation-stylized.md) · [转场、喜剧与社交内容（英文）](./prompts/12-transitions-comedy-social.md) · [角色、对白与表演（英文）](./prompts/21-character-dialogue-performance.md)
 
 `社交故事 · 角色反应 · 一致性` · [回到场景选择](#workflows)
 
@@ -273,7 +273,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 ![轨道串联三个微缩环境的博物馆展台，构图参考](./assets/gallery/three-biome-museum-rail.webp)
 
-**从参考到自己的镜头：** 用一条轨道串起三个微缩环境，可以引导观众依次观察不同区域。教学试拍先取其中一个展区，让观众看清“我要讲哪个区域”，具体知识再用准确图注和解说补充。 这个镜头只做课程开场，不承担科学解释；事实和因果要由有来源的讲解补充。 [MRF-001 完整提示词](./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take)
+**从参考到自己的镜头：** 用一条轨道串起三个微缩环境，可以引导观众依次观察不同区域。教学试拍先取其中一个展区，让观众看清“我要讲哪个区域”，具体知识再用准确图注和解说补充。 这个镜头只做课程开场，不承担科学解释；事实和因果要由有来源的讲解补充。 [进阶示例（英文，15 秒，多素材）](./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take)
 
 **主工具：** [Chat4o AI](https://chat4o.ai/free-minimax-h3/) — 用文字描述一个可见动作，先判断它是否帮助解释概念；这里使用的是视频入口，不是文本写作服务。
 
@@ -293,7 +293,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 **看结果，改一处：** 知识是否正确、动作是否容易误解；把非实拍示意标为概念演示。 展区边界变化时改为固定镜头；图注由人添加，不靠生成画面解释未经核实的因果关系。
 
-**有了可用镜头，再往下做：** 先展示完整展台定位，再用缓慢推进强调森林区域，最后在静止画面上加图注。每段只讲一个要点，避免把微缩示意误当成真实生态过程。
+**有了可用镜头，再往下做：** 用同一条视频的开头交代展台、推进段强调区域、末帧定格叠加准确图注，无需生成三次。再添加有来源的解说，并标明这是微缩概念示意。
 
 **按需辅助：** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — 需要更明确的构图时试拍另一方案；[HeyDream](https://heydream.im/free-minimax-h3/) — 补连接讲解步骤的过渡镜头
 
@@ -309,7 +309,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 | **学什么：** 沿状态变化阅读：发牌、选择、执行、资源更新、对方回合；检查镜头变化时界面是否固定。 |
 | @AllaAisling · [MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) · [完整提示词](https://x.com/AllaAisling/status/2082909383424446745) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-011) |
 
-**继续找同类题材：** [界面、游戏与数字体验](./prompts/11-ui-game-digital.md) · [教育、纪录与科学](./prompts/14-education-documentary-science.md) · [自然、动物与宠物](./prompts/17-nature-animals-pets.md) · [工业、商业与公共服务](./prompts/18-industry-business-public-service.md)
+**继续找同类题材：** [界面、游戏与数字体验（英文）](./prompts/11-ui-game-digital.md) · [教育、纪录与科学（英文）](./prompts/14-education-documentary-science.md) · [自然、动物与宠物（英文）](./prompts/17-nature-animals-pets.md) · [工业、商业与公共服务（英文）](./prompts/18-industry-business-public-service.md)
 
 `教学 · 概念演示 · 事实检查` · [回到场景选择](#workflows)
 
@@ -321,7 +321,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 ![档案桌上的地图隆起成立体景观，构图参考](./assets/gallery/topographic-map-archive.webp)
 
-**从参考到自己的镜头：** 让平面地图变成立体景观，能做出有趣的超现实画面。先只让一条等高线抬起：固定纸张边缘和其余线条，才能看清超现实变化究竟有没有按要求发生。 [SRL-001 完整提示词](./prompts/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape)
+**从参考到自己的镜头：** 让平面地图变成立体景观，能做出有趣的超现实画面。先只让一条等高线抬起：固定纸张边缘和其余线条，才能看清超现实变化究竟有没有按要求发生。 [进阶示例（英文，15 秒，多素材）](./prompts/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape)
 
 **主工具：** [SeaImagine](https://seaimagine.com/free-minimax-h3/) — 先让一个局部发生变化，其余画面保持正常，便于判断创意是否成立。
 
@@ -341,7 +341,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 **看结果，改一处：** 检查纸张边缘和其余线条是否固定、只有指定区域抬起、纸张质感是否连贯。 整张地图融化时，限定只有中央一条线运动，并降低抬起幅度；先固定摄影机。
 
-**有了可用镜头，再往下做：** 先用平面地图建立正常状态，再接等高线抬起的主体镜头，最后停在立体轮廓。沿用俯拍角度和纸张纹理，后期排列成短循环草稿。
+**有了可用镜头，再往下做：** 用同一条视频保留平面开场、纸脊抬起和结尾停留，先做一支线性短片。需要循环时，后期另做回到平面的过渡；末帧与首帧不同，不能直接假定无缝循环。
 
 **按需辅助：** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — 需要另一构图时试拍；[Fylia AI](https://fylia.ai/free-minimax-h3/) — 需要插画风格时作为备选
 
@@ -355,7 +355,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 | **学什么：** 通过日常活动铺垫再引出不可能事件，适合研究伏笔、突变，以及模型是否按指定物理事件执行。 |
 | @cocktailpeanut · [MP4](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29) · [完整提示词](https://x.com/cocktailpeanut/status/2086879654116495564) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-006) |
 
-**继续找同类题材：** [奇幻、科幻与视觉特效](./prompts/10-fantasy-scifi-vfx.md) · [建筑、室内与房地产](./prompts/15-architecture-interiors-real-estate.md) · [超现实物理与视觉错觉](./prompts/23-surreal-physics-optical-illusions.md)
+**继续找同类题材：** [奇幻、科幻与视觉特效（英文）](./prompts/10-fantasy-scifi-vfx.md) · [建筑、室内与房地产（英文）](./prompts/15-architecture-interiors-real-estate.md) · [超现实物理与视觉错觉（英文）](./prompts/23-surreal-physics-optical-illusions.md)
 
 `视觉艺术 · 建筑 · 光影` · [回到场景选择](#workflows)
 
@@ -365,9 +365,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 ## 更完整的提示词库
 
-接下来可从 **24 个分类、84 条提示词**中寻找更多题材，或打开案例解析，学习怎样把长时间线缩成一个镜头。
+接下来可先读中文导读，了解 **24 个分类、84 条提示词**的用途和素材要求，再选择英文完整示例，或打开案例解析，学习怎样把长时间线缩成一个镜头。
 
-[84 条完整提示词](./prompts/README.md) · [15 条案例的详细解析](./docs/x-community-showcase.md) · [13 条独立短练习](./docs/free-tool-prompts.md) · [观测站茶饮完整提示词](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) · [参考图制作说明](./assets/minimax-h3-reference-image-prompts.md) · [写法指南](./docs/prompting-guide.md) · [制作模板](./templates/README.md) · [多语言示例](./docs/multilingual-prompting.md)
+[24 类提示词中文导读](./docs/prompt-library_zh.md) · [84 条完整提示词（英文）](./prompts/README.md) · [15 条案例的详细解析](./docs/x-community-showcase.md) · [13 条独立短练习](./docs/free-tool-prompts.md) · [观测站茶饮进阶示例（英文，12–15 秒）](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) · [参考图制作说明](./assets/minimax-h3-reference-image-prompts.md) · [写法指南（英文）](./docs/prompting-guide.md) · [制作模板（英文）](./templates/README.md) · [多语言示例](./docs/multilingual-prompting.md)
 
 <a id="桌面台灯演示"></a>
 [台灯按键练习](./docs/free-tool-prompts.md#ugcmaker)
@@ -402,18 +402,18 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 | 工具 | 适合先尝试 | 页面可查输出 | 详细介绍与练习 |
 |---|---|---|---|
-| [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) | 适合开场、转场和运镜试拍。先用一个短镜头看清构图和动作，再决定是否扩展成完整片段。 | 5 秒 / 480p | [介绍](./docs/tools.md#videoweb) · [练习](./docs/free-tool-prompts.md#videoweb) |
-| [MusicMaker](https://musicmaker.im/free-minimax-h3/) | 适合动态封面、新歌预告和音乐视频背景。先生成短片，再下载到剪辑软件中与自己的音乐组合。 | 5 秒 / 480p | [介绍](./docs/tools.md#musicmaker) · [练习](./docs/free-tool-prompts.md#musicmaker) |
-| [UGC Maker](https://ugcmaker.org/free-minimax-h3/) | 适合产品演示和社交短片创意。先测试打开台灯这样的开场动作，再扩写广告脚本。 | 5 秒 / 480p | [介绍](./docs/tools.md#ugcmaker) · [练习](./docs/free-tool-prompts.md#ugcmaker) |
+| [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) | 适合开场、转场和运镜试拍。先用一个短镜头看清构图和动作，再决定是否扩展成完整片段。 | 5 秒 / 480p | [介绍](./docs/tools.md#videoweb) · [继续场景练习](#workflow-storyboard) |
+| [MusicMaker](https://musicmaker.im/free-minimax-h3/) | 适合动态封面、新歌预告和音乐视频背景。先生成短片，再下载到剪辑软件中与自己的音乐组合。 | 5 秒 / 480p | [介绍](./docs/tools.md#musicmaker) · [继续场景练习](#workflow-music) |
+| [UGC Maker](https://ugcmaker.org/free-minimax-h3/) | 适合产品演示和社交短片创意。先测试打开台灯这样的开场动作，再扩写广告脚本。 | 5 秒 / 480p | [介绍](./docs/tools.md#ugcmaker) · [继续场景练习](#workflow-commerce) |
 | [HeyDream](https://heydream.im/free-minimax-h3/) | 从文字或首尾两张图片探索场景。适合先确定构图、动作和转场，再制作完整视频。 | 5 秒 / 480p | [介绍](./docs/tools.md#heydream) · [练习](./docs/free-tool-prompts.md#heydream) |
 | [Flaq AI](https://flaq.ai/free-minimax-h3/) | 可先用免费网页比较两种提示词写法，再考虑单独的模型接口集成。适合快速验证产品展示和视听场景创意。 | 5 秒 / 480p | [介绍](./docs/tools.md#flaq) · [练习](./docs/free-tool-prompts.md#flaq) |
 | [BestImage AI](https://bestimage.ai/free-minimax-h3/) | 适合把产品摆放、设计构图或分镜首尾状态连接起来，也能直接从文字生成场景。 | 5 秒 / 480p | [介绍](./docs/tools.md#bestimage) · [练习](./docs/free-tool-prompts.md#bestimage) |
 | [Flyne AI](https://flyne.ai/free-minimax-h3/) | 适合简短的产品运动和图形创意。用文字或首尾图测试一次揭示、移动，再检查构图。 | 5 秒 / 480p | [介绍](./docs/tools.md#flyne) · [练习](./docs/free-tool-prompts.md#flyne) |
-| [SeaImagine](https://seaimagine.com/free-minimax-h3/) | 适合想象建筑、超现实构图和空间氛围。用一个克制的动作观察尺度、透视和光影。 | 5 秒 / 480p | [介绍](./docs/tools.md#seaimagine) · [练习](./docs/free-tool-prompts.md#seaimagine) |
-| [SeeVido](https://seevido.com/free-minimax-h3/) | 适合角色反应和产品短场景。围绕一个可见事件建立小故事，比连续塞入多个转场更容易判断结果。 | 5 秒 / 480p | [介绍](./docs/tools.md#seevido) · [练习](./docs/free-tool-prompts.md#seevido) |
+| [SeaImagine](https://seaimagine.com/free-minimax-h3/) | 适合想象建筑、超现实构图和空间氛围。用一个克制的动作观察尺度、透视和光影。 | 5 秒 / 480p | [介绍](./docs/tools.md#seaimagine) · [继续场景练习](#workflow-art) |
+| [SeeVido](https://seevido.com/free-minimax-h3/) | 适合角色反应和产品短场景。围绕一个可见事件建立小故事，比连续塞入多个转场更容易判断结果。 | 5 秒 / 480p | [介绍](./docs/tools.md#seevido) · [继续场景练习](#workflow-story) |
 | [Fylia AI](https://fylia.ai/free-minimax-h3/) | 适合肖像动作、插画场景和生活片段。先用小幅动作或环境变化判断整体风格。 | 5 秒 / 480p | [介绍](./docs/tools.md#fylia) · [练习](./docs/free-tool-prompts.md#fylia) |
 | [VO4](https://vo4.org/free-minimax-h3/) | 适合登场镜头、移动摄影和虚构环境。把空间路线说清楚，让镜头有明确起止。 | 5 秒 / 480p | [介绍](./docs/tools.md#vo4) · [练习](./docs/free-tool-prompts.md#vo4) |
-| [Chat4o AI](https://chat4o.ai/free-minimax-h3/) | 适合教学场景和演示文稿创意。用一个清楚的动作表达概念，再补充必要文字说明。 | 5 秒 / 480p | [介绍](./docs/tools.md#chat4o) · [练习](./docs/free-tool-prompts.md#chat4o) |
+| [Chat4o AI](https://chat4o.ai/free-minimax-h3/) | 适合教学场景和演示文稿创意。用一个清楚的动作表达概念，再补充必要文字说明。 | 5 秒 / 480p | [介绍](./docs/tools.md#chat4o) · [继续场景练习](#workflow-education) |
 | [AITryOn](https://aitryon.art/free-minimax-h3/) | 适合服装运动、穿搭场景和产品概念。免费 H3 页面可从文字或首尾两张图生成带音频短片，先看运动想法，再考虑完整制作。 | 5 秒 / 480p | [介绍](./docs/tools.md#aitryon) · [练习](./docs/free-tool-prompts.md#aitryon) |
 
 

@@ -1,14 +1,12 @@
 # Short-shot practice for free H3 tools / 免费版短镜头练习
 
-[Tool profiles](./tools.md) · [Home](../README.md) · [Full 84-recipe cookbook](../prompts/README.md)
+[Tool profiles](./tools.md) · [Home](../README.md) · [Advanced prompts (English)](../prompts/README.md) · [中文导读](./prompt-library_zh.md)
 
-These 13 new editorial prompts target one five-second shot. They have **not been generated or benchmarked**. Use text-only mode, leaving both image slots empty. All 13 pages currently state five seconds at 480p; recheck the live form before use because settings can change. The suggested tools are starting points, not exclusive feature claims.
+These are 13 alternative five-second, text-only exercises. To continue the example you were reading, return to the [homepage workflows](../README.md#workflows). These prompts have not been generation-tested; leave both image slots empty for this text-only route.
 
-这些练习是本项目新写的短镜头提示词，未实测生成。默认文生视频，不需要上传图片；以 5 秒为目标。13 个页面本轮都写明 5 秒、480p，使用前仍请查看当前表单，设置可能变化。每条可迁移到其他支持相同输入的工具，并不是某品牌独有能力。
+这里是 13 个不同题材的纯文字短练习。要继续刚才的茶瓶、音箱或角色示例，请回到[首页场景包](../README_zh.md#workflows)；想换题材时再选下方练习。它们以 5 秒为目标，图片槽留空，生成效果尚未实测。
 
-For two-frame practice, prepare two rights-cleared images with the same subject, aspect ratio and geometry; change only one state. Upload both. Replace the prompt’s opening/ending with those images’ actual contents and describe the movement between them. A mood/reference image alone is not an endpoint pair.
-
-双帧练习需要自己准备两张有权使用的图片，保持主体、比例和形状一致，只改变一个状态。两张都上传，把提示词起止状态改成图片中的真实内容。单张氛围图不能替代首尾帧对。
+For a real product or recurring character, use the [reference-image guide](./product-reference.md). 需要保留真实商品或角色外观时，先看[参考图准备方法](./product-reference_zh.md)。
 
 <a id="videoweb"></a>
 
