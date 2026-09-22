@@ -279,9 +279,16 @@ Fixed medium shot; unchanged identity and button position. No walking, speech or
 
 ### Examples and variations
 
-| Preview | Case and practice |
-| --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg" alt="Character entrance: detail to full silhouette — @aimikoda" width="480">](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=en&case=XH3-003) | **Character entrance: detail to full silhouette**<br><br>**Learn:** Use one character reference to connect details, full-body views and expressions.<br><br>[▶ Play video](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=en&case=XH3-003)<br><br>@aimikoda<br>[MP4](https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29) · [Full prompt](https://x.com/aimikoda/status/2086412223061135392) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-003) |
+<table>
+<tr>
+<td width="50%">
+<a href="https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=en&amp;case=XH3-003"><img src="https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg" alt="Character entrance: detail to full silhouette — @aimikoda" width="100%"></a>
+</td>
+<td width="9999" valign="middle">
+<p><strong>Character entrance: detail to full silhouette</strong><br><br><strong>Learn:</strong> Use one character reference to connect details, full-body views and expressions.<br><br><a href="https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=en&amp;case=XH3-003">▶ Play video</a><br><br>@aimikoda<br><a href="https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29">MP4</a> · <a href="https://x.com/aimikoda/status/2086412223061135392">Full prompt</a> · <a href="./docs/x-community-showcase.md#xh3-003">Notes + 5s adaptation</a></p>
+</td>
+</tr>
+</table>
 
 | Blue-studio fashion: three references in one scene | Bamboo-forest mystery: tension through close-ups |
 | --- | --- |

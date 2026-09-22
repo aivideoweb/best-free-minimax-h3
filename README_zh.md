@@ -279,9 +279,16 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 ### 案例与延伸
 
-| 画面预览 | 案例与用法 |
-| --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg" alt="角色登场：从局部揭示到完整轮廓 — @aimikoda" width="480">](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-003) | **角色登场：从局部揭示到完整轮廓**<br><br>**学什么：** 用同一角色参考图衔接细节、全身和表情。<br><br>[▶ 在线播放](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-003)<br><br>@aimikoda<br>[MP4](https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29) · [完整提示词](https://x.com/aimikoda/status/2086412223061135392) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-003) |
+<table>
+<tr>
+<td width="50%">
+<a href="https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&amp;case=XH3-003"><img src="https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg" alt="角色登场：从局部揭示到完整轮廓 — @aimikoda" width="100%"></a>
+</td>
+<td width="9999" valign="middle">
+<p><strong>角色登场：从局部揭示到完整轮廓</strong><br><br><strong>学什么：</strong> 用同一角色参考图衔接细节、全身和表情。<br><br><a href="https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&amp;case=XH3-003">▶ 在线播放</a><br><br>@aimikoda<br><a href="https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29">MP4</a> · <a href="https://x.com/aimikoda/status/2086412223061135392">完整提示词</a> · <a href="./docs/x-community-showcase.md#xh3-003">解析与 5 秒改写</a></p>
+</td>
+</tr>
+</table>
 
 | 蓝色摄影棚时尚片：三参考同场 | 竹林悬疑：用近景与正反打建立张力 |
 | --- | --- |
