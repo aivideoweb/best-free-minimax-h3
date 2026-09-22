@@ -100,25 +100,32 @@ Reuse this structure to explore your product concept: **bottle** is the subject,
 
 ### Examples and variations
 
-| Headphone commercial: macro to exploded view | Skincare campaign: night-to-morning continuity |
-| --- | --- |
-| [<img src="https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg" alt="Headphone commercial: macro to exploded view — @LudovicCreator" width="400">](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2083012032279064576/img/QvG1RJ-3ZOfkL6S9.jpg" alt="Skincare campaign: night-to-morning continuity — @AIwithJessica" width="400">](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29) |
-| **Learn:** Keep product geometry consistent through macro, rotation, separation and reassembly. | **Learn:** Compare person and product continuity across lighting and location changes. |
-| [▶ Open MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12)<br>@LudovicCreator<br>[MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) · [Full prompt](https://x.com/LudovicCreator/status/2082783319075291312) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-002) | [▶ Open MP4](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29)<br>@AIwithJessica<br>[MP4](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29) · [Full prompt](https://x.com/AIwithJessica/status/2083013658230317082) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-008) |
+<table>
+<tr><th width="9999">Headphone commercial: macro to exploded view</th><th width="9999">Skincare campaign: night-to-morning continuity</th></tr>
+<tr><td width="50%" valign="top"><a href="https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg" alt="Headphone commercial: macro to exploded view — @LudovicCreator" width="100%"></a></td><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2083012032279064576/img/QvG1RJ-3ZOfkL6S9.jpg" alt="Skincare campaign: night-to-morning continuity — @AIwithJessica" width="100%"></a></td></tr>
+<tr><td width="50%" valign="top"><strong>Learn:</strong> Keep product geometry consistent through macro, rotation, separation and reassembly.</td><td width="50%" valign="top"><strong>Learn:</strong> Compare person and product continuity across lighting and location changes.</td></tr>
+<tr><td width="50%" valign="top"><a href="https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12">▶ Open MP4</a><br>@LudovicCreator<br><a href="https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12">MP4</a> · <a href="https://x.com/LudovicCreator/status/2082783319075291312">Full prompt</a> · <a href="./docs/x-community-showcase.md#xh3-002">Notes + 5s adaptation</a></td><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29">▶ Open MP4</a><br>@AIwithJessica<br><a href="https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29">MP4</a> · <a href="https://x.com/AIwithJessica/status/2083013658230317082">Full prompt</a> · <a href="./docs/x-community-showcase.md#xh3-008">Notes + 5s adaptation</a></td></tr>
+</table>
 
-| Preview | Case and practice |
-| --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2085233539185061888/img/ZAkMSVzHz9ihLPyD.jpg" alt="Street-food vlog: place, preparation and reaction — @nawalsehar" width="400">](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) | **Street-food vlog: place, preparation and reaction**<br><br>**Learn:** Give setting, preparation and tasting reactions distinct storytelling roles.<br><br>[▶ Open MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29)<br><br>@nawalsehar<br>[MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) · [Full prompt](https://x.com/nawalsehar/status/2085233880353915217) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-012) |
+<table>
+<tr><th>Preview</th><th>Case and practice</th></tr>
+<tr><td width="50%"><a href="https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2085233539185061888/img/ZAkMSVzHz9ihLPyD.jpg" alt="Street-food vlog: place, preparation and reaction — @nawalsehar" width="100%"></a></td>
+<td width="9999" valign="middle"><p><strong>Street-food vlog: place, preparation and reaction</strong><br><br><strong>Learn:</strong> Give setting, preparation and tasting reactions distinct storytelling roles.<br><br><a href="https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29">▶ Open MP4</a><br><br>@nawalsehar<br><a href="https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29">MP4</a> · <a href="https://x.com/nawalsehar/status/2085233880353915217">Full prompt</a> · <a href="./docs/x-community-showcase.md#xh3-012">Notes + 5s adaptation</a></p></td></tr>
+</table>
 
 **Try another subject next**
 
-| Composition reference | What to try |
-| --- | --- |
-| <img src="./assets/gallery/honest-desk-lamp-demo.webp" alt="Adult creator demonstrating a folding desk lamp" width="240"> | **[Lamp: show a function with one press](./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression)**<br><br>One press, light on, then hold. Check lamp geometry and the switch action before adding ad captions.<br><br>[Try in UGC Maker](https://ugcmaker.org/free-minimax-h3/) |
+<table>
+<tr><th>Composition reference</th><th>What to try</th></tr>
+<tr><td width="30%"><img src="./assets/gallery/honest-desk-lamp-demo.webp" alt="Adult creator demonstrating a folding desk lamp" width="240"></td>
+<td width="9999" valign="middle"><p><strong><a href="./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression">Lamp: show a function with one press</a></strong><br><br>One press, light on, then hold. Check lamp geometry and the switch action before adding ad captions.<br><br><a href="https://ugcmaker.org/free-minimax-h3/">Try in UGC Maker</a></p></td></tr>
+</table>
 
-| Composition reference | What to try |
-| --- | --- |
-| <img src="./assets/gallery/modular-lunch-jar-kit.webp" alt="Original unbranded modular lunch-jar kit with five components" width="240"> | **[Lunch jar: reveal structure with one lid lift](./prompts/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo)**<br><br>Show the interior with one lid lift. Keep the jar, lid and component count consistent; avoid several assembly actions at once.<br><br>[Try in UGC Maker](https://ugcmaker.org/free-minimax-h3/) |
+<table>
+<tr><th>Composition reference</th><th>What to try</th></tr>
+<tr><td width="30%"><img src="./assets/gallery/modular-lunch-jar-kit.webp" alt="Original unbranded modular lunch-jar kit with five components" width="240"></td>
+<td width="9999" valign="middle"><p><strong><a href="./prompts/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo">Lunch jar: reveal structure with one lid lift</a></strong><br><br>Show the interior with one lid lift. Keep the jar, lid and component count consistent; avoid several assembly actions at once.<br><br><a href="https://ugcmaker.org/free-minimax-h3/">Try in UGC Maker</a></p></td></tr>
+</table>
 
 **More in this workflow:** [Brand and advertising](./prompts/01-brand-advertising.md) · [Product and e-commerce](./prompts/02-product-ecommerce.md) · [UGC and lifestyle](./prompts/03-ugc-lifestyle.md) · [Food and beverage](./prompts/05-food-beverage.md) · [Fashion and beauty](./prompts/06-fashion-beauty.md) · [Vertical series and live creator](./prompts/24-vertical-series-live-creator.md)
 
@@ -165,21 +172,26 @@ Room ambience only; no generated song, lyrics or text.
 
 ### Examples and variations
 
-| Kinetic typography: a quote becomes a story | Beat-driven western title sequence |
-| --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2083909175646785536/img/jQZFhoydpvrJNuCW.jpg" alt="Kinetic typography: a quote becomes a story — @umesh_ai" width="400">](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2085599599801077760/img/koDdEvAQb0L9RUpH.jpg" alt="Beat-driven western title sequence — @doctorwasif" width="400">](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) |
-| **Learn:** Time each phrase and hold the ending long enough to read. | **Learn:** Alternate held poses with short actions; place titles on strong beats. |
-| [▶ Open MP4](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29)<br>@umesh_ai<br>[MP4](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29) · [Full prompt](https://x.com/umesh_ai/status/2083909535593644291) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-001) | [▶ Open MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29)<br>@doctorwasif<br>[MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) · [Full prompt](https://x.com/doctorwasif/status/2085599659326935100) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-007) |
+<table>
+<tr><th width="9999">Kinetic typography: a quote becomes a story</th><th width="9999">Beat-driven western title sequence</th></tr>
+<tr><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2083909175646785536/img/jQZFhoydpvrJNuCW.jpg" alt="Kinetic typography: a quote becomes a story — @umesh_ai" width="100%"></a></td><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2085599599801077760/img/koDdEvAQb0L9RUpH.jpg" alt="Beat-driven western title sequence — @doctorwasif" width="100%"></a></td></tr>
+<tr><td width="50%" valign="top"><strong>Learn:</strong> Time each phrase and hold the ending long enough to read.</td><td width="50%" valign="top"><strong>Learn:</strong> Alternate held poses with short actions; place titles on strong beats.</td></tr>
+<tr><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29">▶ Open MP4</a><br>@umesh_ai<br><a href="https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29">MP4</a> · <a href="https://x.com/umesh_ai/status/2083909535593644291">Full prompt</a> · <a href="./docs/x-community-showcase.md#xh3-001">Notes + 5s adaptation</a></td><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29">▶ Open MP4</a><br>@doctorwasif<br><a href="https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29">MP4</a> · <a href="https://x.com/doctorwasif/status/2085599659326935100">Full prompt</a> · <a href="./docs/x-community-showcase.md#xh3-007">Notes + 5s adaptation</a></td></tr>
+</table>
 
-| Preview | Case and practice |
-| --- | --- |
-| [<img src="https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg" alt="Motion poster: assemble a layout without losing it — @LudovicCreator" width="180">](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) | **Motion poster: assemble a layout without losing it**<br><br>**Learn:** Bring layers in sequentially, then hold the finished layout for reading.<br><br>[▶ Open MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12)<br><br>@LudovicCreator<br>[MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) · [Full prompt](https://x.com/LudovicCreator/status/2083628879407632890) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-014) |
+<table>
+<tr><th>Preview</th><th>Case and practice</th></tr>
+<tr><td width="30%"><a href="https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg" alt="Motion poster: assemble a layout without losing it — @LudovicCreator" width="180"></a></td>
+<td width="9999" valign="middle"><p><strong>Motion poster: assemble a layout without losing it</strong><br><br><strong>Learn:</strong> Bring layers in sequentially, then hold the finished layout for reading.<br><br><a href="https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12">▶ Open MP4</a><br><br>@LudovicCreator<br><a href="https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12">MP4</a> · <a href="https://x.com/LudovicCreator/status/2083628879407632890">Full prompt</a> · <a href="./docs/x-community-showcase.md#xh3-014">Notes + 5s adaptation</a></p></td></tr>
+</table>
 
 **Try another subject next**
 
-| Composition reference | What to try |
-| --- | --- |
-| <img src="./assets/gallery/dynamic-night-market-poster.webp" alt="Paper-collage night-market poster with a blank title panel" width="180"> | **[Poster: move one layer, hold the rest](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat)**<br><br>Move one layer at a time and hold the other layout elements fixed. Leave time to read the finished title.<br><br>[Try in MusicMaker](https://musicmaker.im/free-minimax-h3/) |
+<table>
+<tr><th>Composition reference</th><th>What to try</th></tr>
+<tr><td width="30%"><img src="./assets/gallery/dynamic-night-market-poster.webp" alt="Paper-collage night-market poster with a blank title panel" width="180"></td>
+<td width="9999" valign="middle"><p><strong><a href="./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat">Poster: move one layer, hold the rest</a></strong><br><br>Move one layer at a time and hold the other layout elements fixed. Leave time to read the finished title.<br><br><a href="https://musicmaker.im/free-minimax-h3/">Try in MusicMaker</a></p></td></tr>
+</table>
 
 **More in this workflow:** [Music, performance and audio-driven video](./prompts/13-music-performance-audio.md) · [Motion graphics and dynamic posters](./prompts/22-motion-graphics-dynamic-posters.md)
 
@@ -225,11 +237,12 @@ Keep the bridge and bank fixed, bicycle still. Soft water; no cuts, speech or te
 
 ### Examples and variations
 
-| Cliffside chase: one continuous camera path | Swimming sequence: distinguish four motion patterns |
-| --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2082499279680405504/img/sccNuuy1xWEtEzVo.jpg" alt="Cliffside chase: one continuous camera path — @umesh_ai" width="400">](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2082798728948125696/img/cgvj4miYM0jtq8zu.jpg" alt="Swimming sequence: distinguish four motion patterns — @johnAGI168" width="400">](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29) |
-| **Learn:** Let obstacles motivate camera movement while keeping the chase path clear. | **Learn:** Check that each swimming stroke remains recognizable through transitions. |
-| [▶ Open MP4](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29)<br>@umesh_ai<br>[MP4](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29) · [Full prompt](https://x.com/umesh_ai/status/2082499539735588916) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-013) | [▶ Open MP4](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29)<br>@johnAGI168<br>[MP4](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29) · [Full prompt](https://x.com/johnAGI168/status/2082798969499832514) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-010) |
+<table>
+<tr><th width="9999">Cliffside chase: one continuous camera path</th><th width="9999">Swimming sequence: distinguish four motion patterns</th></tr>
+<tr><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2082499279680405504/img/sccNuuy1xWEtEzVo.jpg" alt="Cliffside chase: one continuous camera path — @umesh_ai" width="100%"></a></td><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2082798728948125696/img/cgvj4miYM0jtq8zu.jpg" alt="Swimming sequence: distinguish four motion patterns — @johnAGI168" width="100%"></a></td></tr>
+<tr><td width="50%" valign="top"><strong>Learn:</strong> Let obstacles motivate camera movement while keeping the chase path clear.</td><td width="50%" valign="top"><strong>Learn:</strong> Check that each swimming stroke remains recognizable through transitions.</td></tr>
+<tr><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29">▶ Open MP4</a><br>@umesh_ai<br><a href="https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29">MP4</a> · <a href="https://x.com/umesh_ai/status/2082499539735588916">Full prompt</a> · <a href="./docs/x-community-showcase.md#xh3-013">Notes + 5s adaptation</a></td><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29">▶ Open MP4</a><br>@johnAGI168<br><a href="https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29">MP4</a> · <a href="https://x.com/johnAGI168/status/2082798969499832514">Full prompt</a> · <a href="./docs/x-community-showcase.md#xh3-010">Notes + 5s adaptation</a></td></tr>
+</table>
 
 **Try another subject next**
 
@@ -292,17 +305,19 @@ Fixed medium shot; unchanged identity and button position. No walking, speech or
 </tr>
 </table>
 
-| Blue-studio fashion: three references in one scene | Bamboo-forest mystery: tension through close-ups |
-| --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg" alt="Blue-studio fashion: three references in one scene — @egeberkina" width="400">](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2083131917797556224/img/7PDZpzJGurMtyH6Q.jpg" alt="Bamboo-forest mystery: tension through close-ups — @sipteaandcoffee" width="400">](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) |
-| **Learn:** Assign each reference its actor before combining their movements. | **Learn:** Build suspense with color, depth and shot/reverse-shot coverage. |
-| [▶ Open MP4](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29)<br>@egeberkina<br>[MP4](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29) · [Full prompt](https://x.com/egeberkina/status/2083301476206588086) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-004) | [▶ Open MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29)<br>@sipteaandcoffee<br>[MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) · [Full prompt](https://x.com/sipteaandcoffee/status/2083132770650571041) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-005) |
+<table>
+<tr><th width="9999">Blue-studio fashion: three references in one scene</th><th width="9999">Bamboo-forest mystery: tension through close-ups</th></tr>
+<tr><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg" alt="Blue-studio fashion: three references in one scene — @egeberkina" width="100%"></a></td><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2083131917797556224/img/7PDZpzJGurMtyH6Q.jpg" alt="Bamboo-forest mystery: tension through close-ups — @sipteaandcoffee" width="100%"></a></td></tr>
+<tr><td width="50%" valign="top"><strong>Learn:</strong> Assign each reference its actor before combining their movements.</td><td width="50%" valign="top"><strong>Learn:</strong> Build suspense with color, depth and shot/reverse-shot coverage.</td></tr>
+<tr><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29">▶ Open MP4</a><br>@egeberkina<br><a href="https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29">MP4</a> · <a href="https://x.com/egeberkina/status/2083301476206588086">Full prompt</a> · <a href="./docs/x-community-showcase.md#xh3-004">Notes + 5s adaptation</a></td><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29">▶ Open MP4</a><br>@sipteaandcoffee<br><a href="https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29">MP4</a> · <a href="https://x.com/sipteaandcoffee/status/2083132770650571041">Full prompt</a> · <a href="./docs/x-community-showcase.md#xh3-005">Notes + 5s adaptation</a></td></tr>
+</table>
 
-| Suspense short: dialogue, reaction and sound reversal | Japanese animation teaser: identity and expression control |
-| --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2082668962203230208/img/qTeIl8rcO_BopQxq.jpg" alt="Suspense short: dialogue, reaction and sound reversal — @drjoetw" width="400">](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2082945330925240322/img/v7Ke-e6Pa0EJnv3G.jpg" alt="Japanese animation teaser: identity and expression control — @haruuraeadss" width="400">](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) |
-| **Learn:** Use a pointing gesture, a reaction and a sound change to deliver the twist. | **Learn:** Keep identity fixed while changing expressions and shots at story beats. |
-| [▶ Open MP4](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29)<br>@drjoetw<br>[MP4](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) · [Full prompt](https://x.com/drjoetw/status/2082669221222207488) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-009) | [▶ Open MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29)<br>@haruuraeadss<br>[MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) · [Full prompt](https://x.com/haruuraeadss/status/2082945363431080299) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-015) |
+<table>
+<tr><th width="9999">Suspense short: dialogue, reaction and sound reversal</th><th width="9999">Japanese animation teaser: identity and expression control</th></tr>
+<tr><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2082668962203230208/img/qTeIl8rcO_BopQxq.jpg" alt="Suspense short: dialogue, reaction and sound reversal — @drjoetw" width="100%"></a></td><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2082945330925240322/img/v7Ke-e6Pa0EJnv3G.jpg" alt="Japanese animation teaser: identity and expression control — @haruuraeadss" width="100%"></a></td></tr>
+<tr><td width="50%" valign="top"><strong>Learn:</strong> Use a pointing gesture, a reaction and a sound change to deliver the twist.</td><td width="50%" valign="top"><strong>Learn:</strong> Keep identity fixed while changing expressions and shots at story beats.</td></tr>
+<tr><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29">▶ Open MP4</a><br>@drjoetw<br><a href="https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29">MP4</a> · <a href="https://x.com/drjoetw/status/2082669221222207488">Full prompt</a> · <a href="./docs/x-community-showcase.md#xh3-009">Notes + 5s adaptation</a></td><td width="50%" valign="top"><a href="https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29">▶ Open MP4</a><br>@haruuraeadss<br><a href="https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29">MP4</a> · <a href="https://x.com/haruuraeadss/status/2082945363431080299">Full prompt</a> · <a href="./docs/x-community-showcase.md#xh3-015">Notes + 5s adaptation</a></td></tr>
+</table>
 
 **Try another subject next**
 
@@ -357,9 +372,11 @@ Soft room tone; no labels, arrows or narration.
 
 Borrow the game-interface example’s step-by-step state changes: in a lesson, introduce one explanation step per shot.
 
-| Preview | Case and practice |
-| --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg" alt="Game interface: a readable turn-based sequence — @AllaAisling" width="400">](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) | **Game interface: a readable turn-based sequence**<br><br>**Learn:** Show interface states in sequence and check that overlays stay anchored.<br><br>[▶ Open MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29)<br><br>@AllaAisling<br>[MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) · [Full prompt](https://x.com/AllaAisling/status/2082909383424446745) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-011) |
+<table>
+<tr><th>Preview</th><th>Case and practice</th></tr>
+<tr><td width="50%"><a href="https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg" alt="Game interface: a readable turn-based sequence — @AllaAisling" width="100%"></a></td>
+<td width="9999" valign="middle"><p><strong>Game interface: a readable turn-based sequence</strong><br><br><strong>Learn:</strong> Show interface states in sequence and check that overlays stay anchored.<br><br><a href="https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29">▶ Open MP4</a><br><br>@AllaAisling<br><a href="https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29">MP4</a> · <a href="https://x.com/AllaAisling/status/2082909383424446745">Full prompt</a> · <a href="./docs/x-community-showcase.md#xh3-011">Notes + 5s adaptation</a></p></td></tr>
+</table>
 
 **More in this workflow:** [UI, game and digital experience](./prompts/11-ui-game-digital.md) · [Education, documentary and science](./prompts/14-education-documentary-science.md) · [Nature, animals and pets](./prompts/17-nature-animals-pets.md) · [Industry, business and public service](./prompts/18-industry-business-public-service.md)
 
@@ -406,9 +423,11 @@ Soft paper friction; no added text or people.
 
 ### Examples and variations
 
-| Preview | Case and practice |
-| --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2086878515744669696/img/-jjYBSEiZo_2M_eS.jpg" alt="Ordinary footage, impossible event: a useful mismatch — @cocktailpeanut" width="400">](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29) | **Ordinary footage, impossible event: a useful mismatch**<br><br>**Learn:** Compare the everyday setup with the surprise, and check whether the result follows the prompt.<br><br>[▶ Open MP4](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29)<br><br>@cocktailpeanut<br>[MP4](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29) · [Full prompt](https://x.com/cocktailpeanut/status/2086879654116495564) · [Notes + 5s adaptation](./docs/x-community-showcase.md#xh3-006) |
+<table>
+<tr><th>Preview</th><th>Case and practice</th></tr>
+<tr><td width="50%"><a href="https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2086878515744669696/img/-jjYBSEiZo_2M_eS.jpg" alt="Ordinary footage, impossible event: a useful mismatch — @cocktailpeanut" width="100%"></a></td>
+<td width="9999" valign="middle"><p><strong>Ordinary footage, impossible event: a useful mismatch</strong><br><br><strong>Learn:</strong> Compare the everyday setup with the surprise, and check whether the result follows the prompt.<br><br><a href="https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29">▶ Open MP4</a><br><br>@cocktailpeanut<br><a href="https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29">MP4</a> · <a href="https://x.com/cocktailpeanut/status/2086879654116495564">Full prompt</a> · <a href="./docs/x-community-showcase.md#xh3-006">Notes + 5s adaptation</a></p></td></tr>
+</table>
 
 **More in this workflow:** [Fantasy, sci-fi and VFX](./prompts/10-fantasy-scifi-vfx.md) · [Architecture, interiors and real estate](./prompts/15-architecture-interiors-real-estate.md) · [Surreal physics and optical illusions](./prompts/23-surreal-physics-optical-illusions.md)
 
