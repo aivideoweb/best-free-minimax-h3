@@ -53,7 +53,7 @@ If you have chosen a workflow, trial in its primary tool. If you have not chosen
 
 Product demonstrations and ad openings for sellers and creators.
 
-<img src="./assets/gallery/midnight-observatory-tea.webp" alt="Commerce and creator ads" width="360">
+<img src="./assets/gallery/midnight-observatory-tea.webp" alt="Commerce and creator ads" width="100%">
 
 Source-library mood reference, not a tested workflow output.
 
@@ -93,7 +93,7 @@ lamp shape fixed. One soft click, no speech.
 
 Animated cover concepts and teaser visuals for musicians and cover designers.
 
-<img src="./assets/gallery/paper-birds-storm-shelter.webp" alt="Music and release teasers" width="360">
+<img src="./assets/gallery/paper-birds-storm-shelter.webp" alt="Music and release teasers" width="100%">
 
 Source-library mood reference, not a tested workflow output.
 
@@ -133,7 +133,7 @@ ambience; no lyrics or text.
 
 Opening, entrance, camera and transition studies for directors and storyboard artists.
 
-<img src="./assets/gallery/rain-washed-canal-morning.webp" alt="Cinematic storyboards" width="360">
+<img src="./assets/gallery/rain-washed-canal-morning.webp" alt="Cinematic storyboards" width="100%">
 
 Source-library mood reference, not a tested workflow output.
 
@@ -171,7 +171,7 @@ unchanged. Soft room tone; no dialogue or text.
 
 Character reactions and short-drama concepts for social and short-film creators.
 
-<img src="./assets/gallery/clay-repair-robot.webp" alt="Social character stories" width="360">
+<img src="./assets/gallery/clay-repair-robot.webp" alt="Social character stories" width="100%">
 
 Source-library mood reference, not a tested workflow output.
 
@@ -209,7 +209,7 @@ unchanged. Soft room ambience.
 
 Concept illustrations and presentation drafts for educators and product teams.
 
-<img src="./assets/gallery/topographic-map-archive.webp" alt="Teaching and presentations" width="360">
+<img src="./assets/gallery/topographic-map-archive.webp" alt="Teaching and presentations" width="100%">
 
 Source-library mood reference, not a tested workflow output.
 
@@ -249,7 +249,7 @@ no captions or speech.
 
 Surreal scenes, architectural atmosphere and lighting studies for visual designers.
 
-<img src="./assets/gallery/three-biome-museum-rail.webp" alt="Visual art and architecture" width="360">
+<img src="./assets/gallery/three-biome-museum-rail.webp" alt="Visual art and architecture" width="100%">
 
 Source-library mood reference, not a tested workflow output.
 

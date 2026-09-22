@@ -53,7 +53,7 @@
 
 商品演示、广告开场；适合电商运营、达人和小商家。
 
-<img src="./assets/gallery/midnight-observatory-tea.webp" alt="电商与创作者广告" width="360">
+<img src="./assets/gallery/midnight-observatory-tea.webp" alt="电商与创作者广告" width="100%">
 
 源库氛围参考图，不是本场景包的实测输出。
 
@@ -93,7 +93,7 @@
 
 动态封面、音乐预告视觉；适合音乐人和封面设计师。
 
-<img src="./assets/gallery/paper-birds-storm-shelter.webp" alt="音乐与新歌预告" width="360">
+<img src="./assets/gallery/paper-birds-storm-shelter.webp" alt="音乐与新歌预告" width="100%">
 
 源库氛围参考图，不是本场景包的实测输出。
 
@@ -133,7 +133,7 @@
 
 开场、入场、运镜和转场预演；适合导演、摄影和广告分镜。
 
-<img src="./assets/gallery/rain-washed-canal-morning.webp" alt="电影感分镜预演" width="360">
+<img src="./assets/gallery/rain-washed-canal-morning.webp" alt="电影感分镜预演" width="100%">
 
 源库氛围参考图，不是本场景包的实测输出。
 
@@ -171,7 +171,7 @@
 
 角色反应与短剧概念；适合社交账号和短片创作者。
 
-<img src="./assets/gallery/clay-repair-robot.webp" alt="社交角色故事" width="360">
+<img src="./assets/gallery/clay-repair-robot.webp" alt="社交角色故事" width="100%">
 
 源库氛围参考图，不是本场景包的实测输出。
 
@@ -209,7 +209,7 @@
 
 概念插图、教学场景和提案草稿；适合教师、产品经理及培训师。
 
-<img src="./assets/gallery/topographic-map-archive.webp" alt="教学与演示提案" width="360">
+<img src="./assets/gallery/topographic-map-archive.webp" alt="教学与演示提案" width="100%">
 
 源库氛围参考图，不是本场景包的实测输出。
 
@@ -249,7 +249,7 @@
 
 超现实场景、建筑氛围和光影试验；适合视觉与概念设计师。
 
-<img src="./assets/gallery/three-biome-museum-rail.webp" alt="视觉艺术与建筑氛围" width="360">
+<img src="./assets/gallery/three-biome-museum-rail.webp" alt="视觉艺术与建筑氛围" width="100%">
 
 源库氛围参考图，不是本场景包的实测输出。
 
