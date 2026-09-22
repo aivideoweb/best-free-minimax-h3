@@ -1,2 +1,4 @@
 # Markdown uses two trailing spaces for intentional hard line breaks.
 *.md whitespace=-blank-at-eol
+# Preserve inherited recipe bytes, including original final blank lines; hashes guard drift.
+prompts/[0-9]*.md whitespace=-blank-at-eol,-blank-at-eof
