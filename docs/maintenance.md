@@ -34,3 +34,8 @@ No automatic generation, recurring task or scheduled network job is enabled by t
 The tool manifest is the authority for output rows. The checker compares every README tool row and each detailed profile with its duration/resolution and rejects old indexed-only or unconfirmed status. Keep translated descriptions human-edited. `data/affiliate.json` is the authority for the displayed commission rates and attribution period; all eight README affiliate sections must match. Recheck the live agreement before updating this data.
 
 Run `python3 scripts/test_content.py` after changing the validator. Its regression cases intentionally corrupt source text, images, translated specifications, evidence and affiliate terms in a temporary copy to ensure the checks reject them.
+
+
+## Application workflow updates
+
+The English and Chinese homepages use six editorial workflows. Update `data/workflows.json` and both README pages together when changing a primary tool, optional support/pickup role, input requirement, review rule or example. A workflow role is not a measured capability advantage. Keep the 5s / 480p page limits and page-only evidence status separate from creative role assignments. Preserve existing section anchors when moving prompts.

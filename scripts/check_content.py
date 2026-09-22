@@ -138,6 +138,27 @@ for entry in entries:
     require('source_text_sha256' in entry and 'inherited_frame_review_source' in entry, f'{entry["id"]}: missing provenance')
     require('no new full playback' in entry['verification'], f'{entry["id"]}: unclear current verification limits')
 
+workflows = json.loads((ROOT / 'data/workflows.json').read_text())
+require(workflows['status'] == 'editorial_not_generation_tested', 'Workflow evidence status changed')
+known_tools = {t['id'] for t in tools}
+require(len(workflows['workflows']) == 6, 'Expected six application workflows')
+for workflow in workflows['workflows']:
+    require(workflow['primary'] in known_tools, 'Unknown primary workflow tool')
+    for role in ['support', 'pickup']:
+        require(all(item[0] in known_tools for item in workflow[role]), 'Unknown optional workflow tool')
+    for filename in ['README.md', 'README_zh.md']:
+        home = (ROOT / filename).read_text()
+        require(f'<a id="workflow-{workflow["id"]}"></a>' in home, f'{filename}: missing workflow')
+        require('quick-trial' in home, f'{filename}: missing shared trial method')
+        section = home.split(f'<a id="workflow-{workflow["id"]}"></a>', 1)[-1].split('<a id="workflow-', 1)[0].split('\n## ', 1)[0]
+        suffix = '_zh' if filename == 'README_zh.md' else ''
+        for field in ['name', 'output', 'reason', 'steps', 'inputs', 'review', 'tags']:
+            require(workflow[field + suffix] in section, f'{filename}: workflow {workflow["id"]} differs from {field} metadata')
+        for role in ['support', 'pickup']:
+            for item in workflow[role]:
+                require(item[1 if suffix else 2] in section, f'{filename}: workflow role description drift')
+
+
 # Keep the full visual browse path on both primary homepages.
 for filename in ['README.md', 'README_zh.md']:
     home = (ROOT / filename).read_text()

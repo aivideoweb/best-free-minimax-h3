@@ -4,9 +4,11 @@
 
 [English](./README.md) · [简体中文](./README_zh.md) · [日本語](./README_ja.md) · [한국어](./README_ko.md) · [Español](./README_es.md) · [Français](./README_fr.md) · [Deutsch](./README_de.md) · [Português](./README_pt.md)
 
-Find a free MiniMax H3 browser tool, choose a useful first prompt, and learn from attributed video examples. Maintained by **[VideoWeb AI](https://videoweb.ai/)** for creators, marketers and newcomers who want a short video without setting up a local model.
+Choose what you want to make, start with one free MiniMax H3 tool, and add other tools only for missing shots. Maintained by **[VideoWeb AI](https://videoweb.ai/)** for creators, marketers and newcomers who want a short video without setting up a local model.
 
-**[Try VideoWeb Free H3](https://videoweb.ai/free-minimax-h3/)** · [Compare 13 tools](#free-minimax-h3-tools) · [Copy a short prompt](#copy-a-short-shot-prompt) · [15 X video examples](#watch-h3-videos-and-find-the-full-prompts) · [24 recipe categories](#keep-learning-with-the-source-cookbook)
+[Commerce and creator ads](#workflow-commerce) · [Music and release teasers](#workflow-music) · [Cinematic storyboards](#workflow-storyboard) · [Social character stories](#workflow-story) · [Teaching and presentations](#workflow-education) · [Visual art and architecture](#workflow-art) · [Quick trial](#quick-trial)
+
+[13 tools and limits](#free-minimax-h3-tools) · [15 video examples](#watch-h3-videos-and-find-the-full-prompts) · [24 recipe categories](#keep-learning-with-the-source-cookbook)
 
 **Disclosure:** these 13 tools are related company brands. This is a curated discovery directory, not an independent performance ranking. “Best” means finding a suitable starting point; no quality winner has been measured. All linked pages advertise free generation without signup, but that is a page claim, not a successful-generation test. Last page check: **2026-09-22**.
 
@@ -18,30 +20,266 @@ Official MiniMax previews show product advertising, animation and music-video di
 |---|---|---|
 | [![Official MiniMax H3 minimalist product advertisement](https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/main/assets/minimalist-product-ad-generator.gif)](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/skills/minimalist-product-ad-generator) | [![Official MiniMax H3 3D animation short](https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/main/assets/3d-animation-short-generator.gif)](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/skills/3d-animation-short-generator) | [![Official MiniMax H3 music-video subtitle example](https://raw.githubusercontent.com/MiniMax-AI/MiniMax-H3/main/assets/music-video-subtitle-generator.gif)](https://github.com/MiniMax-AI/MiniMax-H3/tree/main/skills/mv-subtitle-skill-confirmed) |
 
-## Free MiniMax H3 tools
+<a id="copy-a-short-shot-prompt"></a>
 
-All links below are the exact entries from the source README’s “Free MiniMax H3 Video Generation — No Signup Required” section. The order highlights our host brand, then follows the source list. Use-case labels are suggestions; they do not establish exclusive features or different backends.
+<a id="workflows"></a>
 
-| Tool | Start with | Output stated on page | Profile and practice |
-|---|---|---|---|
-| [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) | Opening shots, transitions and camera studies for filmmakers and marketers. Use a short take to decide whether the framing communicates the scene before planning a longer sequence. | 5s / 480p | [Profile](./docs/tools.md#videoweb) · [Prompt](#videoweb-first-prompt) |
-| [MusicMaker](https://musicmaker.im/free-minimax-h3/) | A music-focused platform for cover animation, release teasers and visual backgrounds. Create a short visual, download it, then cut it against your own track in an editor. | 5s / 480p | [Profile](./docs/tools.md#musicmaker) · [Prompt](#cover-art-atmosphere) |
-| [UGC Maker](https://ugcmaker.org/free-minimax-h3/) | A creator-oriented workspace for product demonstrations and short social concepts. Test an opening action, such as turning on a lamp, before developing an ad script. | 5s / 480p | [Profile](./docs/tools.md#ugcmaker) · [Prompt](#desk-lamp-demo) |
-| [HeyDream](https://heydream.im/free-minimax-h3/) | A general creative suite for exploring scene ideas from text or a pair of endpoint images. Useful when the next decision is a composition or transition rather than a finished film. | 5s / 480p | [Profile](./docs/tools.md#heydream) · [Prompt](./docs/free-tool-prompts.md#heydream) |
-| [Flaq AI](https://flaq.ai/free-minimax-h3/) | A browser H3 entry point on a platform that also offers model APIs. Use the free page to compare two wording choices before considering a separate developer integration. | 5s / 480p | [Profile](./docs/tools.md#flaq) · [Prompt](./docs/free-tool-prompts.md#flaq) |
-| [BestImage AI](https://bestimage.ai/free-minimax-h3/) | An image and video platform with text and two-frame routes. Useful for exploring motion between your own compositions, product arrangements or storyboard endpoints. | 5s / 480p | [Profile](./docs/tools.md#bestimage) · [Prompt](./docs/free-tool-prompts.md#bestimage) |
-| [Flyne AI](https://flyne.ai/free-minimax-h3/) | A browser route for compact product-motion and graphic concepts. Try a single reveal or movement from a brief or endpoint pair, then review the resulting composition. | 5s / 480p | [Profile](./docs/tools.md#flyne) · [Prompt](./docs/free-tool-prompts.md#flyne) |
-| [SeaImagine](https://seaimagine.com/free-minimax-h3/) | A visual exploration entry point for imagined architecture, surreal compositions and atmosphere. One restrained movement helps assess scale and lighting. | 5s / 480p | [Profile](./docs/tools.md#seaimagine) · [Prompt](./docs/free-tool-prompts.md#seaimagine) |
-| [SeeVido](https://seevido.com/free-minimax-h3/) | A short-video entry point for a character reaction or product reveal. Build a compact story around one visible event rather than several scene changes. | 5s / 480p | [Profile](./docs/tools.md#seevido) · [Prompt](./docs/free-tool-prompts.md#seevido) |
-| [Fylia AI](https://fylia.ai/free-minimax-h3/) | A creative entry point for portrait motion, illustrated worlds and everyday scenes. Use a restrained gesture or environmental movement to test the tone. | 5s / 480p | [Profile](./docs/tools.md#fylia) · [Prompt](./docs/free-tool-prompts.md#fylia) |
-| [VO4](https://vo4.org/free-minimax-h3/) | A video concept tool for arrival shots, moving cameras and fictional environments. Specify a simple spatial path so that the take has a readable beginning and end. | 5s / 480p | [Profile](./docs/tools.md#vo4) · [Prompt](./docs/free-tool-prompts.md#vo4) |
-| [Chat4o AI](https://chat4o.ai/free-minimax-h3/) | A text-led entry point for simple learning scenes and presentation ideas. Use one clear action to make an abstract explanation easier to discuss. | 5s / 480p | [Profile](./docs/tools.md#chat4o) · [Prompt](#seed-dispersal-concept) |
-| [AITryOn](https://aitryon.art/free-minimax-h3/) | A fashion-oriented creative platform whose free H3 page supports text or two-frame clips with audio. Use it to sketch garment movement, outfit scenes and product concepts before a larger production. | 5s / 480p | [Profile](./docs/tools.md#aitryon) · [Prompt](./docs/free-tool-prompts.md#aitryon) |
+## Start with a workflow
 
+These are editorial role assignments, not tested rankings. The primary tool is a default start; support tools offer alternate compositions or styles; pickup tools are optional for missing shots. A tool can fill several roles. **All 13 checked free pages state 5s / 480p**: core and pickup shots are creative roles, not quality tiers. These roles do not establish exclusive audio or download capabilities. Assemble clips, exact text and musical timing in an editor.
 
-**How to read the comparison:** All 13 pages were readable after browser checks, including their output instructions. AITryOn blocked the HTTP research client but loaded in the browser. Free, no-signup and unlimited-count labels are provider claims. We did not measure queue speed, watermark behavior or output quality, and did not review current commercial-use terms. The output settings on UGC Maker, HeyDream, Flaq, BestImage and AITryOn were confirmed by expanding their browser FAQ panels. [Evidence and update rules](./docs/provenance.md).
+| Workflow | Default start | First deliverable |
+|---|---|---|
+| [Commerce and creator ads](#workflow-commerce) | UGC Maker | Product demonstrations and ad openings |
+| [Music and release teasers](#workflow-music) | MusicMaker | Animated cover concepts and teaser visuals |
+| [Cinematic storyboards](#workflow-storyboard) | VideoWeb AI | Opening, entrance, camera and transition studies |
+| [Social character stories](#workflow-story) | SeeVido | Character reactions and short-drama concepts |
+| [Teaching and presentations](#workflow-education) | Chat4o AI | Concept illustrations and presentation drafts |
+| [Visual art and architecture](#workflow-art) | SeaImagine | Surreal scenes, architectural atmosphere and lighting studies |
 
-**Choose by your next task:** VideoWeb for an opening shot; MusicMaker for cover-art motion; UGC Maker for a product action; BestImage for a composition transition; Chat4o for a visual explanation. These are useful starting briefs, not tested brand advantages. Each [tool profile](./docs/tools.md) has an illustrated card, a concrete introduction, limitations and a practice prompt.
+<a id="quick-trial"></a>
+
+### Shared first step: trial one shot
+
+If you have chosen a workflow, trial in its primary tool. If you have not chosen a workflow, or want one consistent entry point for comparing prompt wording, start with [Flaq AI](https://flaq.ai/free-minimax-h3/); no evidence establishes that it is faster or more accurate, and its result does not validate another service. Compare identical prompts, inputs, aspect ratios and output settings. Record date, wait, defects, audio and download outcome; change one instruction at a time.
+
+[Cup lighting test prompt](./docs/free-tool-prompts.md#flaq) · [VideoWeb form example](#your-first-free-clip)
+
+**Finding a route:** use Ctrl/Cmd+F to search for a scene or tool name.
+
+<a id="workflow-commerce"></a>
+
+### Commerce and creator ads
+
+Product demonstrations and ad openings for sellers and creators.
+
+<img src="./assets/gallery/midnight-observatory-tea.webp" alt="Commerce and creator ads" width="360">
+
+Source-library mood reference, not a tested workflow output.
+
+**Primary:** [UGC Maker](https://ugcmaker.org/free-minimax-h3/) — Begin with one switch press or product reveal so product and action continuity are easy to inspect.
+
+**Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Explore an alternate product composition; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate one transition shot; assemble it in an editor
+
+**Optional pickups:** [Flyne AI](https://flyne.ai/free-minimax-h3/) — Use when a product reveal is missing; [SeeVido](https://seevido.com/free-minimax-h3/) — Use when a reaction shot is missing; [AITryOn](https://aitryon.art/free-minimax-h3/) — Use for missing fabric-motion shots in apparel ads
+
+**Shortest route:** Write one product action → trial it in UGC Maker and inspect → make the needed shots there → edit; add another tool only for a missing shot.
+
+**Inputs:** Prepare product references and one selling point; for frame guidance supply matching start/end images. Add exact copy and prices in editing.
+
+**Review:** Product appearance, finger contact, sound/action alignment and truthful claims.
+
+**Trial and limits:** Plan 5s / 480p shots. Success rate and cross-tool continuity have not been tested.
+
+`commerce · product action · vertical`
+
+<a id="desk-lamp-demo"></a>
+
+**Copy-ready practice (untested):**
+
+```text
+Create one five-second shot, 9:16.
+In a fixed medium shot of a clean desk, an adult hand presses the switch of a
+small matte desk lamp once. The lamp turns on and casts a warm pool of light
+across a blank notebook. Hold the final state. Keep the hand natural and the
+lamp shape fixed. One soft click, no speech.
+```
+
+[Input and review details](./docs/free-tool-prompts.md#ugcmaker) · [Related video and author prompt](./docs/x-community-showcase.md#xh3-002)
+
+<a id="workflow-music"></a>
+
+### Music and release teasers
+
+Animated cover concepts and teaser visuals for musicians and cover designers.
+
+<img src="./assets/gallery/paper-birds-storm-shelter.webp" alt="Music and release teasers" width="360">
+
+Source-library mood reference, not a tested workflow output.
+
+**Primary:** [MusicMaker](https://musicmaker.im/free-minimax-h3/) — Start with a small movement around cover artwork; control musical timing in editing.
+
+**Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Explore a different cover composition; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate a missing visual transition
+
+**Optional pickups:** [SeaImagine](https://seaimagine.com/free-minimax-h3/) — Add spatial or lighting atmosphere; [Fylia AI](https://fylia.ai/free-minimax-h3/) — Add restrained illustrated or character motion
+
+**Shortest route:** Choose a cleared track and one visual theme → trial in MusicMaker → inspect and add matching shots → time music and captions in an editor.
+
+**Inputs:** Prepare artwork or a written scene and a cleared track; do not assume the free page accepts audio-reference uploads.
+
+**Review:** Cover shape and visual consistency; verify final beat timing, captions and track in the edit.
+
+**Trial and limits:** Plan 5s / 480p shots. Success rate and cross-tool continuity have not been tested.
+
+`music · square cover · edited soundtrack`
+
+<a id="cover-art-atmosphere"></a>
+
+**Copy-ready practice (untested):**
+
+```text
+Create one five-second shot, 1:1.
+A fictional cobalt record sleeve stands on a desk beside a clear glass prism.
+Hold the camera still as a narrow band of sunlight crosses the sleeve, then
+settles on the prism. Preserve the sleeve shape and blank cover. Gentle room
+ambience; no lyrics or text.
+```
+
+[Input and review details](./docs/free-tool-prompts.md#musicmaker) · [Related video and author prompt](./docs/x-community-showcase.md#xh3-007)
+
+<a id="workflow-storyboard"></a>
+
+### Cinematic storyboards
+
+Opening, entrance, camera and transition studies for directors and storyboard artists.
+
+<img src="./assets/gallery/rain-washed-canal-morning.webp" alt="Cinematic storyboards" width="360">
+
+Source-library mood reference, not a tested workflow output.
+
+**Primary:** [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) — Start with the VideoWeb single-shot practice; VO4 is an alternative for a moving subject, not a required second stage.
+
+**Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Explore a composition alternative; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate a transition between storyboard beats
+
+**Optional pickups:** [VO4](https://vo4.org/free-minimax-h3/) — Use for a missing moving-subject tracking shot
+
+**Shortest route:** Trial one shot with clear endpoints in VideoWeb → inspect space and camera path → add necessary shots in the same tool → arrange the storyboard in an editor.
+
+**Inputs:** Define opening and ending compositions and the subject path; frame guidance needs both endpoint images.
+
+**Review:** Geometry, consistent screen direction and whether the ending can connect to the next shot.
+
+**Trial and limits:** Plan 5s / 480p shots. Success rate and cross-tool continuity have not been tested.
+
+`storyboard · camera movement · endpoint frames`
+
+**Copy-ready practice (untested):**
+
+```text
+Create one five-second shot, 16:9.
+From a still view outside an open wooden doorway, slowly push the camera into
+a quiet reading room. A curtain moves gently at the window. End with the chair
+and lamp fully visible. Keep the doorway straight and the room layout
+unchanged. Soft room tone; no dialogue or text.
+```
+
+[Input and review details](./docs/free-tool-prompts.md#videoweb) · [Related video and author prompt](./docs/x-community-showcase.md#xh3-013)
+
+<a id="workflow-story"></a>
+
+### Social character stories
+
+Character reactions and short-drama concepts for social and short-film creators.
+
+<img src="./assets/gallery/clay-repair-robot.webp" alt="Social character stories" width="360">
+
+Source-library mood reference, not a tested workflow output.
+
+**Primary:** [SeeVido](https://seevido.com/free-minimax-h3/) — Start with one character reaction; use Fylia as an illustrated-style alternative, avoiding simultaneous identity and style changes.
+
+**Optional support:** [Fylia AI](https://fylia.ai/free-minimax-h3/) — Alternative starting point for illustration; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate a missing scene transition
+
+**Optional pickups:** [UGC Maker](https://ugcmaker.org/free-minimax-h3/) — Add a product-use action; [Flyne AI](https://flyne.ai/free-minimax-h3/) — Add an isolated product reveal
+
+**Shortest route:** Write a three-sentence story yourself → trial one reaction in SeeVido → check identity continuity → add adjacent shots in the same tool → edit; add product inserts only if needed.
+
+**Inputs:** Prepare identity, wardrobe and location descriptions; reuse references across shots. Cross-tool identity consistency is not guaranteed.
+
+**Review:** Face, wardrobe and hands, clear reaction order, and a full listening check if dialogue is used.
+
+**Trial and limits:** Plan 5s / 480p shots. Success rate and cross-tool continuity have not been tested.
+
+`social story · character reaction · continuity`
+
+**Copy-ready practice (untested):**
+
+```text
+Create one five-second shot, 9:16.
+A small original clay explorer stands beside a softly glowing blue pebble. The
+explorer leans closer, pauses, then smiles without speaking. Fixed medium
+framing, warm workshop light. Keep the costume, face and number of fingers
+unchanged. Soft room ambience.
+```
+
+[Input and review details](./docs/free-tool-prompts.md#seevido) · [Related video and author prompt](./docs/x-community-showcase.md#xh3-015)
+
+<a id="workflow-education"></a>
+
+### Teaching and presentations
+
+Concept illustrations and presentation drafts for educators and product teams.
+
+<img src="./assets/gallery/topographic-map-archive.webp" alt="Teaching and presentations" width="360">
+
+Source-library mood reference, not a tested workflow output.
+
+**Primary:** [Chat4o AI](https://chat4o.ai/free-minimax-h3/) — Describe one visible action and test whether it clarifies a concept; this route is a video entry point, not a text-writing service.
+
+**Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Trial a clearer composition; [HeyDream](https://heydream.im/free-minimax-h3/) — Add a transition between explanation steps
+
+**Optional pickups:** [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) — Add a spatial reveal or opening shot
+
+**Shortest route:** Verify the lesson and script → trial one action in Chat4o → check factual and visual accuracy → add needed shots → add accurate labels and narration in editing.
+
+**Inputs:** Prepare verified teaching points and a scene description; add exact text, numbers and arrows in editing.
+
+**Review:** Factual accuracy and misleading motion; label conceptual illustrations as such.
+
+**Trial and limits:** Plan 5s / 480p shots. Success rate and cross-tool continuity have not been tested.
+
+`education · concept illustration · fact check`
+
+<a id="seed-dispersal-concept"></a>
+
+**Copy-ready practice (untested):**
+
+```text
+Create one five-second shot, 16:9.
+A close view of a dry dandelion seed head against a simple green background. A
+light breeze carries a few seeds gently to the right while the camera stays
+still. Keep the stem rooted and the remaining seed head coherent. Soft wind,
+no captions or speech.
+```
+
+[Input and review details](./docs/free-tool-prompts.md#chat4o) · [Related video and author prompt](./docs/x-community-showcase.md#xh3-011)
+
+<a id="workflow-art"></a>
+
+### Visual art and architecture
+
+Surreal scenes, architectural atmosphere and lighting studies for visual designers.
+
+<img src="./assets/gallery/three-biome-museum-rail.webp" alt="Visual art and architecture" width="360">
+
+Source-library mood reference, not a tested workflow output.
+
+**Primary:** [SeaImagine](https://seaimagine.com/free-minimax-h3/) — Start with one lighting change in one space so perspective and reflections can be inspected.
+
+**Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Trial an alternative composition; [Fylia AI](https://fylia.ai/free-minimax-h3/) — Alternative for an illustrated style
+
+**Optional pickups:** [VO4](https://vo4.org/free-minimax-h3/) — Add moving-subject tracking; [HeyDream](https://heydream.im/free-minimax-h3/) — Add a transition between spaces
+
+**Shortest route:** Trial one spatial change in SeaImagine → inspect perspective and reflections → add matching shots there → edit; use an alternative only for a missing character or moving shot.
+
+**Inputs:** Define the space, lighting direction and fixed architecture; prepare both endpoint images for frame guidance.
+
+**Review:** Stable columns and boundaries, plausible reflections and intentional surreal changes.
+
+**Trial and limits:** Plan 5s / 480p shots. Success rate and cross-tool continuity have not been tested.
+
+`visual art · architecture · lighting`
+
+**Copy-ready practice (untested):**
+
+```text
+Create one five-second shot, 16:9.
+A quiet circular atrium has pale stone walls and a shallow reflecting pool. In
+one locked wide shot, a soft cloud shadow passes over the water and fades.
+Preserve every column and reflection boundary. Gentle water ambience; no
+people or text.
+```
+
+[Input and review details](./docs/free-tool-prompts.md#seaimagine) · [Related video and author prompt](./docs/x-community-showcase.md#xh3-006)
 
 ## Your first free clip
 
@@ -53,7 +291,7 @@ Actual VideoWeb browser form, captured 2026-09-22 after dismissing the promotion
 1. Open [VideoWeb’s free H3 page](https://videoweb.ai/free-minimax-h3/). Its page states **5 seconds, 480p**, with 16:9, 9:16 or 1:1 framing.
 2. Leave both image slots empty for text-only generation. For frame guidance, supply **both** a start and an end image you can use.
 3. Paste the brief below, choose 16:9, complete any page verification and submit once. Follow the queue rather than repeatedly submitting.
-4. Preview the video and audio; check the doorway, camera path and ending. Download useful takes. Browser-local history is not a backup.
+4. Preview the video and audio; check the doorway, camera path and ending. If the page returns a downloadable result, save the useful take. Browser-local history is not a backup.
 
 <a id="videoweb-first-prompt"></a>
 
@@ -66,48 +304,6 @@ Soft room ambience, no speech, no text, no cuts. Hold the last second calmly.
 ```
 
 This is an untested editorial practice prompt. [Try 12 more scenarios](./docs/free-tool-prompts.md), or use a full cookbook recipe after shortening it to one shot. Exact lettering, music timing and complex action often need editing afterwards.
-
-## Copy a short-shot prompt
-
-These original editorial practices are untested five-second text-only briefs. Copy one, then check its single action and ending.
-
-### Desk lamp demo
-
-[UGC Maker](https://ugcmaker.org/free-minimax-h3/) · Check: finger contact, one switch press and light direction
-
-```text
-Create one five-second shot, 9:16.
-In a fixed medium shot of a clean desk, an adult hand presses the switch of a
-small matte desk lamp once. The lamp turns on and casts a warm pool of light
-across a blank notebook. Hold the final state. Keep the hand natural and the
-lamp shape fixed. One soft click, no speech.
-```
-
-### Cover-art atmosphere
-
-[MusicMaker](https://musicmaker.im/free-minimax-h3/) · Check: stable cover edges; add the actual track afterwards
-
-```text
-Create one five-second shot, 1:1.
-A fictional cobalt record sleeve stands on a desk beside a clear glass prism.
-Hold the camera still as a narrow band of sunlight crosses the sleeve, then
-settles on the prism. Preserve the sleeve shape and blank cover. Gentle room
-ambience; no lyrics or text.
-```
-
-### Seed dispersal concept
-
-[Chat4o AI](https://chat4o.ai/free-minimax-h3/) · Check: seed structure; label it as a concept illustration
-
-```text
-Create one five-second shot, 16:9.
-A close view of a dry dandelion seed head against a simple green background. A
-light breeze carries a few seeds gently to the right while the camera stays
-still. Keep the stem rooted and the remaining seed head coherent. Soft wind,
-no captions or speech.
-```
-
-[All 13 bilingual practices and input instructions](./docs/free-tool-prompts.md).
 
 ## What MiniMax H3 can do
 
@@ -262,6 +458,31 @@ These 11 Flaq AI gallery images are retained as first-frame and mood references,
 | [MOG-001 prompt](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat) | [SRL-001 prompt](./prompts/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape) | [VER-001 prompt](./prompts/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo) |
 
 
+## Free MiniMax H3 tools
+
+All links below are the exact entries from the source README’s “Free MiniMax H3 Video Generation — No Signup Required” section. The order highlights our host brand, then follows the source list. Use-case labels are suggestions; they do not establish exclusive features or different backends.
+
+| Tool | Start with | Output stated on page | Profile and practice |
+|---|---|---|---|
+| [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) | Opening shots, transitions and camera studies for filmmakers and marketers. Use a short take to decide whether the framing communicates the scene before planning a longer sequence. | 5s / 480p | [Profile](./docs/tools.md#videoweb) · [Prompt](#videoweb-first-prompt) |
+| [MusicMaker](https://musicmaker.im/free-minimax-h3/) | A music-focused platform for cover animation, release teasers and visual backgrounds. Create a short visual, download it, then cut it against your own track in an editor. | 5s / 480p | [Profile](./docs/tools.md#musicmaker) · [Prompt](#cover-art-atmosphere) |
+| [UGC Maker](https://ugcmaker.org/free-minimax-h3/) | A creator-oriented workspace for product demonstrations and short social concepts. Test an opening action, such as turning on a lamp, before developing an ad script. | 5s / 480p | [Profile](./docs/tools.md#ugcmaker) · [Prompt](#desk-lamp-demo) |
+| [HeyDream](https://heydream.im/free-minimax-h3/) | A general creative suite for exploring scene ideas from text or a pair of endpoint images. Useful when the next decision is a composition or transition rather than a finished film. | 5s / 480p | [Profile](./docs/tools.md#heydream) · [Prompt](./docs/free-tool-prompts.md#heydream) |
+| [Flaq AI](https://flaq.ai/free-minimax-h3/) | A browser H3 entry point on a platform that also offers model APIs. Use the free page to compare two wording choices before considering a separate developer integration. | 5s / 480p | [Profile](./docs/tools.md#flaq) · [Prompt](./docs/free-tool-prompts.md#flaq) |
+| [BestImage AI](https://bestimage.ai/free-minimax-h3/) | An image and video platform with text and two-frame routes. Useful for exploring motion between your own compositions, product arrangements or storyboard endpoints. | 5s / 480p | [Profile](./docs/tools.md#bestimage) · [Prompt](./docs/free-tool-prompts.md#bestimage) |
+| [Flyne AI](https://flyne.ai/free-minimax-h3/) | A browser route for compact product-motion and graphic concepts. Try a single reveal or movement from a brief or endpoint pair, then review the resulting composition. | 5s / 480p | [Profile](./docs/tools.md#flyne) · [Prompt](./docs/free-tool-prompts.md#flyne) |
+| [SeaImagine](https://seaimagine.com/free-minimax-h3/) | A visual exploration entry point for imagined architecture, surreal compositions and atmosphere. One restrained movement helps assess scale and lighting. | 5s / 480p | [Profile](./docs/tools.md#seaimagine) · [Prompt](./docs/free-tool-prompts.md#seaimagine) |
+| [SeeVido](https://seevido.com/free-minimax-h3/) | A short-video entry point for a character reaction or product reveal. Build a compact story around one visible event rather than several scene changes. | 5s / 480p | [Profile](./docs/tools.md#seevido) · [Prompt](./docs/free-tool-prompts.md#seevido) |
+| [Fylia AI](https://fylia.ai/free-minimax-h3/) | A creative entry point for portrait motion, illustrated worlds and everyday scenes. Use a restrained gesture or environmental movement to test the tone. | 5s / 480p | [Profile](./docs/tools.md#fylia) · [Prompt](./docs/free-tool-prompts.md#fylia) |
+| [VO4](https://vo4.org/free-minimax-h3/) | A video concept tool for arrival shots, moving cameras and fictional environments. Specify a simple spatial path so that the take has a readable beginning and end. | 5s / 480p | [Profile](./docs/tools.md#vo4) · [Prompt](./docs/free-tool-prompts.md#vo4) |
+| [Chat4o AI](https://chat4o.ai/free-minimax-h3/) | A text-led entry point for simple learning scenes and presentation ideas. Use one clear action to make an abstract explanation easier to discuss. | 5s / 480p | [Profile](./docs/tools.md#chat4o) · [Prompt](#seed-dispersal-concept) |
+| [AITryOn](https://aitryon.art/free-minimax-h3/) | A fashion-oriented creative platform whose free H3 page supports text or two-frame clips with audio. Use it to sketch garment movement, outfit scenes and product concepts before a larger production. | 5s / 480p | [Profile](./docs/tools.md#aitryon) · [Prompt](./docs/free-tool-prompts.md#aitryon) |
+
+
+**How to read the comparison:** All 13 pages were readable after browser checks, including their output instructions. AITryOn blocked the HTTP research client but loaded in the browser. Free, no-signup and unlimited-count labels are provider claims. We did not measure queue speed, watermark behavior or output quality, and did not review current commercial-use terms. The output settings on UGC Maker, HeyDream, Flaq, BestImage and AITryOn were confirmed by expanding their browser FAQ panels. [Evidence and update rules](./docs/provenance.md).
+
+
+
 ## Common questions
 
 **Is this a list of genuinely free tools?** The listed pages advertise a free browser route. We checked page statements, not successful generation or backend identity. Queue availability and access can change; report changes with the exact URL and date.
@@ -279,6 +500,7 @@ These 11 Flaq AI gallery images are retained as first-frame and mood references,
 **What if a page or video fails?** Do not repeatedly submit while queued. Save your prompt, check the original post for an expired video URL, and [report a broken tool or media link](https://github.com/aivideoweb/best-free-minimax-h3/issues/new?template=tool-update.yml).
 
 ## Help maintain the directory
+
 
 Contribute a newly checked tool, a changed free limit, an original short prompt or an attributed X case. Follow [CONTRIBUTING](./CONTRIBUTING.md), the [maintenance checklist](./docs/maintenance.md) and [source record](./docs/provenance.md). A result test should record the page, date, settings, inputs, wait time, downloadable output and known defects. Page-only checks must remain page-only checks.
 
