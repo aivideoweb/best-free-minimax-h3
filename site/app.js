@@ -61,7 +61,12 @@ function stopPlayer() {
   $("video").load();
   if (old?.isConnected) old.focus();
 }
-$("close").addEventListener("click", () => $("player").close());
+function closePlayer() {
+  $("video").pause();
+  $("player").close();
+}
+$("close").addEventListener("click", closePlayer);
+$("player").addEventListener("cancel", (event) => { event.preventDefault(); closePlayer(); });
 $("player").addEventListener("close", stopPlayer);
 $("player").addEventListener("click", (event) => {
   if (event.target !== $("player")) return;
@@ -72,7 +77,7 @@ $("player").addEventListener("click", (event) => {
     event.clientY < r.top ||
     event.clientY > r.bottom
   )
-    $("player").close();
+    closePlayer();
 });
 $("video").addEventListener("playing", () => {
   $("playback-status").textContent = "";
@@ -86,6 +91,8 @@ $("video").addEventListener("error", () => {
 });
 function render() {
   document.documentElement.lang = english ? "en" : "zh-CN";
+  $("filters").setAttribute("aria-label", t("场景分类", "Workflow filters"));
+  $("gallery").setAttribute("aria-label", t("视频案例", "Video examples"));
   document.title = t(
     "MiniMax H3 视频案例 · VideoWeb AI",
     "MiniMax H3 Video Gallery · VideoWeb AI",

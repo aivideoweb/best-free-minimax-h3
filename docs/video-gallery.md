@@ -14,9 +14,11 @@ The gallery includes 15 videos, six workflow filters and Chinese/English switchi
 
 ## 当前验证结果 / Current verification
 
-已检查桌面三列、平板两列、手机单列，无横向溢出；筛选、中英文切换、弹窗开关及关闭后停止播放通过。浏览器试播外部视频时收到 403，尚未确认真实视频播放成功；播放器会提示失败并提供原帖链接。HTTP HEAD 的 200 不作为播放成功证据。
+已检查桌面三列、平板两列、手机单列，无横向溢出；筛选、中英文切换、弹窗开关及关闭后停止播放通过。首次试播时视频源因来源页面信息返回 403；设置不发送来源页面后，Chrome 实际试播通过。外部链接仍可能变化，失败时提供原帖入口。
 
-Responsive layout, filters, language switching, dialog controls and playback cleanup were checked. External video requests returned HTTP 403 in browser testing, so successful media playback is not yet verified.
+Responsive layout, filters, language switching, dialog controls and playback cleanup were checked. After setting a no-referrer policy for external media requests, sampled video playback passed in Chrome. External URLs may still expire.
+
+案例暂未提供独立字幕轨或完整文字稿。
 
 ## 本地预览 / Local preview
 
