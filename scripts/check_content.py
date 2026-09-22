@@ -178,12 +178,11 @@ for filename in ['README.md', 'README_zh.md']:
     require(len(explicit_ids) == len(set(explicit_ids)), f'{filename}: duplicate explicit anchor')
     for entry in entries:
         require(len(re.findall(r'(?:\]\(|src=")' + re.escape(entry['thumbnail_url']) + r'(?:\)|")', home)) == 1, f'{filename}: expected one inline case preview {entry["id"]}')
-        language = 'zh' if filename == 'README_zh.md' else 'en'
-        player_url = f'https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang={language}&case={entry["id"]}'
+        player_url = entry['video_url']
         preview_link = r'\[<img src="' + re.escape(entry['thumbnail_url']) + r'"[^>]*>\]\(' + re.escape(player_url) + r'\)'
         html_player_url = player_url.replace('&', '&amp;')
         html_preview_link = r'<a href="' + re.escape(html_player_url) + r'">\s*<img src="' + re.escape(entry['thumbnail_url']) + r'"[^>]*>\s*</a>'
-        require(re.search(preview_link, home) or re.search(html_preview_link, home), f'{filename}: wrong case player target {entry["id"]}')
+        require(re.search(preview_link, home) or re.search(html_preview_link, home), f'{filename}: wrong case MP4 target {entry["id"]}')
         for field in ['video_url', 'prompt_url']:
             require(entry[field] in home, f'{filename}: missing direct {field} for {entry["id"]}')
     for path in ROOT.glob('prompts/[0-9]*.md'):

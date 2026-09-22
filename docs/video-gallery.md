@@ -6,9 +6,9 @@
 
 The gallery includes 15 videos, six workflow filters and Chinese/English switching. Click a preview to open the player; Escape, the close button or the backdrop closes it and stops playback.
 
-README 中的案例图片直接打开对应播放器。例如，`?lang=zh&case=XH3-002` 打开中文耳机广告案例；`lang=en` 使用英文。浏览器若限制自动播放，点击播放器内的播放按钮即可。
+README 中的案例图片现已直接链接到 MP4，不依赖本展示页。浏览器可能直接播放，也可能下载。此独立展示页保留供已有链接访问。
 
-README case previews link directly to the corresponding player with `?lang=en&case=XH3-002`. If autoplay is blocked, press play in the video controls.
+README previews now link directly to MP4 files. The browser may play or download the video. This standalone gallery remains available for existing links.
 
 ## 发布与更新 / Publishing and updates
 

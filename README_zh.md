@@ -6,7 +6,7 @@
 
 由 **[VideoWeb AI](https://videoweb.ai/)** 整理的免费 MiniMax H3 工具与创作指南。先看案例找到方向，再从六个场景包中选择工具，复制提示词，试拍第一个 **5 秒镜头**。
 
-**[看视频案例](https://boogeyyagaa.github.io/minimax-h3-video-gallery/) · [选场景与工具](#workflows) · [用 VideoWeb 免费试拍](https://videoweb.ai/free-minimax-h3/)**
+**[看视频案例](#video-examples) · [选场景与工具](#workflows) · [用 VideoWeb 免费试拍](https://videoweb.ai/free-minimax-h3/)**
 
 [第一次怎么用](#quick-trial) · [全部 13 个工具](#免费工具列表) · [84 条提示词与解析](#更完整的提示词库)
 
@@ -53,7 +53,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 参考图帮助理解构图，创作者视频帮助学习镜头；两者都不是免费工具的实测结果。免费表单用下方 **5 秒练习**；想做更长的视频或使用多份素材，再看标注输入要求的 **进阶示例**。
 
-点击案例图片或“在线播放”，即可打开该案例的播放器；参考图用于学习构图。
+点击案例图片或“打开 MP4”可打开对应视频。能否直接播放取决于浏览器和视频地址，也可能触发下载。参考图用于学习构图。
 
 <a id="workflow-commerce"></a>
 
@@ -96,17 +96,19 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 - **按需辅助：** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — 补产品构图试拍；[HeyDream](https://heydream.im/free-minimax-h3/) — 生成一个过渡镜头，随后在剪辑软件拼接
 - **按需补镜：** [Flyne AI](https://flyne.ai/free-minimax-h3/) — 缺产品揭示镜头时选用；[SeeVido](https://seevido.com/free-minimax-h3/) — 缺人物反应时选用；[AITryOn](https://aitryon.art/free-minimax-h3/) — 服装广告缺布料运动镜头时选用
 
+<a id="video-examples"></a>
+
 ### 案例与延伸
 
 | 耳机广告：从材质微距到结构拆解 | 护肤广告：夜晚到清晨的连续性 |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg" alt="耳机广告：从材质微距到结构拆解 — @LudovicCreator" width="400">](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-002) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2083012032279064576/img/QvG1RJ-3ZOfkL6S9.jpg" alt="护肤广告：夜晚到清晨的连续性 — @AIwithJessica" width="400">](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-008) |
+| [<img src="https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg" alt="耳机广告：从材质微距到结构拆解 — @LudovicCreator" width="400">](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2083012032279064576/img/QvG1RJ-3ZOfkL6S9.jpg" alt="护肤广告：夜晚到清晨的连续性 — @AIwithJessica" width="400">](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29) |
 | **学什么：** 观察微距、旋转、拆解和重组如何保持产品形状。 | **学什么：** 对照光线和地点变化前后的人物与产品外观。 |
-| [▶ 在线播放](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-002)<br>@LudovicCreator<br>[MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) · [完整提示词](https://x.com/LudovicCreator/status/2082783319075291312) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-002) | [▶ 在线播放](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-008)<br>@AIwithJessica<br>[MP4](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29) · [完整提示词](https://x.com/AIwithJessica/status/2083013658230317082) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-008) |
+| [▶ 打开 MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12)<br>@LudovicCreator<br>[MP4](https://video.twimg.com/ext_tw_video/2082783299395538944/pu/vid/avc1/1280x720/2lMmYGBjYKPRAZ8M.mp4?tag=12) · [完整提示词](https://x.com/LudovicCreator/status/2082783319075291312) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-002) | [▶ 打开 MP4](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29)<br>@AIwithJessica<br>[MP4](https://video.twimg.com/amplify_video/2083012032279064576/vid/avc1/2560x1440/vfNGJZk54lKChkX4.mp4?tag=29) · [完整提示词](https://x.com/AIwithJessica/status/2083013658230317082) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-008) |
 
 | 画面预览 | 案例与用法 |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2085233539185061888/img/ZAkMSVzHz9ihLPyD.jpg" alt="街头美食：环境、制作与人物反应 — @nawalsehar" width="400">](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-012) | **街头美食：环境、制作与人物反应**<br><br>**学什么：** 用环境全景、制作细节和试吃反应分担叙事。<br><br>[▶ 在线播放](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-012)<br><br>@nawalsehar<br>[MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) · [完整提示词](https://x.com/nawalsehar/status/2085233880353915217) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-012) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2085233539185061888/img/ZAkMSVzHz9ihLPyD.jpg" alt="街头美食：环境、制作与人物反应 — @nawalsehar" width="400">](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) | **街头美食：环境、制作与人物反应**<br><br>**学什么：** 用环境全景、制作细节和试吃反应分担叙事。<br><br>[▶ 打开 MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29)<br><br>@nawalsehar<br>[MP4](https://video.twimg.com/amplify_video/2085233539185061888/vid/avc1/2560x1440/jgQLrvA-NHvBJBx_.mp4?tag=29) · [完整提示词](https://x.com/nawalsehar/status/2085233880353915217) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-012) |
 
 **想换题材，可以这样延伸**
 
@@ -165,13 +167,13 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 | 动态文字：让一句话变成视觉叙事 | 西部片头：让剪辑服从节拍 |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2083909175646785536/img/jQZFhoydpvrJNuCW.jpg" alt="动态文字：让一句话变成视觉叙事 — @umesh_ai" width="400">](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-001) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2085599599801077760/img/koDdEvAQb0L9RUpH.jpg" alt="西部片头：让剪辑服从节拍 — @doctorwasif" width="400">](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-007) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2083909175646785536/img/jQZFhoydpvrJNuCW.jpg" alt="动态文字：让一句话变成视觉叙事 — @umesh_ai" width="400">](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2085599599801077760/img/koDdEvAQb0L9RUpH.jpg" alt="西部片头：让剪辑服从节拍 — @doctorwasif" width="400">](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) |
 | **学什么：** 分配文字出现的时间，结尾留出阅读停顿。 | **学什么：** 让静止姿态与短动作交替，标题落在重拍上。 |
-| [▶ 在线播放](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-001)<br>@umesh_ai<br>[MP4](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29) · [完整提示词](https://x.com/umesh_ai/status/2083909535593644291) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-001) | [▶ 在线播放](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-007)<br>@doctorwasif<br>[MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) · [完整提示词](https://x.com/doctorwasif/status/2085599659326935100) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-007) |
+| [▶ 打开 MP4](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29)<br>@umesh_ai<br>[MP4](https://video.twimg.com/amplify_video/2083909175646785536/vid/avc1/2560x1440/L_Hs2kX2rOJqYZ8F.mp4?tag=29) · [完整提示词](https://x.com/umesh_ai/status/2083909535593644291) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-001) | [▶ 打开 MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29)<br>@doctorwasif<br>[MP4](https://video.twimg.com/amplify_video/2085599599801077760/vid/avc1/1920x1080/aQ8Mx5ImZmjNxrZR.mp4?tag=29) · [完整提示词](https://x.com/doctorwasif/status/2085599659326935100) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-007) |
 
 | 画面预览 | 案例与用法 |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg" alt="动态海报：逐步组装但不破坏版式 — @LudovicCreator" width="180">](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-014) | **动态海报：逐步组装但不破坏版式**<br><br>**学什么：** 图层依次进入，版式稳定后留出阅读时间。<br><br>[▶ 在线播放](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-014)<br><br>@LudovicCreator<br>[MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) · [完整提示词](https://x.com/LudovicCreator/status/2083628879407632890) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-014) |
+| [<img src="https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg" alt="动态海报：逐步组装但不破坏版式 — @LudovicCreator" width="180">](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) | **动态海报：逐步组装但不破坏版式**<br><br>**学什么：** 图层依次进入，版式稳定后留出阅读时间。<br><br>[▶ 打开 MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12)<br><br>@LudovicCreator<br>[MP4](https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12) · [完整提示词](https://x.com/LudovicCreator/status/2083628879407632890) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-014) |
 
 **想换题材，可以这样延伸**
 
@@ -225,9 +227,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 | 悬崖追逐：连续运镜的空间路线 | 游泳片段：区分四种动作 |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2082499279680405504/img/sccNuuy1xWEtEzVo.jpg" alt="悬崖追逐：连续运镜的空间路线 — @umesh_ai" width="400">](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-013) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2082798728948125696/img/cgvj4miYM0jtq8zu.jpg" alt="游泳片段：区分四种动作 — @johnAGI168" width="400">](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-010) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2082499279680405504/img/sccNuuy1xWEtEzVo.jpg" alt="悬崖追逐：连续运镜的空间路线 — @umesh_ai" width="400">](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2082798728948125696/img/cgvj4miYM0jtq8zu.jpg" alt="游泳片段：区分四种动作 — @johnAGI168" width="400">](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29) |
 | **学什么：** 让障碍推动运镜，保持追逐路线清楚。 | **学什么：** 检查动作切换后，每种泳姿是否仍清楚可辨。 |
-| [▶ 在线播放](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-013)<br>@umesh_ai<br>[MP4](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29) · [完整提示词](https://x.com/umesh_ai/status/2082499539735588916) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-013) | [▶ 在线播放](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-010)<br>@johnAGI168<br>[MP4](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29) · [完整提示词](https://x.com/johnAGI168/status/2082798969499832514) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-010) |
+| [▶ 打开 MP4](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29)<br>@umesh_ai<br>[MP4](https://video.twimg.com/amplify_video/2082499279680405504/vid/avc1/2560x1440/Zho0yGTsy043Peo5.mp4?tag=29) · [完整提示词](https://x.com/umesh_ai/status/2082499539735588916) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-013) | [▶ 打开 MP4](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29)<br>@johnAGI168<br>[MP4](https://video.twimg.com/amplify_video/2082798728948125696/vid/avc1/2560x1440/jPepLvnPJuANFMKx.mp4?tag=29) · [完整提示词](https://x.com/johnAGI168/status/2082798969499832514) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-010) |
 
 **想换题材，可以这样延伸**
 
@@ -282,25 +284,25 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 <table>
 <tr>
 <td width="50%">
-<a href="https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&amp;case=XH3-003"><img src="https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg" alt="角色登场：从局部揭示到完整轮廓 — @aimikoda" width="100%"></a>
+<a href="https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg" alt="角色登场：从局部揭示到完整轮廓 — @aimikoda" width="100%"></a>
 </td>
 <td width="9999" valign="middle">
-<p><strong>角色登场：从局部揭示到完整轮廓</strong><br><br><strong>学什么：</strong> 用同一角色参考图衔接细节、全身和表情。<br><br><a href="https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&amp;case=XH3-003">▶ 在线播放</a><br><br>@aimikoda<br><a href="https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29">MP4</a> · <a href="https://x.com/aimikoda/status/2086412223061135392">完整提示词</a> · <a href="./docs/x-community-showcase.md#xh3-003">解析与 5 秒改写</a></p>
+<p><strong>角色登场：从局部揭示到完整轮廓</strong><br><br><strong>学什么：</strong> 用同一角色参考图衔接细节、全身和表情。<br><br><a href="https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29">▶ 打开 MP4</a><br><br>@aimikoda<br><a href="https://video.twimg.com/amplify_video/2086412141729402880/vid/avc1/2160x2294/FS1GToZV1NqxgwuP.mp4?tag=29">MP4</a> · <a href="https://x.com/aimikoda/status/2086412223061135392">完整提示词</a> · <a href="./docs/x-community-showcase.md#xh3-003">解析与 5 秒改写</a></p>
 </td>
 </tr>
 </table>
 
 | 蓝色摄影棚时尚片：三参考同场 | 竹林悬疑：用近景与正反打建立张力 |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg" alt="蓝色摄影棚时尚片：三参考同场 — @egeberkina" width="400">](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-004) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2083131917797556224/img/7PDZpzJGurMtyH6Q.jpg" alt="竹林悬疑：用近景与正反打建立张力 — @sipteaandcoffee" width="400">](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-005) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg" alt="蓝色摄影棚时尚片：三参考同场 — @egeberkina" width="400">](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2083131917797556224/img/7PDZpzJGurMtyH6Q.jpg" alt="竹林悬疑：用近景与正反打建立张力 — @sipteaandcoffee" width="400">](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) |
 | **学什么：** 为每份参考素材指定角色，再安排同场动作。 | **学什么：** 用色彩、景深和正反打营造悬念。 |
-| [▶ 在线播放](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-004)<br>@egeberkina<br>[MP4](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29) · [完整提示词](https://x.com/egeberkina/status/2083301476206588086) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-004) | [▶ 在线播放](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-005)<br>@sipteaandcoffee<br>[MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) · [完整提示词](https://x.com/sipteaandcoffee/status/2083132770650571041) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-005) |
+| [▶ 打开 MP4](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29)<br>@egeberkina<br>[MP4](https://video.twimg.com/amplify_video/2083300689606852608/vid/avc1/2560x1440/fI84aXKhdEk3Fhp-.mp4?tag=29) · [完整提示词](https://x.com/egeberkina/status/2083301476206588086) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-004) | [▶ 打开 MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29)<br>@sipteaandcoffee<br>[MP4](https://video.twimg.com/amplify_video/2083131917797556224/vid/avc1/2560x1440/IwY2cFJMAMZcOWT2.mp4?tag=29) · [完整提示词](https://x.com/sipteaandcoffee/status/2083132770650571041) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-005) |
 
 | 悬疑短片：对白、反应与声音反转 | 日语动画预告：身份与表情控制 |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2082668962203230208/img/qTeIl8rcO_BopQxq.jpg" alt="悬疑短片：对白、反应与声音反转 — @drjoetw" width="400">](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-009) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2082945330925240322/img/v7Ke-e6Pa0EJnv3G.jpg" alt="日语动画预告：身份与表情控制 — @haruuraeadss" width="400">](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-015) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2082668962203230208/img/qTeIl8rcO_BopQxq.jpg" alt="悬疑短片：对白、反应与声音反转 — @drjoetw" width="400">](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) | [<img src="https://pbs.twimg.com/amplify_video_thumb/2082945330925240322/img/v7Ke-e6Pa0EJnv3G.jpg" alt="日语动画预告：身份与表情控制 — @haruuraeadss" width="400">](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) |
 | **学什么：** 用指向、反应和声音变化完成剧情转折。 | **学什么：** 固定角色外观，再按剧情节点改变表情和镜头。 |
-| [▶ 在线播放](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-009)<br>@drjoetw<br>[MP4](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) · [完整提示词](https://x.com/drjoetw/status/2082669221222207488) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-009) | [▶ 在线播放](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-015)<br>@haruuraeadss<br>[MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) · [完整提示词](https://x.com/haruuraeadss/status/2082945363431080299) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-015) |
+| [▶ 打开 MP4](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29)<br>@drjoetw<br>[MP4](https://video.twimg.com/amplify_video/2082668962203230208/vid/avc1/2560x1440/PQbFC3v78uE88LdE.mp4?tag=29) · [完整提示词](https://x.com/drjoetw/status/2082669221222207488) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-009) | [▶ 打开 MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29)<br>@haruuraeadss<br>[MP4](https://video.twimg.com/amplify_video/2082945330925240322/vid/avc1/2560x1440/pitGJm9RtfP57PFJ.mp4?tag=29) · [完整提示词](https://x.com/haruuraeadss/status/2082945363431080299) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-015) |
 
 **想换题材，可以这样延伸**
 
@@ -357,7 +359,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 | 画面预览 | 案例与用法 |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg" alt="游戏界面：让回合过程清楚可读 — @AllaAisling" width="400">](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-011) | **游戏界面：让回合过程清楚可读**<br><br>**学什么：** 逐步呈现界面状态，检查图层是否跟随画面漂移。<br><br>[▶ 在线播放](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-011)<br><br>@AllaAisling<br>[MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) · [完整提示词](https://x.com/AllaAisling/status/2082909383424446745) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-011) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg" alt="游戏界面：让回合过程清楚可读 — @AllaAisling" width="400">](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) | **游戏界面：让回合过程清楚可读**<br><br>**学什么：** 逐步呈现界面状态，检查图层是否跟随画面漂移。<br><br>[▶ 打开 MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29)<br><br>@AllaAisling<br>[MP4](https://video.twimg.com/amplify_video/2082909305062273024/vid/avc1/2560x1440/YHAv0vy5R_uIZnls.mp4?tag=29) · [完整提示词](https://x.com/AllaAisling/status/2082909383424446745) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-011) |
 
 **继续找同类题材：** [界面、游戏与数字体验（英文）](./prompts/11-ui-game-digital.md) · [教育、纪录与科学（英文）](./prompts/14-education-documentary-science.md) · [自然、动物与宠物（英文）](./prompts/17-nature-animals-pets.md) · [工业、商业与公共服务（英文）](./prompts/18-industry-business-public-service.md)
 
@@ -406,7 +408,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 | 画面预览 | 案例与用法 |
 | --- | --- |
-| [<img src="https://pbs.twimg.com/amplify_video_thumb/2086878515744669696/img/-jjYBSEiZo_2M_eS.jpg" alt="日常影像与不可能事件：值得研究的偏差 — @cocktailpeanut" width="400">](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-006) | **日常影像与不可能事件：值得研究的偏差**<br><br>**学什么：** 比较日常铺垫与意外事件，也检查结果是否符合提示词。<br><br>[▶ 在线播放](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=zh&case=XH3-006)<br><br>@cocktailpeanut<br>[MP4](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29) · [完整提示词](https://x.com/cocktailpeanut/status/2086879654116495564) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-006) |
+| [<img src="https://pbs.twimg.com/amplify_video_thumb/2086878515744669696/img/-jjYBSEiZo_2M_eS.jpg" alt="日常影像与不可能事件：值得研究的偏差 — @cocktailpeanut" width="400">](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29) | **日常影像与不可能事件：值得研究的偏差**<br><br>**学什么：** 比较日常铺垫与意外事件，也检查结果是否符合提示词。<br><br>[▶ 打开 MP4](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29)<br><br>@cocktailpeanut<br>[MP4](https://video.twimg.com/amplify_video/2086878515744669696/vid/avc1/832x480/SWq-SdbO4yoiFzOO.mp4?tag=29) · [完整提示词](https://x.com/cocktailpeanut/status/2086879654116495564) · [解析与 5 秒改写](./docs/x-community-showcase.md#xh3-006) |
 
 **继续找同类题材：** [奇幻、科幻与视觉特效（英文）](./prompts/10-fantasy-scifi-vfx.md) · [建筑、室内与房地产（英文）](./prompts/15-architecture-interiors-real-estate.md) · [超现实物理与视觉错觉（英文）](./prompts/23-surreal-physics-optical-illusions.md)
 

@@ -53,10 +53,11 @@ class ContentGuardTests(unittest.TestCase):
         p.write_text(text + '\n' + preview + '\n')
         self.check('expected one inline case preview')
 
-    def test_wrong_player_target_is_rejected(self):
+    def test_wrong_mp4_target_is_rejected(self):
         p = self.repo / 'README_zh.md'
-        p.write_text(p.read_text().replace('&case=XH3-002)', '&case=XH3-008)', 1))
-        self.check('wrong case player target XH3-002')
+        entries = json.loads((self.repo / 'docs/x-community-sources.json').read_text())['entries']
+        p.write_text(p.read_text().replace(entries[1]['video_url'], entries[7]['video_url'], 1))
+        self.check('wrong case MP4 target XH3-002')
 
     def test_missing_evidence(self):
         p = self.repo / 'data/tools.json'
