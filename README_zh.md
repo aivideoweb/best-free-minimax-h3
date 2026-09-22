@@ -8,11 +8,11 @@
 
 [选场景开始](#workflows) · [表单怎么填](#quick-trial) · [查 13 个工具](#免费工具列表) · [完整资料](#更完整的提示词库)
 
-**使用前知道这点：** 以下工具均为本公司相关品牌。页面核对日期为 2026-09-22，均标注免费、免注册、5 秒 / 480p；本轮没有实际提交生成。工具分工是编辑建议，配图与外部视频不是这些免费入口的实测结果。
+**免费规格：** 13 个工具的页面均标注免注册、5 秒 / 480p（2026-09-22 核对）。以下练习与工具组合供试拍参考，尚未验证实际生成效果。
 
 ## 先看 H3 能做什么
 
-下面是 MiniMax 官方托管的模型演示，直接展示产品广告、动画和音乐视频的方向；**不是这 13 个免费工具的实测输出**。免费入口的页面规格为 5 秒、480p。点击动图进入官方制作说明。
+先看看 MiniMax 官方演示中的产品广告、3D 动画和音乐视频。点击动图，可查看对应的制作说明。
 
 | 产品广告 | 3D 动画 | 音乐视频 |
 |---|---|---|
@@ -26,7 +26,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 ## 选一个场景，做出第一个镜头
 
-| 场景 | 默认起点 | 首次交付 |
+| 场景 | 默认起点 | 先做什么 |
 |---|---|---|
 | [电商与创作者广告](#workflow-commerce) | UGC Maker | 商品演示、广告开场 |
 | [音乐与新歌预告](#workflow-music) | MusicMaker | 动态封面、音乐预告视觉 |
@@ -35,7 +35,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 | [教学与演示提案](#workflow-education) | Chat4o AI | 概念插图、教学场景和提案草稿 |
 | [视觉艺术与建筑氛围](#workflow-art) | SeaImagine | 超现实场景、建筑氛围和光影试验 |
 
-每包按 **看参考 → 学写法 → 复制试拍 → 检查修改 → 补镜剪辑** 展开。主工具先完成核心镜头；辅助工具用于另一种构图，补片工具用于缺少的镜头。它们没有经过画质排名，也不代表独享音频或下载能力。需要人物、产品和风格一致的镜头，优先在同一入口完成并逐段检查；换入口属于独立试验，不保证连续性，也不能据此推断各品牌后台是否相同。
+每包按 **看参考 → 学写法 → 复制试拍 → 检查修改 → 补镜剪辑** 展开。先用主工具完成一个镜头，需要换构图或补镜头时，再尝试辅助工具。同一组视频尽量使用同一入口；切换工具后，重新检查人物、产品和画风是否一致。
 
 <a id="quick-trial"></a>
 <a id="第一次怎么用"></a>
@@ -43,13 +43,13 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 ### 提示词准备好后，怎么提交
 
 1. 打开所选场景的主工具，复制该场景下方的提示词，选择其中写明的比例。
-2. 这些首页改写均用纯文字模式，两张图片都留空；配图用于理解构图，不是必须上传的素材。若改用图片引导，须自备匹配的首尾两张图。
+2. 下面的练习都用纯文字模式，两张图片都留空；配图用于理解构图，不是必须上传的素材。若改用图片引导，须自备匹配的首尾两张图。
 3. 完成页面验证后提交一次，等队列状态变化。结果可用时先下载，再检查场景下方列出的重点。
 4. 有问题时只改一项，再试；能用的镜头先留下，再决定是否补拍。
 
-[看真实表单截图与逐步说明](./docs/first-clip_zh.md)。想比较同一句提示词的两种写法，可固定使用 [Flaq AI](https://flaq.ai/free-minimax-h3/) 验证；记录设置、等待时间、画面、声音和下载结果。它不是必经步骤，也没有速度优势实测。
+[查看表单截图和操作步骤](./docs/first-clip_zh.md)。想比较两种提示词写法，也可以在 [Flaq AI](https://flaq.ai/free-minimax-h3/) 用相同设置分别试拍，记录画面、声音和下载结果；选好工具后可直接开始。
 
-下方保留 Flaq AI 源库参考图和配方，并就地配上新的 5 秒文字改写（未生成验证）。X 案例按作者自述记录模型，保留视频、作者提示词和解析；只借鉴写法，不假定免费页能复现原片时长或多参考输入。本轮未重新完整播放这些案例，媒体归原作者。
+每个场景都有构图参考、可复制的短提示词和创作者视频。参考图用于说明画面构思，创作者视频用于学习镜头方法；它们不是下方免费工具的实测结果。较长视频可拆成多个短镜头练习。
 
 <a id="workflow-commerce"></a>
 
@@ -57,9 +57,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 商品演示、广告开场；适合电商运营、达人和小商家。
 
-![山顶观测站中的虚构茶瓶，源库参考图](./assets/gallery/midnight-observatory-tea.webp)
+![山顶观测站中的虚构茶瓶，构图参考](./assets/gallery/midnight-observatory-tea.webp)
 
-**从参考到自己的镜头：** 源配方把星光、水滴和天光变化组成一支茶饮广告。免费试拍只取“光线扫过瓶身”：保留产品轮廓与文案留白，先做一个能接进广告的产品镜头。 [BRD-001 原配方](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch)
+**从参考到自己的镜头：** 茶饮广告可以用星光、水滴和天光变化来展示瓶身质感。第一次试拍只保留“光线扫过瓶身”：保留产品轮廓与文案留白，先做一个能接进广告的产品镜头。 [BRD-001 完整提示词](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch)
 
 **主工具：** [UGC Maker](https://ugcmaker.org/free-minimax-h3/) — 先完成一个产品揭示镜头，再考虑人物反应和口播。
 
@@ -83,9 +83,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 **有了可用镜头，再往下做：** 先用观测站环境开场，接瓶身光线镜头，再停在产品主画面上加一句卖点。三段沿用同一瓶子和蓝调光线；精确标签与广告文字后期添加。
 
-**可选辅助（未实测）：** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — 补产品构图试拍；[HeyDream](https://heydream.im/free-minimax-h3/) — 生成一个过渡镜头，随后在剪辑软件拼接
+**按需辅助：** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — 补产品构图试拍；[HeyDream](https://heydream.im/free-minimax-h3/) — 生成一个过渡镜头，随后在剪辑软件拼接
 
-**可选补片（未实测）：** [Flyne AI](https://flyne.ai/free-minimax-h3/) — 缺产品揭示镜头时选用；[SeeVido](https://seevido.com/free-minimax-h3/) — 缺人物反应时选用；[AITryOn](https://aitryon.art/free-minimax-h3/) — 服装广告缺布料运动镜头时选用
+**按需补镜：** [Flyne AI](https://flyne.ai/free-minimax-h3/) — 缺产品揭示镜头时选用；[SeeVido](https://seevido.com/free-minimax-h3/) — 缺人物反应时选用；[AITryOn](https://aitryon.art/free-minimax-h3/) — 服装广告缺布料运动镜头时选用
 
 **看别人如何处理这个问题**
 
@@ -111,11 +111,11 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 动态封面、音乐预告视觉；适合音乐人和封面设计师。
 
-![石墨灰与软木便携音箱，源库参考图](./assets/gallery/radial-cork-speaker.webp)
+![石墨灰与软木便携音箱，构图参考](./assets/gallery/radial-cork-speaker.webp)
 
-**从参考到自己的镜头：** 源配方用音箱演示绕拍，并强调只借运镜、不复制参考内容。这里把它改成新歌预告的视觉底片：先用一小段平稳绕拍，再由剪辑配上自己的歌曲和标题。 [MRF-002 原配方](./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content)
+**从参考到自己的镜头：** 音箱示例展示了如何用绕拍突出物体的轮廓和材质。制作新歌预告时，可以借用这种运镜：先用一小段平稳绕拍，再由剪辑配上自己的歌曲和标题。 [MRF-002 完整提示词](./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content)
 
-**主工具：** [MusicMaker](https://musicmaker.im/free-minimax-h3/) — 先做一段可配歌的视觉底片，歌曲节奏在剪辑时控制。
+**主工具：** [MusicMaker](https://musicmaker.im/free-minimax-h3/) — 先做一段可配歌的预告画面，歌曲节奏在剪辑时控制。
 
 **换成你的题材：** 先试下方虚构音箱；换成自己的封面物件时，只替换外观描述。准备有权使用的歌曲供后期配乐。
 
@@ -135,9 +135,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 **有了可用镜头，再往下做：** 先留一秒静止音箱，再接小幅绕拍，最后停留并加入歌名和发布日期。把这三段导入剪辑软件，配自己的歌，在重拍处剪切。
 
-**可选辅助（未实测）：** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — 需要不同产品或封面构图时选用；[HeyDream](https://heydream.im/free-minimax-h3/) — 缺连接两段视觉的过渡镜头时选用
+**按需辅助：** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — 需要不同产品或封面构图时选用；[HeyDream](https://heydream.im/free-minimax-h3/) — 缺连接两段视觉的过渡镜头时选用
 
-**可选补片（未实测）：** [SeaImagine](https://seaimagine.com/free-minimax-h3/) — 补空间与光影氛围；[Fylia AI](https://fylia.ai/free-minimax-h3/) — 补插画或人物小动作
+**按需补镜：** [SeaImagine](https://seaimagine.com/free-minimax-h3/) — 补空间与光影氛围；[Fylia AI](https://fylia.ai/free-minimax-h3/) — 补插画或人物小动作
 
 **看别人如何处理这个问题**
 
@@ -163,9 +163,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 开场、入场、运镜和转场预演；适合导演、摄影和广告分镜。
 
-![雨后运河、石桥与停靠自行车，源库参考图](./assets/gallery/rain-washed-canal-morning.webp)
+![雨后运河、石桥与停靠自行车，构图参考](./assets/gallery/rain-washed-canal-morning.webp)
 
-**从参考到自己的镜头：** 源配方用雨后运河建立地点氛围。先取“沿岸推进到石桥”这一段：把镜头起点和终点写清楚，比同时要求多种运镜更容易检查空间是否稳定。 [TRV-001 原配方](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning)
+**从参考到自己的镜头：** 雨后的运河适合用来交代故事发生的地点。先取“沿岸推进到石桥”这一段：把镜头起点和终点写清楚，比同时要求多种运镜更容易检查空间是否稳定。 [TRV-001 完整提示词](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning)
 
 **主工具：** [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) — 默认从 VideoWeb 的单镜头练习起步；VO4 是移动主体镜头的备选，不必两者都用。
 
@@ -186,9 +186,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 **有了可用镜头，再往下做：** 先用运河镜头确定环境，再补桥边人物入场，最后停在人物将要走向的方向。统一摄影机高度和移动方向，剪成三格动态分镜。
 
-**可选辅助（未实测）：** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — 补构图方案；[HeyDream](https://heydream.im/free-minimax-h3/) — 补分镜之间的过渡镜头
+**按需辅助：** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — 补构图方案；[HeyDream](https://heydream.im/free-minimax-h3/) — 补分镜之间的过渡镜头
 
-**可选补片（未实测）：** [VO4](https://vo4.org/free-minimax-h3/) — 需要跟随移动主体时选用
+**按需补镜：** [VO4](https://vo4.org/free-minimax-h3/) — 需要跟随移动主体时选用
 
 **看别人如何处理这个问题**
 
@@ -214,9 +214,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 角色反应与短剧概念；适合社交账号和短片创作者。
 
-![微缩工作台上的黄色黏土修理机器人，源库参考图](./assets/gallery/clay-repair-robot.webp)
+![微缩工作台上的黄色黏土修理机器人，构图参考](./assets/gallery/clay-repair-robot.webp)
 
-**从参考到自己的镜头：** 源配方让修理机器人发现、搬起并收好纽扣。先只拍“听见一声，转头发现”：故事的吸引力来自反应顺序，不必一次塞进完整剧情。 [ANI-002 原配方](./prompts/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button)
+**从参考到自己的镜头：** 修理机器人发现、搬起并收好纽扣，就能构成一个小故事。先只拍“听见一声，转头发现”：故事的吸引力来自反应顺序，不必一次塞进完整剧情。 [ANI-002 完整提示词](./prompts/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button)
 
 **主工具：** [SeeVido](https://seevido.com/free-minimax-h3/) — 先完成一个角色的一次反应；偏插画风格时可改用 Fylia，避免同时换人物和画风。
 
@@ -237,9 +237,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 **有了可用镜头，再往下做：** 把纽扣落下作为开场，机器人转头作为主体，纽扣旁的停顿作为结尾。沿用同一套机器人外观和工作台描述，再考虑加入搬运动作。
 
-**可选辅助（未实测）：** [Fylia AI](https://fylia.ai/free-minimax-h3/) — 插画风格的备选起点；[HeyDream](https://heydream.im/free-minimax-h3/) — 需要场景连接时生成过渡镜头
+**按需辅助：** [Fylia AI](https://fylia.ai/free-minimax-h3/) — 插画风格的备选起点；[HeyDream](https://heydream.im/free-minimax-h3/) — 需要场景连接时生成过渡镜头
 
-**可选补片（未实测）：** [UGC Maker](https://ugcmaker.org/free-minimax-h3/) — 补角色使用产品的动作；[Flyne AI](https://flyne.ai/free-minimax-h3/) — 补单独的产品揭示
+**按需补镜：** [UGC Maker](https://ugcmaker.org/free-minimax-h3/) — 补角色使用产品的动作；[Flyne AI](https://flyne.ai/free-minimax-h3/) — 补单独的产品揭示
 
 **看别人如何处理这个问题**
 
@@ -271,9 +271,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 概念插图、教学场景和提案草稿；适合教师、产品经理及培训师。
 
-![轨道串联三个微缩环境的博物馆展台，源库参考图](./assets/gallery/three-biome-museum-rail.webp)
+![轨道串联三个微缩环境的博物馆展台，构图参考](./assets/gallery/three-biome-museum-rail.webp)
 
-**从参考到自己的镜头：** 源配方用一条轨道串起三个微缩生态环境。教学试拍先取其中一个展区，让观众看清“我要讲哪个区域”，具体知识再用准确图注和解说补充。 这个镜头只做课程开场，不承担科学解释；事实和因果要由有来源的讲解补充。 [MRF-001 原配方](./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take)
+**从参考到自己的镜头：** 用一条轨道串起三个微缩环境，可以引导观众依次观察不同区域。教学试拍先取其中一个展区，让观众看清“我要讲哪个区域”，具体知识再用准确图注和解说补充。 这个镜头只做课程开场，不承担科学解释；事实和因果要由有来源的讲解补充。 [MRF-001 完整提示词](./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take)
 
 **主工具：** [Chat4o AI](https://chat4o.ai/free-minimax-h3/) — 用文字描述一个可见动作，先判断它是否帮助解释概念；这里使用的是视频入口，不是文本写作服务。
 
@@ -295,9 +295,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 **有了可用镜头，再往下做：** 先展示完整展台定位，再用缓慢推进强调森林区域，最后在静止画面上加图注。每段只讲一个要点，避免把微缩示意误当成真实生态过程。
 
-**可选辅助（未实测）：** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — 需要更明确的构图时试拍另一方案；[HeyDream](https://heydream.im/free-minimax-h3/) — 补连接讲解步骤的过渡镜头
+**按需辅助：** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — 需要更明确的构图时试拍另一方案；[HeyDream](https://heydream.im/free-minimax-h3/) — 补连接讲解步骤的过渡镜头
 
-**可选补片（未实测）：** [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) — 缺空间展示或开场镜头时选用
+**按需补镜：** [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) — 缺空间展示或开场镜头时选用
 
 **看别人如何处理这个问题**
 
@@ -319,9 +319,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 超现实场景、建筑氛围和光影试验；适合视觉与概念设计师。
 
-![档案桌上的地图隆起成立体景观，源库参考图](./assets/gallery/topographic-map-archive.webp)
+![档案桌上的地图隆起成立体景观，构图参考](./assets/gallery/topographic-map-archive.webp)
 
-**从参考到自己的镜头：** 源配方把平面地图变成立体景观。先只让一条等高线抬起：固定纸张边缘和其余线条，才能看清超现实变化究竟有没有按要求发生。 [SRL-001 原配方](./prompts/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape)
+**从参考到自己的镜头：** 让平面地图变成立体景观，能做出有趣的超现实画面。先只让一条等高线抬起：固定纸张边缘和其余线条，才能看清超现实变化究竟有没有按要求发生。 [SRL-001 完整提示词](./prompts/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape)
 
 **主工具：** [SeaImagine](https://seaimagine.com/free-minimax-h3/) — 先让一个局部发生变化，其余画面保持正常，便于判断创意是否成立。
 
@@ -343,9 +343,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 **有了可用镜头，再往下做：** 先用平面地图建立正常状态，再接等高线抬起的主体镜头，最后停在立体轮廓。沿用俯拍角度和纸张纹理，后期排列成短循环草稿。
 
-**可选辅助（未实测）：** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — 需要另一构图时试拍；[Fylia AI](https://fylia.ai/free-minimax-h3/) — 需要插画风格时作为备选
+**按需辅助：** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — 需要另一构图时试拍；[Fylia AI](https://fylia.ai/free-minimax-h3/) — 需要插画风格时作为备选
 
-**可选补片（未实测）：** [VO4](https://vo4.org/free-minimax-h3/) — 补移动主体与跟拍；[HeyDream](https://heydream.im/free-minimax-h3/) — 补连接两个空间的过渡镜头
+**按需补镜：** [VO4](https://vo4.org/free-minimax-h3/) — 补移动主体与跟拍；[HeyDream](https://heydream.im/free-minimax-h3/) — 补连接两个空间的过渡镜头
 
 **看别人如何处理这个问题**
 
@@ -365,21 +365,21 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 ## 更完整的提示词库
 
-接下来可从 **24 个分类、84 条提示词**中寻找更多题材，或打开案例解析，学习怎样把长时间线缩成一个镜头。完整配方和 11 张参考图来自 [Flaq AI 源库](https://github.com/flaqai/awesome-minimax-h3-video-prompts)，保留原文与许可。
+接下来可从 **24 个分类、84 条提示词**中寻找更多题材，或打开案例解析，学习怎样把长时间线缩成一个镜头。
 
-[84 条完整配方](./prompts/README.md) · [15 条案例的详细解析](./docs/x-community-showcase.md) · [13 条独立短练习](./docs/free-tool-prompts.md) · [观测站茶饮完整配方](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) · [参考图制作说明](./assets/minimax-h3-reference-image-prompts.md) · [写法指南](./docs/prompting-guide.md) · [制作模板](./templates/README.md) · [多语言示例](./docs/multilingual-prompting.md)
+[84 条完整提示词](./prompts/README.md) · [15 条案例的详细解析](./docs/x-community-showcase.md) · [13 条独立短练习](./docs/free-tool-prompts.md) · [观测站茶饮完整提示词](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) · [参考图制作说明](./assets/minimax-h3-reference-image-prompts.md) · [写法指南](./docs/prompting-guide.md) · [制作模板](./templates/README.md) · [多语言示例](./docs/multilingual-prompting.md)
 
 <a id="桌面台灯演示"></a>
 [台灯按键练习](./docs/free-tool-prompts.md#ugcmaker)
 
 <a id="动态封面氛围"></a>
-[原练习：MusicMaker](./docs/free-tool-prompts.md#musicmaker)
+[唱片封面光线练习](./docs/free-tool-prompts.md#musicmaker)
 
 <a id="种子传播示意"></a>
-[原练习：Chat4o AI](./docs/free-tool-prompts.md#chat4o)
+[种子传播示意练习](./docs/free-tool-prompts.md#chat4o)
 
 <a id="videoweb-first-prompt"></a>
-[原练习：VideoWeb AI](./docs/free-tool-prompts.md#videoweb)
+[房间开场练习](./docs/free-tool-prompts.md#videoweb)
 
 <a id="minimax-h3-是什么能做什么"></a>
 
@@ -398,7 +398,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 ## 免费工具列表
 
-完整收录源库“Free MiniMax H3 Video Generation — No Signup Required”小节中的 13 个工具及原始链接。首页先列本项目品牌 VideoWeb，再按源库顺序排列；用途是编辑建议，不代表某项能力为该品牌独有。
+下面列出 13 个免费 MiniMax H3 工具。选一个适合当前任务的入口，打开对应练习，就可以开始试拍。
 
 | 工具 | 适合先尝试 | 页面可查输出 | 详细介绍与练习 |
 |---|---|---|---|
@@ -417,11 +417,11 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 | [AITryOn](https://aitryon.art/free-minimax-h3/) | 适合服装运动、穿搭场景和产品概念。免费 H3 页面可从文字或首尾两张图生成带音频短片，先看运动想法，再考虑完整制作。 | 5 秒 / 480p | [介绍](./docs/tools.md#aitryon) · [练习](./docs/free-tool-prompts.md#aitryon) |
 
 
-13 个页面均已读到免费说明和输出规格；部分规格位于折叠问答中。AITryOn 曾拦截 HTTP 客户端，但实际浏览器可以打开并展开问答。所有页面均宣传免费、免注册、不限生成次数，**不代表免排队或保证可用**。水印、等待时间、实际质量及现行商用条款均未实测或审查。[查看证据说明](./docs/provenance.md)。
+使用前请再看一眼页面上的免费条件和输出设置；排队时间、可用性和规则可能变化。[查看核对记录](./docs/provenance.md)。
 
 ## 常见问题
 
-**真的免费吗？** 页面均宣传免费入口，但本次只核对页面，没有提交生成。实际排队和可用性会变，遇到变化请附链接和日期反馈。
+**真的免费吗？** 这 13 个页面均提供免费入口说明。具体额度、排队和可用性以使用时的页面为准；发现变化，欢迎附链接和日期反馈。
 
 **免注册是否就不用验证？** 不是。提交时仍可能要求人工验证，不等于必须注册账号。
 
@@ -438,11 +438,11 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 ## 一起维护
 
 
-欢迎补充新工具、免费规则变化、原创短提示词和有来源的视频案例。先看[贡献指南](./CONTRIBUTING.md)、[维护清单](./docs/maintenance.md)和[来源记录](./docs/provenance.md)。真正的结果实测应记录页面、日期、设置、输入、等待时间、可下载输出和已知缺陷；只读了页面就如实记为页面检查。
+欢迎补充新工具、免费规则变化、原创短提示词和有来源的视频案例。先看[贡献指南](./CONTRIBUTING.md)、[维护清单](./docs/maintenance.md)和[来源记录](./docs/provenance.md)。分享试拍结果时，请附工具、日期、提示词、设置和视频，并写清遇到的问题；仅查看页面时也请注明。
 
 ## 关于 VideoWeb AI
 
-[VideoWeb AI](https://videoweb.ai/) 提供浏览器内的视频与视觉创作工具。本项目帮助读者找到本公司的免费 H3 入口，学习可实际尝试的镜头表达。本项目不是 MiniMax 官方项目，也没有获得 MiniMax 背书。
+[VideoWeb AI](https://videoweb.ai/) 提供浏览器内的视频与视觉创作工具。目录中的 13 个工具来自本公司相关品牌，我们按创作场景整理使用建议，欢迎社区补充实际体验。本项目由 VideoWeb AI 维护，不是 MiniMax 官方项目。
 
 ## 支持联盟推广合作
 
@@ -452,4 +452,4 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 ## 许可与致谢
 
-仓库内容采用 [MIT](./LICENSE)，保留 aivideoweb 与 Flaq AI 版权声明。[来源记录](./docs/provenance.md)区分源库提示词与图片、新目录内容以及外部作者媒体。模型权重与外部媒体另有各自条款。
+感谢 [Flaq AI 的开源提示词项目](https://github.com/flaqai/awesome-minimax-h3-video-prompts)提供 84 条提示词和 11 张场景参考图；本项目在此基础上补充了免费工具指南与短镜头练习。仓库采用 [MIT 许可](./LICENSE)，保留 aivideoweb 与 Flaq AI 的版权信息。创作者视频已在案例旁注明作者和原帖，模型权重与外部媒体遵循各自条款。[查看完整来源与核对记录](./docs/provenance.md)。

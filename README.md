@@ -8,11 +8,11 @@ Turn an idea into your first **five-second video shot**. Choose one of six workf
 
 [Choose a workflow](#workflows) · [Fill the form](#quick-trial) · [Compare 13 tools](#free-minimax-h3-tools) · [Full library](#keep-learning-with-the-source-cookbook)
 
-**Before you try:** these 13 tools are related company brands. Pages checked on 2026-09-22 state free, no signup and 5s / 480p. This is a page review, not a successful-generation test. Tool roles are editorial suggestions; reference art and external videos are not tested outputs of these free entries.
+**Free settings:** all 13 pages list no signup and 5s / 480p output, checked on September 22, 2026. The prompts and tool combinations below are suggestions to try; generation results have not been tested.
 
 ## See H3 in motion
 
-Official MiniMax previews show product advertising, animation and music-video direction. **These are model demonstrations, not tested outputs from the 13 free tools.** The free pages state 5s / 480p. Click a preview for the official workflow.
+Explore product advertising, 3D animation and music videos in these official MiniMax demos. Click a preview for its production guide.
 
 | Product advertising | 3D animation | Music video |
 |---|---|---|
@@ -26,7 +26,7 @@ H3 generates picture and sound. For a free trial, write **subject + one action +
 
 ## Choose a scene and make one shot
 
-| Workflow | Default start | First deliverable |
+| Workflow | Default start | First shot to try |
 |---|---|---|
 | [Commerce and creator ads](#workflow-commerce) | UGC Maker | Product demonstrations and ad openings |
 | [Music and release teasers](#workflow-music) | MusicMaker | Animated cover concepts and teaser visuals |
@@ -35,7 +35,7 @@ H3 generates picture and sound. For a free trial, write **subject + one action +
 | [Teaching and presentations](#workflow-education) | Chat4o AI | Concept illustrations and presentation drafts |
 | [Visual art and architecture](#workflow-art) | SeaImagine | Surreal scenes, architectural atmosphere and lighting studies |
 
-Each route follows **reference → lesson → copy and try → inspect and revise → assemble**. Start with the primary tool; use support for another composition and pickup tools for missing shots. These assignments are not quality rankings or exclusive audio/download claims. Keep continuity-sensitive shots in one entry point and inspect each take; switching services is a separate experiment, with no guarantee of matching identity, product or style and no evidence establishing shared or different backends.
+Each route follows **reference → lesson → copy and try → inspect and revise → assemble**. Make one shot in the primary tool first, then try support tools for another composition or missing shots. Keep a sequence in one tool where possible; if you switch, check that the character, product and visual style still match.
 
 <a id="quick-trial"></a>
 <a id="your-first-free-clip"></a>
@@ -43,13 +43,13 @@ Each route follows **reference → lesson → copy and try → inspect and revis
 ### Once your prompt is ready
 
 1. Open the primary tool for your chosen scene, copy its prompt and select the stated aspect ratio.
-2. These homepage adaptations use text only: leave both image slots empty. Art teaches composition; it is not required input. Frame guidance instead requires your own matching start and end images.
+2. These exercises use text only: leave both image slots empty. Art teaches composition; it is not required input. Frame guidance instead requires your own matching start and end images.
 3. Complete page verification, submit once and follow queue updates. If a usable result returns, download it and inspect the checks under that scene.
 4. Change one instruction when a shot fails. Keep usable shots before deciding what else to generate.
 
-[See the real form and step-by-step guide](./docs/first-clip.md). To compare two phrasings at one consistent entry point, optionally use [Flaq AI](https://flaq.ai/free-minimax-h3/). Record settings, wait, picture, sound and download outcome. It is not a required stage or a measured speed advantage.
+[See the form and step-by-step guide](./docs/first-clip.md). You can also compare two prompt versions in [Flaq AI](https://flaq.ai/free-minimax-h3/) using the same settings. Note the picture, sound and download results, or start directly in your chosen tool.
 
-Below, Flaq AI reference art and recipes sit beside new five-second text-only adaptations (not generated). X cases retain videos, author prompts and notes; model attribution follows their authors. Learn the method without assuming free forms reproduce the original duration or reference inputs. No fresh full playback was performed; external media belong to their creators.
+Each workflow includes composition references, a prompt to copy and creator videos to learn from. The art illustrates a visual idea and the videos demonstrate techniques; neither shows tested results from the free tools below. Break longer examples into individual shots for practice.
 
 <a id="workflow-commerce"></a>
 
@@ -57,9 +57,9 @@ Below, Flaq AI reference art and recipes sit beside new five-second text-only ad
 
 Product demonstrations and ad openings for sellers and creators.
 
-![Fictional tea bottle in a mountaintop observatory, source-library reference](./assets/gallery/midnight-observatory-tea.webp)
+![Fictional tea bottle in a mountaintop observatory, composition reference](./assets/gallery/midnight-observatory-tea.webp)
 
-**From reference to your own shot:** The source tea ad combines starlight, condensation and dawn. Keep only light passing across the bottle for the free trial: preserve its silhouette and space for copy to make one product shot for the edit. [BRD-001 source recipe](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch)
+**From reference to your own shot:** Starlight, condensation and dawn can bring out the texture of a glass tea bottle. Keep only light passing across the bottle for the free trial: preserve its silhouette and space for copy to make one product shot for the edit. [BRD-001 full prompt](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch)
 
 **Primary tool:** [UGC Maker](https://ugcmaker.org/free-minimax-h3/) — Begin with one product reveal before adding creator reactions or speech.
 
@@ -83,9 +83,9 @@ Reuse this structure for your own product: **bottle** is the subject, **passing 
 
 **Build on the usable shot:** Open on the observatory, cut to light crossing the bottle, then hold on the product and add one selling point. Reuse its shape and blue-hour lighting; add exact labels and ad copy in editing.
 
-**Optional support (untested):** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Explore an alternate product composition; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate one transition shot; assemble it in an editor
+**Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Explore an alternate product composition; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate one transition shot; assemble it in an editor
 
-**Optional pickups (untested):** [Flyne AI](https://flyne.ai/free-minimax-h3/) — Use when a product reveal is missing; [SeeVido](https://seevido.com/free-minimax-h3/) — Use when a reaction shot is missing; [AITryOn](https://aitryon.art/free-minimax-h3/) — Use for missing fabric-motion shots in apparel ads
+**Optional pickup shots:** [Flyne AI](https://flyne.ai/free-minimax-h3/) — Use when a product reveal is missing; [SeeVido](https://seevido.com/free-minimax-h3/) — Use when a reaction shot is missing; [AITryOn](https://aitryon.art/free-minimax-h3/) — Use for missing fabric-motion shots in apparel ads
 
 **See how creators approach it**
 
@@ -111,9 +111,9 @@ Reuse this structure for your own product: **bottle** is the subject, **passing 
 
 Animated cover concepts and teaser visuals for musicians and cover designers.
 
-![Graphite-and-cork portable speaker, source-library reference](./assets/gallery/radial-cork-speaker.webp)
+![Graphite-and-cork portable speaker, composition reference](./assets/gallery/radial-cork-speaker.webp)
 
-**From reference to your own shot:** The source speaker recipe borrows camera motion without copying reference content. Adapt it into a teaser background: make one restrained orbit, then add your own track and title in editing. [MRF-002 source recipe](./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content)
+**From reference to your own shot:** The speaker example shows how an orbit can reveal shape and material. Adapt it into a teaser background: make one restrained orbit, then add your own track and title in editing. [MRF-002 full prompt](./prompts/20-multireference-camera-transfer.md#mrf-002-radial-cork-speaker-transfer-motion-grammar-not-content)
 
 **Primary tool:** [MusicMaker](https://musicmaker.im/free-minimax-h3/) — Make a visual bed for a track first, then control musical timing in editing.
 
@@ -135,9 +135,9 @@ Room ambience only; no generated song, lyrics or text.
 
 **Build on the usable shot:** Begin with a second of the still speaker, follow with the short orbit, then hold for a title and release date. Import these beats into an editor, add your own track and cut on its beats.
 
-**Optional support (untested):** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Explore a different cover composition; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate a missing visual transition
+**Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Explore a different cover composition; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate a missing visual transition
 
-**Optional pickups (untested):** [SeaImagine](https://seaimagine.com/free-minimax-h3/) — Add spatial or lighting atmosphere; [Fylia AI](https://fylia.ai/free-minimax-h3/) — Add restrained illustrated or character motion
+**Optional pickup shots:** [SeaImagine](https://seaimagine.com/free-minimax-h3/) — Add spatial or lighting atmosphere; [Fylia AI](https://fylia.ai/free-minimax-h3/) — Add restrained illustrated or character motion
 
 **See how creators approach it**
 
@@ -163,9 +163,9 @@ Room ambience only; no generated song, lyrics or text.
 
 Opening, entrance, camera and transition studies for directors and storyboard artists.
 
-![Rain-washed canal, stone bridge and parked bicycle, source-library reference](./assets/gallery/rain-washed-canal-morning.webp)
+![Rain-washed canal, stone bridge and parked bicycle, composition reference](./assets/gallery/rain-washed-canal-morning.webp)
 
-**From reference to your own shot:** The source canal recipe establishes a place after rain. Keep one move along the bank toward the bridge: explicit start and end positions make spatial continuity easier to inspect than several camera moves at once. [TRV-001 source recipe](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning)
+**From reference to your own shot:** A canal after rain makes a useful establishing shot. Keep one move along the bank toward the bridge: explicit start and end positions make spatial continuity easier to inspect than several camera moves at once. [TRV-001 full prompt](./prompts/04-travel-hospitality.md#trv-001-rain-washed-canal-town-morning)
 
 **Primary tool:** [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) — Start with the VideoWeb single-shot practice; VO4 is an alternative for a moving subject, not a required second stage.
 
@@ -186,9 +186,9 @@ Keep the bridge and bank fixed, bicycle still. Soft water; no cuts, speech or te
 
 **Build on the usable shot:** Establish the canal, add a character entering beside the bridge, then hold toward their next destination. Keep camera height and screen direction consistent across the three storyboard shots.
 
-**Optional support (untested):** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Explore a composition alternative; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate a transition between storyboard beats
+**Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Explore a composition alternative; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate a transition between storyboard beats
 
-**Optional pickups (untested):** [VO4](https://vo4.org/free-minimax-h3/) — Use for a missing moving-subject tracking shot
+**Optional pickup shots:** [VO4](https://vo4.org/free-minimax-h3/) — Use for a missing moving-subject tracking shot
 
 **See how creators approach it**
 
@@ -214,9 +214,9 @@ Keep the bridge and bank fixed, bicycle still. Soft water; no cuts, speech or te
 
 Character reactions and short-drama concepts for social and short-film creators.
 
-![Yellow clay repair robot on a miniature workbench, source-library reference](./assets/gallery/clay-repair-robot.webp)
+![Yellow clay repair robot on a miniature workbench, composition reference](./assets/gallery/clay-repair-robot.webp)
 
-**From reference to your own shot:** The source robot finds, lifts and stores a button. Start with “hear a ping, turn and notice”: the order of a reaction can tell a story without fitting the whole plot into one generation. [ANI-002 source recipe](./prompts/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button)
+**From reference to your own shot:** A robot finding, lifting and storing a button makes a small story. Start with “hear a ping, turn and notice”: the order of a reaction can tell a story without fitting the whole plot into one generation. [ANI-002 full prompt](./prompts/08-animation-stylized.md#ani-002-clay-repair-robot-finds-a-button)
 
 **Primary tool:** [SeeVido](https://seevido.com/free-minimax-h3/) — Start with one character reaction; use Fylia as an illustrated-style alternative, avoiding simultaneous identity and style changes.
 
@@ -237,9 +237,9 @@ Fixed medium shot; unchanged identity and button position. No walking, speech or
 
 **Build on the usable shot:** Open with a button landing, use the head turn as the main reaction, then hold beside the button. Reuse the same robot and workshop description before adding a lifting action.
 
-**Optional support (untested):** [Fylia AI](https://fylia.ai/free-minimax-h3/) — Alternative starting point for illustration; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate a missing scene transition
+**Optional support:** [Fylia AI](https://fylia.ai/free-minimax-h3/) — Alternative starting point for illustration; [HeyDream](https://heydream.im/free-minimax-h3/) — Generate a missing scene transition
 
-**Optional pickups (untested):** [UGC Maker](https://ugcmaker.org/free-minimax-h3/) — Add a product-use action; [Flyne AI](https://flyne.ai/free-minimax-h3/) — Add an isolated product reveal
+**Optional pickup shots:** [UGC Maker](https://ugcmaker.org/free-minimax-h3/) — Add a product-use action; [Flyne AI](https://flyne.ai/free-minimax-h3/) — Add an isolated product reveal
 
 **See how creators approach it**
 
@@ -271,9 +271,9 @@ Fixed medium shot; unchanged identity and button position. No walking, speech or
 
 Concept illustrations and presentation drafts for educators and product teams.
 
-![Museum tabletop rail connecting three miniature environments, source-library reference](./assets/gallery/three-biome-museum-rail.webp)
+![Museum tabletop rail connecting three miniature environments, composition reference](./assets/gallery/three-biome-museum-rail.webp)
 
-**From reference to your own shot:** The source recipe links three miniature biomes by a rail. Start with one exhibit zone so viewers can see what the lesson concerns; add verified labels and narration afterwards. This is a lesson opener, not a scientific explanation; factual and causal claims need sourced narration. [MRF-001 source recipe](./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take)
+**From reference to your own shot:** A rail connecting three miniature environments guides viewers through each zone. Start with one exhibit zone so viewers can see what the lesson concerns; add verified labels and narration afterwards. This is a lesson opener, not a scientific explanation; factual and causal claims need sourced narration. [MRF-001 full prompt](./prompts/20-multireference-camera-transfer.md#mrf-001-three-biome-museum-rail-in-one-take)
 
 **Primary tool:** [Chat4o AI](https://chat4o.ai/free-minimax-h3/) — Describe one visible action and test whether it clarifies a concept; this route is a video entry point, not a text-writing service.
 
@@ -295,9 +295,9 @@ Soft room tone; no labels, arrows or narration.
 
 **Build on the usable shot:** Establish the model, push toward its forest zone, then add labels over the held frame. Explain one point per shot and distinguish the model from real ecological processes.
 
-**Optional support (untested):** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Trial a clearer composition; [HeyDream](https://heydream.im/free-minimax-h3/) — Add a transition between explanation steps
+**Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Trial a clearer composition; [HeyDream](https://heydream.im/free-minimax-h3/) — Add a transition between explanation steps
 
-**Optional pickups (untested):** [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) — Add a spatial reveal or opening shot
+**Optional pickup shots:** [VideoWeb AI](https://videoweb.ai/free-minimax-h3/) — Add a spatial reveal or opening shot
 
 **See how creators approach it**
 
@@ -319,9 +319,9 @@ Borrow the game-interface example’s step-by-step state changes: in a lesson, i
 
 Surreal scenes, architectural atmosphere and lighting studies for visual designers.
 
-![Archive map rising into a miniature landscape, source-library reference](./assets/gallery/topographic-map-archive.webp)
+![Archive map rising into a miniature landscape, composition reference](./assets/gallery/topographic-map-archive.webp)
 
-**From reference to your own shot:** The source map becomes a miniature landscape. Lift only one contour first: fixed paper edges and surrounding lines make it clear whether the intended impossible change occurs. [SRL-001 source recipe](./prompts/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape)
+**From reference to your own shot:** A flat map becoming a miniature landscape creates a playful surreal scene. Lift only one contour first: fixed paper edges and surrounding lines make it clear whether the intended impossible change occurs. [SRL-001 full prompt](./prompts/23-surreal-physics-optical-illusions.md#srl-001-the-map-rises-into-a-landscape)
 
 **Primary tool:** [SeaImagine](https://seaimagine.com/free-minimax-h3/) — Change one small area while keeping the rest ordinary so the intended effect is easy to assess.
 
@@ -343,9 +343,9 @@ Soft paper friction; no added text or people.
 
 **Build on the usable shot:** Establish the flat map, follow with the contour lift, then hold on the raised shape. Keep the overhead angle and paper texture consistent when arranging a short loop draft.
 
-**Optional support (untested):** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Trial an alternative composition; [Fylia AI](https://fylia.ai/free-minimax-h3/) — Alternative for an illustrated style
+**Optional support:** [BestImage AI](https://bestimage.ai/free-minimax-h3/) — Trial an alternative composition; [Fylia AI](https://fylia.ai/free-minimax-h3/) — Alternative for an illustrated style
 
-**Optional pickups (untested):** [VO4](https://vo4.org/free-minimax-h3/) — Add moving-subject tracking; [HeyDream](https://heydream.im/free-minimax-h3/) — Add a transition between spaces
+**Optional pickup shots:** [VO4](https://vo4.org/free-minimax-h3/) — Add moving-subject tracking; [HeyDream](https://heydream.im/free-minimax-h3/) — Add a transition between spaces
 
 **See how creators approach it**
 
@@ -363,23 +363,25 @@ Soft paper friction; no added text or people.
 <a id="reference-images-for-your-next-shot"></a>
 <a id="a-complete-recipe-observatory-tea-launch"></a>
 
-## Keep learning with the source cookbook
+<a id="keep-learning-with-the-source-cookbook"></a>
 
-Find your next subject across **24 categories and 84 source recipes**, or open a case breakdown to learn how to reduce a longer timeline to one shot. The recipes and 11 reference images come from the [Flaq AI source cookbook](https://github.com/flaqai/awesome-minimax-h3-video-prompts), with original text and license retained.
+## Explore more prompts
 
-[84 full recipes](./prompts/README.md) · [15 detailed case breakdowns](./docs/x-community-showcase.md) · [13 standalone short practices](./docs/free-tool-prompts.md) · [Full observatory tea recipe](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) · [Reference-image briefs](./assets/minimax-h3-reference-image-prompts.md) · [Prompting guide](./docs/prompting-guide.md) · [Production templates](./templates/README.md) · [Multilingual examples](./docs/multilingual-prompting.md)
+Find your next subject across **24 categories and 84 prompts**, or open a case breakdown to learn how to reduce a longer timeline to one shot. 
+
+[84 full prompts](./prompts/README.md) · [15 detailed case breakdowns](./docs/x-community-showcase.md) · [13 standalone short practices](./docs/free-tool-prompts.md) · [Full observatory tea prompt](./prompts/01-brand-advertising.md#brd-001-midnight-observatory-tea-launch) · [Reference-image briefs](./assets/minimax-h3-reference-image-prompts.md) · [Prompting guide](./docs/prompting-guide.md) · [Production templates](./templates/README.md) · [Multilingual examples](./docs/multilingual-prompting.md)
 
 <a id="desk-lamp-demo"></a>
 [Lamp switch practice](./docs/free-tool-prompts.md#ugcmaker)
 
 <a id="cover-art-atmosphere"></a>
-[Original practice: MusicMaker](./docs/free-tool-prompts.md#musicmaker)
+[Record-sleeve lighting practice](./docs/free-tool-prompts.md#musicmaker)
 
 <a id="seed-dispersal-concept"></a>
-[Original practice: Chat4o AI](./docs/free-tool-prompts.md#chat4o)
+[Seed-dispersal practice](./docs/free-tool-prompts.md#chat4o)
 
 <a id="videoweb-first-prompt"></a>
-[Original practice: VideoWeb AI](./docs/free-tool-prompts.md#videoweb)
+[Room-reveal practice](./docs/free-tool-prompts.md#videoweb)
 
 <a id="what-minimax-h3-can-do"></a>
 
@@ -398,7 +400,7 @@ Official release notes describe 4–15 seconds and a 768-pixel default short edg
 
 ## Free MiniMax H3 tools
 
-All links below are the exact entries from the source README’s “Free MiniMax H3 Video Generation — No Signup Required” section. The order highlights our host brand, then follows the source list. Use-case labels are suggestions; they do not establish exclusive features or different backends.
+Explore 13 free MiniMax H3 tools below. Choose an entry point for your current task, open its practice prompt and try your first shot.
 
 | Tool | Start with | Output stated on page | Profile and practice |
 |---|---|---|---|
@@ -417,11 +419,11 @@ All links below are the exact entries from the source README’s “Free MiniMax
 | [AITryOn](https://aitryon.art/free-minimax-h3/) | A fashion-oriented creative platform whose free H3 page supports text or two-frame clips with audio. Use it to sketch garment movement, outfit scenes and product concepts before a larger production. | 5s / 480p | [Profile](./docs/tools.md#aitryon) · [Prompt](./docs/free-tool-prompts.md#aitryon) |
 
 
-**How to read the comparison:** All 13 pages were readable after browser checks, including their output instructions. AITryOn blocked the HTTP research client but loaded in the browser. Free, no-signup and unlimited-count labels are provider claims. We did not measure queue speed, watermark behavior or output quality, and did not review current commercial-use terms. The output settings on UGC Maker, HeyDream, Flaq, BestImage and AITryOn were confirmed by expanding their browser FAQ panels. [Evidence and update rules](./docs/provenance.md).
+Check the free conditions and output settings before starting; queues, availability and terms may change. [View the page-check records](./docs/provenance.md).
 
 ## Common questions
 
-**Is this a list of genuinely free tools?** The listed pages advertise a free browser route. We checked page statements, not successful generation or backend identity. Queue availability and access can change; report changes with the exact URL and date.
+**Are these tools free?** All 13 pages describe a free browser option. Current limits, queues and availability follow each service’s page. If anything changes, share the URL and date.
 
 **Does no signup mean no verification?** No. A page may still require human verification before submitting. That does not itself mean an account is required.
 
@@ -438,11 +440,11 @@ All links below are the exact entries from the source README’s “Free MiniMax
 ## Help maintain the directory
 
 
-Contribute a newly checked tool, a changed free limit, an original short prompt or an attributed X case. Follow [CONTRIBUTING](./CONTRIBUTING.md), the [maintenance checklist](./docs/maintenance.md) and [source record](./docs/provenance.md). A result test should record the page, date, settings, inputs, wait time, downloadable output and known defects. Page-only checks must remain page-only checks.
+Contribute a newly checked tool, a changed free limit, an original short prompt or an attributed X case. Follow [CONTRIBUTING](./CONTRIBUTING.md), the [maintenance checklist](./docs/maintenance.md) and [source record](./docs/provenance.md). When sharing a result, include the tool, date, prompt, settings, video and any problems. Say if you only checked the page.
 
 ## About VideoWeb AI
 
-[VideoWeb AI](https://videoweb.ai/) provides browser tools for video and visual creation. This repository helps readers discover the company’s free H3 entry points and learn practical video direction. It is a company-maintained resource open to community contributions and is not endorsed by MiniMax.
+[VideoWeb AI](https://videoweb.ai/) provides browser tools for video and visual creation. The 13 tools in this directory are related company brands. We organize suggested uses by creative task and welcome community experience. This is a VideoWeb AI project, not an official MiniMax resource.
 
 ## VideoWeb AI affiliate cooperation
 
@@ -452,4 +454,4 @@ Open the program page, review the active agreement, apply and use your assigned 
 
 ## License and credits
 
-[MIT](./LICENSE) for repository material, with aivideoweb and Flaq AI notices. [Provenance](./docs/provenance.md) distinguishes inherited recipes/assets, new directory content and external creator media. H3 model weights and third-party media have their own terms.
+Thanks to [Flaq AI’s open-source prompt collection](https://github.com/flaqai/awesome-minimax-h3-video-prompts) for 84 prompts and 11 scene references. This project adds free-tool guides and short-shot exercises. Repository content uses the [MIT license](./LICENSE), retaining aivideoweb and Flaq AI copyright notices. Creator videos link to their authors and original posts; model weights and external media have their own terms. [Full credits and verification records](./docs/provenance.md).

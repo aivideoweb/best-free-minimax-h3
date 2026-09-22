@@ -1,17 +1,17 @@
 {
   "README.md": {
     "required_phrases": [
-      "these 13 tools are related company brands",
-      "not a successful-generation test",
-      "All 13 pages were readable",
-      "84 source recipes"
+      "The 13 tools in this directory are related company brands.",
+      "generation results have not been tested",
+      "all 13 pages list no signup and 5s / 480p output",
+      "84 prompts"
     ]
   },
   "README_zh.md": {
     "required_phrases": [
-      "以下工具均为本公司相关品牌。",
-      "本轮没有实际提交生成",
-      "13 个页面均已读到",
+      "目录中的 13 个工具来自本公司相关品牌",
+      "尚未验证实际生成效果",
+      "13 个工具的页面均标注免注册、5 秒 / 480p",
       "84 条提示词"
     ]
   },

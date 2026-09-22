@@ -22,4 +22,4 @@ lamp fully visible. Keep the doorway straight and the room layout unchanged.
 Soft room ambience, no speech, no text, no cuts. Hold the last second calmly.
 ```
 
-This is an untested editorial practice prompt. [Try 12 more scenarios](./free-tool-prompts.md), or use a full cookbook recipe after shortening it to one shot. Exact lettering, music timing and complex action often need editing afterwards.
+This prompt is a starting exercise; its generated result has not been tested. [Try 12 more scenarios](./free-tool-prompts.md), or choose one shot from a longer prompt. Exact lettering, music timing and complex action often need editing afterwards.

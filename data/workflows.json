@@ -65,16 +65,16 @@
         6,
         24
       ],
-      "lesson_zh": "源配方把星光、水滴和天光变化组成一支茶饮广告。免费试拍只取“光线扫过瓶身”：保留产品轮廓与文案留白，先做一个能接进广告的产品镜头。",
-      "lesson": "The source tea ad combines starlight, condensation and dawn. Keep only light passing across the bottle for the free trial: preserve its silhouette and space for copy to make one product shot for the edit.",
+      "lesson_zh": "茶饮广告可以用星光、水滴和天光变化来展示瓶身质感。第一次试拍只保留“光线扫过瓶身”：保留产品轮廓与文案留白，先做一个能接进广告的产品镜头。",
+      "lesson": "Starlight, condensation and dawn can bring out the texture of a glass tea bottle. Keep only light passing across the bottle for the free trial: preserve its silhouette and space for copy to make one product shot for the edit.",
       "next_zh": "先用观测站环境开场，接瓶身光线镜头，再停在产品主画面上加一句卖点。三段沿用同一瓶子和蓝调光线；精确标签与广告文字后期添加。",
       "next": "Open on the observatory, cut to light crossing the bottle, then hold on the product and add one selling point. Reuse its shape and blue-hour lighting; add exact labels and ad copy in editing.",
       "fix_zh": "把观测站改为空白背景，其他条件先不动；瓶形稳定后再恢复环境。",
       "fix": "Replace the observatory with a plain background, leaving other instructions unchanged. Restore the setting after bottle geometry holds.",
       "homepage_prompt_zh": "生成一个 5 秒的 16:9 产品镜头。\n观测站桌面上，一只修长烟色玻璃茶瓶有深绿色瓶盖和空白浅色标签。\n固定中景，只有一条窄光缓慢扫过静止瓶身，最后一秒停留。\n瓶身、瓶盖和标签形状不变，上方留出文案空白。\n轻微远处风声，不生成文字、对白或额外动作。",
       "homepage_prompt": "Create one five-second product shot, 16:9.\nA tall smoked-glass tea bottle with a dark green cap and blank pale label stands on an observatory desk.\nFixed medium shot: only a narrow band of light crosses the still bottle. Hold the last second.\nKeep bottle, cap and label geometry fixed; leave copy space above.\nFaint distant wind; no lettering, speech or extra action.",
-      "image_alt_zh": "山顶观测站中的虚构茶瓶，源库参考图",
-      "image_alt": "Fictional tea bottle in a mountaintop observatory, source-library reference"
+      "image_alt_zh": "山顶观测站中的虚构茶瓶，构图参考",
+      "image_alt": "Fictional tea bottle in a mountaintop observatory, composition reference"
     },
     {
       "id": "music",
@@ -83,7 +83,7 @@
       "primary": "musicmaker",
       "output_zh": "动态封面、音乐预告视觉；适合音乐人和封面设计师。",
       "output": "Animated cover concepts and teaser visuals for musicians and cover designers.",
-      "reason_zh": "先做一段可配歌的视觉底片，歌曲节奏在剪辑时控制。",
+      "reason_zh": "先做一段可配歌的预告画面，歌曲节奏在剪辑时控制。",
       "reason": "Make a visual bed for a track first, then control musical timing in editing.",
       "support": [
         [
@@ -130,16 +130,16 @@
         13,
         22
       ],
-      "lesson_zh": "源配方用音箱演示绕拍，并强调只借运镜、不复制参考内容。这里把它改成新歌预告的视觉底片：先用一小段平稳绕拍，再由剪辑配上自己的歌曲和标题。",
-      "lesson": "The source speaker recipe borrows camera motion without copying reference content. Adapt it into a teaser background: make one restrained orbit, then add your own track and title in editing.",
+      "lesson_zh": "音箱示例展示了如何用绕拍突出物体的轮廓和材质。制作新歌预告时，可以借用这种运镜：先用一小段平稳绕拍，再由剪辑配上自己的歌曲和标题。",
+      "lesson": "The speaker example shows how an orbit can reveal shape and material. Adapt it into a teaser background: make one restrained orbit, then add your own track and title in editing.",
       "next_zh": "先留一秒静止音箱，再接小幅绕拍，最后停留并加入歌名和发布日期。把这三段导入剪辑软件，配自己的歌，在重拍处剪切。",
       "next": "Begin with a second of the still speaker, follow with the short orbit, then hold for a title and release date. Import these beats into an editor, add your own track and cut on its beats.",
       "fix_zh": "绕拍时音箱变形，就先固定镜头，仅让光线变化；确认轮廓稳定后再加小幅运镜。",
       "fix": "If the orbit deforms the speaker, lock the camera and change only the light; add a small camera move after its shape holds.",
       "homepage_prompt_zh": "生成一个 5 秒的 1:1 镜头，作为新歌预告视觉。\n石墨灰与软木拼接的虚构便携音箱放在干净桌面上。\n摄影机围绕静止音箱缓慢移动一个很小的角度，最后一秒停住。\n音箱轮廓、按键数量和软木纹理不变，上方留白。\n只保留室内环境声，不生成歌曲、歌词或文字。",
       "homepage_prompt": "Create one five-second shot, 1:1, as a music teaser visual.\nA fictional graphite-and-cork portable speaker rests on a clean desk.\nSlowly orbit through a small angle around the still speaker; hold the last second.\nKeep silhouette, button count and cork texture fixed; leave space above.\nRoom ambience only; no generated song, lyrics or text.",
-      "image_alt_zh": "石墨灰与软木便携音箱，源库参考图",
-      "image_alt": "Graphite-and-cork portable speaker, source-library reference"
+      "image_alt_zh": "石墨灰与软木便携音箱，构图参考",
+      "image_alt": "Graphite-and-cork portable speaker, composition reference"
     },
     {
       "id": "storyboard",
@@ -193,16 +193,16 @@
         19,
         20
       ],
-      "lesson_zh": "源配方用雨后运河建立地点氛围。先取“沿岸推进到石桥”这一段：把镜头起点和终点写清楚，比同时要求多种运镜更容易检查空间是否稳定。",
-      "lesson": "The source canal recipe establishes a place after rain. Keep one move along the bank toward the bridge: explicit start and end positions make spatial continuity easier to inspect than several camera moves at once.",
+      "lesson_zh": "雨后的运河适合用来交代故事发生的地点。先取“沿岸推进到石桥”这一段：把镜头起点和终点写清楚，比同时要求多种运镜更容易检查空间是否稳定。",
+      "lesson": "A canal after rain makes a useful establishing shot. Keep one move along the bank toward the bridge: explicit start and end positions make spatial continuity easier to inspect than several camera moves at once.",
       "next_zh": "先用运河镜头确定环境，再补桥边人物入场，最后停在人物将要走向的方向。统一摄影机高度和移动方向，剪成三格动态分镜。",
       "next": "Establish the canal, add a character entering beside the bridge, then hold toward their next destination. Keep camera height and screen direction consistent across the three storyboard shots.",
       "fix_zh": "桥体弯曲或岸线跳动时，缩短推进距离；先不要再增加骑车人或转弯。",
       "fix": "If the bridge bends or the bank jumps, shorten the camera move before adding a cyclist or turn.",
       "homepage_prompt_zh": "生成一个 5 秒的 16:9 镜头。\n雨后清晨的虚构运河小镇，石桥在前方，一辆自行车静靠岸边。\n摄影机保持人眼高度，沿岸缓慢向石桥推进，最后一秒停住。\n石桥和岸线不变，自行车不动。轻微水声，不要切镜、对白或文字。",
       "homepage_prompt": "Create one five-second shot, 16:9.\nA fictional canal town after rain, with a stone bridge ahead and a parked bicycle on the bank.\nAt eye level, slowly push along the bank toward the bridge; hold the last second.\nKeep the bridge and bank fixed, bicycle still. Soft water; no cuts, speech or text.",
-      "image_alt_zh": "雨后运河、石桥与停靠自行车，源库参考图",
-      "image_alt": "Rain-washed canal, stone bridge and parked bicycle, source-library reference"
+      "image_alt_zh": "雨后运河、石桥与停靠自行车，构图参考",
+      "image_alt": "Rain-washed canal, stone bridge and parked bicycle, composition reference"
     },
     {
       "id": "story",
@@ -261,16 +261,16 @@
         12,
         21
       ],
-      "lesson_zh": "源配方让修理机器人发现、搬起并收好纽扣。先只拍“听见一声，转头发现”：故事的吸引力来自反应顺序，不必一次塞进完整剧情。",
-      "lesson": "The source robot finds, lifts and stores a button. Start with “hear a ping, turn and notice”: the order of a reaction can tell a story without fitting the whole plot into one generation.",
+      "lesson_zh": "修理机器人发现、搬起并收好纽扣，就能构成一个小故事。先只拍“听见一声，转头发现”：故事的吸引力来自反应顺序，不必一次塞进完整剧情。",
+      "lesson": "A robot finding, lifting and storing a button makes a small story. Start with “hear a ping, turn and notice”: the order of a reaction can tell a story without fitting the whole plot into one generation.",
       "next_zh": "把纽扣落下作为开场，机器人转头作为主体，纽扣旁的停顿作为结尾。沿用同一套机器人外观和工作台描述，再考虑加入搬运动作。",
       "next": "Open with a button landing, use the head turn as the main reaction, then hold beside the button. Reuse the same robot and workshop description before adding a lifting action.",
       "fix_zh": "把转头幅度改为“几乎不动，只轻微偏向纽扣”；若仍变形，先试角色静止的一镜，确认外观再加动作。",
       "fix": "Reduce the turn to “almost still, only a tiny tilt toward the button.” If identity still drifts, trial the character holding still before adding motion.",
       "homepage_prompt_zh": "生成一个 5 秒的 9:16 黏土动画镜头。\n木制微缩工作台上，一个芥末黄色方头机器人有黑色珠眼和蓝色工具袋。\n听见一次轻微金属声后，它稍微转头看向旁边的珍珠色纽扣，停住。\n固定中景，机器人外观和纽扣位置不变，不走路、不说话、不加文字。",
       "homepage_prompt": "Create one five-second clay-animation shot, 9:16.\nA mustard-yellow square-headed robot with black bead eyes and a blue pouch stands on a miniature wooden bench.\nAfter one soft metallic ping, it turns its head slightly toward a pearl button and holds.\nFixed medium shot; unchanged identity and button position. No walking, speech or text.",
-      "image_alt_zh": "微缩工作台上的黄色黏土修理机器人，源库参考图",
-      "image_alt": "Yellow clay repair robot on a miniature workbench, source-library reference"
+      "image_alt_zh": "微缩工作台上的黄色黏土修理机器人，构图参考",
+      "image_alt": "Yellow clay repair robot on a miniature workbench, composition reference"
     },
     {
       "id": "education",
@@ -321,16 +321,16 @@
         17,
         18
       ],
-      "lesson_zh": "源配方用一条轨道串起三个微缩生态环境。教学试拍先取其中一个展区，让观众看清“我要讲哪个区域”，具体知识再用准确图注和解说补充。 这个镜头只做课程开场，不承担科学解释；事实和因果要由有来源的讲解补充。",
-      "lesson": "The source recipe links three miniature biomes by a rail. Start with one exhibit zone so viewers can see what the lesson concerns; add verified labels and narration afterwards. This is a lesson opener, not a scientific explanation; factual and causal claims need sourced narration.",
+      "lesson_zh": "用一条轨道串起三个微缩环境，可以引导观众依次观察不同区域。教学试拍先取其中一个展区，让观众看清“我要讲哪个区域”，具体知识再用准确图注和解说补充。 这个镜头只做课程开场，不承担科学解释；事实和因果要由有来源的讲解补充。",
+      "lesson": "A rail connecting three miniature environments guides viewers through each zone. Start with one exhibit zone so viewers can see what the lesson concerns; add verified labels and narration afterwards. This is a lesson opener, not a scientific explanation; factual and causal claims need sourced narration.",
       "next_zh": "先展示完整展台定位，再用缓慢推进强调森林区域，最后在静止画面上加图注。每段只讲一个要点，避免把微缩示意误当成真实生态过程。",
       "next": "Establish the model, push toward its forest zone, then add labels over the held frame. Explain one point per shot and distinguish the model from real ecological processes.",
       "fix_zh": "展区边界变化时改为固定镜头；图注由人添加，不靠生成画面解释未经核实的因果关系。",
       "fix": "If exhibit boundaries move, lock the camera. Add labels manually and do not use generated motion to assert unverified causal relationships.",
       "homepage_prompt_zh": "生成一个 5 秒的 16:9 教学概念镜头。\n桌面微缩展台分为森林、沙地和湿地区域，一条小轨道贯穿其间。\n从能看见完整展台的中景缓慢推进森林区域，最后一秒停留。\n所有区域边界、轨道和植物位置固定，不增加物种。\n轻微室内环境声，不生成文字、箭头或解说。",
       "homepage_prompt": "Create one five-second educational concept shot, 16:9.\nA tabletop exhibit has forest, sand and wetland zones connected by a small rail.\nFrom a medium view of the whole model, slowly push toward the forest; hold the last second.\nKeep zone boundaries, rail and plants fixed; add no species.\nSoft room tone; no labels, arrows or narration.",
-      "image_alt_zh": "轨道串联三个微缩环境的博物馆展台，源库参考图",
-      "image_alt": "Museum tabletop rail connecting three miniature environments, source-library reference"
+      "image_alt_zh": "轨道串联三个微缩环境的博物馆展台，构图参考",
+      "image_alt": "Museum tabletop rail connecting three miniature environments, composition reference"
     },
     {
       "id": "art",
@@ -385,16 +385,16 @@
         15,
         23
       ],
-      "lesson_zh": "源配方把平面地图变成立体景观。先只让一条等高线抬起：固定纸张边缘和其余线条，才能看清超现实变化究竟有没有按要求发生。",
-      "lesson": "The source map becomes a miniature landscape. Lift only one contour first: fixed paper edges and surrounding lines make it clear whether the intended impossible change occurs.",
+      "lesson_zh": "让平面地图变成立体景观，能做出有趣的超现实画面。先只让一条等高线抬起：固定纸张边缘和其余线条，才能看清超现实变化究竟有没有按要求发生。",
+      "lesson": "A flat map becoming a miniature landscape creates a playful surreal scene. Lift only one contour first: fixed paper edges and surrounding lines make it clear whether the intended impossible change occurs.",
       "next_zh": "先用平面地图建立正常状态，再接等高线抬起的主体镜头，最后停在立体轮廓。沿用俯拍角度和纸张纹理，后期排列成短循环草稿。",
       "next": "Establish the flat map, follow with the contour lift, then hold on the raised shape. Keep the overhead angle and paper texture consistent when arranging a short loop draft.",
       "fix_zh": "整张地图融化时，限定只有中央一条线运动，并降低抬起幅度；先固定摄影机。",
       "fix": "If the whole map melts, restrict motion to one central line and reduce its lift. Keep the camera locked.",
       "homepage_prompt_zh": "生成一个 5 秒的 16:9 超现实镜头。\n固定俯拍：档案桌上一张米色纸质等高线地图。\n只有中央一条等高线缓慢抬起成低矮纸脊，最后一秒停住。\n纸张边缘和其余线条保持平面、位置不变，不裂开、不融化。\n轻微纸张摩擦声，不增加文字或人物。",
       "homepage_prompt": "Create one five-second surreal shot, 16:9.\nLocked overhead view of a cream paper contour map on an archive desk.\nOnly one central contour slowly rises into a low paper ridge; hold the last second.\nKeep paper edges and all other lines flat and fixed. No tearing or melting.\nSoft paper friction; no added text or people.",
-      "image_alt_zh": "档案桌上的地图隆起成立体景观，源库参考图",
-      "image_alt": "Archive map rising into a miniature landscape, source-library reference"
+      "image_alt_zh": "档案桌上的地图隆起成立体景观，构图参考",
+      "image_alt": "Archive map rising into a miniature landscape, composition reference"
     }
   ]
 }

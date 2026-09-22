@@ -61,7 +61,7 @@ class ContentGuardTests(unittest.TestCase):
 
     def test_missing_relationship_disclosure(self):
         p = self.repo / 'README_zh.md'
-        p.write_text(p.read_text().replace('以下工具均为本公司相关品牌。', ''))
+        p.write_text(p.read_text().replace('目录中的 13 个工具来自本公司相关品牌', ''))
         self.check('missing verified relationship/status statement')
 
     def test_workflow_source_connection_is_required(self):
