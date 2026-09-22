@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>MiniMax H3 视频案例 · VideoWeb AI</title>
+    <meta
+      name="description"
+      content="按创作场景浏览 MiniMax H3 视频案例，点击图片在线播放，阅读提示词与五秒练习。"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <a class="brand" href="https://videoweb.ai/">VideoWeb AI</a>
+      <nav>
+        <a
+          id="repo"
+          href="https://github.com/aivideoweb/best-free-minimax-h3/blob/main/README_zh.md"
+          >工具包与提示词 ↗</a
+        ><button id="language" type="button">English</button>
+      </nav>
+    </header>
+    <noscript
+      >此页面需要 JavaScript
+      才能筛选与播放视频。请通过上方链接打开仓库中的案例与原帖。 JavaScript is
+      required for the player; use the repository link above to browse the
+      cases.</noscript
+    >
+    <main>
+      <section class="intro">
+        <p class="eyebrow">MINIMAX H3 · VIDEO GALLERY</p>
+        <h1 id="heading">先看一个好镜头，再试自己的想法。</h1>
+        <p id="intro">
+          按场景选案例，点击图片在线播放；打开解析，学习怎样把创意改成一个 5
+          秒镜头。
+        </p>
+      </section>
+      <nav id="filters" aria-label="场景分类"></nav>
+      <p id="status" role="status">正在加载案例…</p>
+      <section id="gallery" aria-label="视频案例"></section>
+      <p id="credit" class="credit">
+        视频来自各自创作者，不代表本目录免费工具的实测结果。原帖、完整提示词和作者信息随案例保留。
+      </p>
+    </main>
+    <footer>
+      <a href="https://videoweb.ai/affiliate-program/" id="affiliate"
+        >联盟推广合作 ↗</a
+      ><span>VideoWeb AI · MiniMax H3</span>
+    </footer>
+    <dialog id="player" aria-labelledby="player-title">
+      <div class="player-head">
+        <h2 id="player-title"></h2>
+        <button id="close" aria-label="关闭播放器" autofocus>✕</button>
+      </div>
+      <video id="video" controls playsinline preload="none"></video>
+      <p id="playback-status" role="status"></p>
+      <div id="player-links"></div>
+    </dialog>
+  </body>
+</html>

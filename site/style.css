@@ -1,0 +1,265 @@
+:root {
+  color-scheme: dark;
+  font-family:
+    Inter,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    "PingFang SC",
+    sans-serif;
+  background: #0b1016;
+  color: #edf2f7;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+a {
+  color: inherit;
+  text-underline-offset: 4px;
+}
+button {
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+header,
+main,
+footer {
+  max-width: 1180px;
+  margin: auto;
+  padding: 24px;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #26323f;
+}
+.brand {
+  font-size: 20px;
+  font-weight: 750;
+  text-decoration: none;
+}
+nav {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+header nav {
+  font-size: 14px;
+}
+button {
+  background: #16212c;
+  border: 1px solid #354656;
+  border-radius: 8px;
+  padding: 10px 16px;
+}
+button:hover,
+button:focus-visible,
+a:focus-visible {
+  outline: 2px solid #81dec7;
+  outline-offset: 3px;
+}
+.intro {
+  padding: 48px 0 24px;
+  max-width: 850px;
+}
+.eyebrow {
+  font-size: 12px;
+  letter-spacing: 2px;
+  color: #81dec7;
+}
+h1 {
+  font-size: clamp(28px, 4vw, 46px);
+  line-height: 1.25;
+  margin: 16px 0;
+}
+#intro,
+.credit {
+  color: #aebbc9;
+  line-height: 1.8;
+}
+#filters {
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 14px 0;
+}
+#filters button[aria-pressed="true"] {
+  background: #9ee6d2;
+  color: #0b2420;
+  border-color: #9ee6d2;
+}
+#status {
+  color: #9cabbc;
+  font-size: 14px;
+  margin: 22px 0;
+}
+#gallery {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 30px 24px;
+}
+.card {
+  min-width: 0;
+  border: 1px solid #293544;
+  border-radius: 12px;
+  background: #101923;
+  overflow: hidden;
+}
+.preview {
+  display: block;
+  position: relative;
+  width: 100%;
+  padding: 0;
+  aspect-ratio: 16/9;
+  background: #05080c;
+  border: 0;
+  border-radius: 0;
+  overflow: hidden;
+}
+.preview img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.play {
+  position: absolute;
+  bottom: 16px;
+  left: 16px;
+  background: #0b1016df;
+  padding: 8px 14px;
+  border-radius: 30px;
+  font-size: 14px;
+  border: 1px solid #ffffff40;
+}
+.body {
+  padding: 20px;
+}
+.body h2 {
+  font-size: 19px;
+  line-height: 1.5;
+  margin: 0 0 10px;
+}
+.body p {
+  color: #adbdcc;
+  line-height: 1.7;
+  font-size: 14px;
+  margin: 10px 0 16px;
+}
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 16px;
+  font-size: 14px;
+}
+.author {
+  font-size: 12px;
+  color: #94a6b9;
+  margin-bottom: 12px;
+}
+.credit {
+  margin: 40px 0 16px;
+  font-size: 13px;
+}
+footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  border-top: 1px solid #293544;
+  font-size: 13px;
+  color: #aebbc9;
+}
+dialog {
+  width: min(1060px, calc(100% - 24px));
+  max-height: calc(100dvh - 24px);
+  padding: 20px;
+  background: #101923;
+  color: #edf2f7;
+  border: 1px solid #3b4a5b;
+  border-radius: 14px;
+  overflow: auto;
+}
+dialog::backdrop {
+  background: #000c;
+}
+.player-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  margin-bottom: 12px;
+}
+.player-head h2 {
+  font-size: 18px;
+  margin: 0;
+  line-height: 1.5;
+}
+#close {
+  flex-shrink: 0;
+}
+video {
+  display: block;
+  width: 100%;
+  max-height: 68dvh;
+  background: #000;
+}
+#playback-status {
+  color: #bdc9d6;
+  font-size: 14px;
+  line-height: 1.6;
+}
+#player-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 22px;
+  font-size: 14px;
+}
+body:has(dialog[open]) {
+  overflow: hidden;
+}
+@media (min-width: 641px) and (max-width: 960px) {
+  #gallery {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 640px) {
+  header,
+  main,
+  footer {
+    padding: 18px;
+  }
+  header {
+    align-items: flex-start;
+    gap: 12px;
+  }
+  header nav {
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+  header nav a {
+    max-width: 145px;
+  }
+  .intro {
+    padding-top: 26px;
+  }
+  #gallery {
+    grid-template-columns: 1fr;
+    gap: 22px;
+  }
+  .body {
+    padding: 16px;
+  }
+  footer {
+    flex-direction: column;
+  }
+  .player-head h2 {
+    font-size: 16px;
+  }
+  dialog {
+    padding: 12px;
+  }
+}

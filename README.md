@@ -10,6 +10,8 @@ Turn an idea into your first **five-second video shot**. Choose one of six workf
 
 **Free settings:** all 13 pages list no signup and 5s / 480p output, checked on September 22, 2026. The prompts and tool combinations below are suggestions to try; generation results have not been tested.
 
+[Video gallery: popup player and access instructions](./docs/video-gallery.md)
+
 ## See H3 in motion
 
 Explore product advertising, 3D animation and music videos in these official MiniMax demos. Click a preview for its production guide.
