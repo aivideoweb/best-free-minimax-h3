@@ -51,6 +51,8 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 参考图帮助理解构图，创作者视频帮助学习镜头；两者都不是免费工具的实测结果。免费表单用下方 **5 秒练习**；想做更长的视频或使用多份素材，再看标注输入要求的 **进阶示例**。
 
+案例预览图可点击查看原图；观看视频请使用图片下方的“观看视频”链接。
+
 <a id="workflow-commerce"></a>
 
 <a id="电商与创作者广告"></a>
@@ -96,7 +98,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### 耳机广告：从材质微距到结构拆解
 
-[![耳机广告：从材质微距到结构拆解 — @LudovicCreator](https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg)](https://x.com/LudovicCreator/status/2082783319075291312/video/1)
+[<img src="https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg" alt="耳机广告：从材质微距到结构拆解 — @LudovicCreator" width="480">](https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg)
+
+[观看视频](https://x.com/LudovicCreator/status/2082783319075291312/video/1)
 
 **学什么：** 观察微距、旋转、拆解和重组如何保持产品形状。
 
@@ -104,7 +108,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### 护肤广告：夜晚到清晨的连续性
 
-[![护肤广告：夜晚到清晨的连续性 — @AIwithJessica](https://pbs.twimg.com/amplify_video_thumb/2083012032279064576/img/QvG1RJ-3ZOfkL6S9.jpg)](https://x.com/AIwithJessica/status/2083013658230317082/video/1)
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2083012032279064576/img/QvG1RJ-3ZOfkL6S9.jpg" alt="护肤广告：夜晚到清晨的连续性 — @AIwithJessica" width="480">](https://pbs.twimg.com/amplify_video_thumb/2083012032279064576/img/QvG1RJ-3ZOfkL6S9.jpg)
+
+[观看视频](https://x.com/AIwithJessica/status/2083013658230317082/video/1)
 
 **学什么：** 对照光线和地点变化前后的人物与产品外观。
 
@@ -112,7 +118,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### 街头美食：环境、制作与人物反应
 
-[![街头美食：环境、制作与人物反应 — @nawalsehar](https://pbs.twimg.com/amplify_video_thumb/2085233539185061888/img/ZAkMSVzHz9ihLPyD.jpg)](https://x.com/nawalsehar/status/2085233880353915217/video/1)
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2085233539185061888/img/ZAkMSVzHz9ihLPyD.jpg" alt="街头美食：环境、制作与人物反应 — @nawalsehar" width="480">](https://pbs.twimg.com/amplify_video_thumb/2085233539185061888/img/ZAkMSVzHz9ihLPyD.jpg)
+
+[观看视频](https://x.com/nawalsehar/status/2085233880353915217/video/1)
 
 **学什么：** 用环境全景、制作细节和试吃反应分担叙事。
 
@@ -122,11 +130,11 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### [台灯：一次按键说明功能（英文进阶）](./prompts/03-ugc-lifestyle.md#ugc-001-desk-lamp-honest-first-impression)
 
-<img src="./assets/gallery/honest-desk-lamp-demo.webp" alt="成人创作者演示折叠台灯" width="600">
+[<img src="./assets/gallery/honest-desk-lamp-demo.webp" alt="成人创作者演示折叠台灯" width="320">](./assets/gallery/honest-desk-lamp-demo.webp)
 
 #### [午餐罐：一次开盖展示结构（英文进阶）](./prompts/24-vertical-series-live-creator.md#ver-001-honest-modular-lunch-jar-live-demo)
 
-<img src="./assets/gallery/modular-lunch-jar-kit.webp" alt="包含五个组件的原创无品牌模块化午餐罐" width="600">
+[<img src="./assets/gallery/modular-lunch-jar-kit.webp" alt="包含五个组件的原创无品牌模块化午餐罐" width="320">](./assets/gallery/modular-lunch-jar-kit.webp)
 
 **继续找同类题材：** [品牌与广告（英文）](./prompts/01-brand-advertising.md) · [产品与电商（英文）](./prompts/02-product-ecommerce.md) · [创作者演示与生活方式（英文）](./prompts/03-ugc-lifestyle.md) · [美食与饮料（英文）](./prompts/05-food-beverage.md) · [时尚与美妆（英文）](./prompts/06-fashion-beauty.md) · [竖屏系列与直播创作（英文）](./prompts/24-vertical-series-live-creator.md)
 
@@ -175,7 +183,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### 动态文字：让一句话变成视觉叙事
 
-[![动态文字：让一句话变成视觉叙事 — @umesh_ai](https://pbs.twimg.com/amplify_video_thumb/2083909175646785536/img/jQZFhoydpvrJNuCW.jpg)](https://x.com/umesh_ai/status/2083909535593644291/video/1)
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2083909175646785536/img/jQZFhoydpvrJNuCW.jpg" alt="动态文字：让一句话变成视觉叙事 — @umesh_ai" width="480">](https://pbs.twimg.com/amplify_video_thumb/2083909175646785536/img/jQZFhoydpvrJNuCW.jpg)
+
+[观看视频](https://x.com/umesh_ai/status/2083909535593644291/video/1)
 
 **学什么：** 分配文字出现的时间，结尾留出阅读停顿。
 
@@ -183,7 +193,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### 西部片头：让剪辑服从节拍
 
-[![西部片头：让剪辑服从节拍 — @doctorwasif](https://pbs.twimg.com/amplify_video_thumb/2085599599801077760/img/koDdEvAQb0L9RUpH.jpg)](https://x.com/doctorwasif/status/2085599659326935100/video/1)
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2085599599801077760/img/koDdEvAQb0L9RUpH.jpg" alt="西部片头：让剪辑服从节拍 — @doctorwasif" width="480">](https://pbs.twimg.com/amplify_video_thumb/2085599599801077760/img/koDdEvAQb0L9RUpH.jpg)
+
+[观看视频](https://x.com/doctorwasif/status/2085599659326935100/video/1)
 
 **学什么：** 让静止姿态与短动作交替，标题落在重拍上。
 
@@ -191,7 +203,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### 动态海报：逐步组装但不破坏版式
 
-[<img src="https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg" alt="动态海报：逐步组装但不破坏版式 — @LudovicCreator" width="600">](https://x.com/LudovicCreator/status/2083628852165672988/video/1)
+[<img src="https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg" alt="动态海报：逐步组装但不破坏版式 — @LudovicCreator" width="320">](https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg)
+
+[观看视频](https://x.com/LudovicCreator/status/2083628852165672988/video/1)
 
 **学什么：** 图层依次进入，版式稳定后留出阅读时间。
 
@@ -201,7 +215,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### [海报：一层进入，其余不动（英文进阶）](./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat)
 
-<img src="./assets/gallery/dynamic-night-market-poster.webp" alt="夜市纸拼贴海报，保留空白标题区" width="600">
+[<img src="./assets/gallery/dynamic-night-market-poster.webp" alt="夜市纸拼贴海报，保留空白标题区" width="320">](./assets/gallery/dynamic-night-market-poster.webp)
 
 **继续找同类题材：** [音乐、表演与声音驱动视频（英文）](./prompts/13-music-performance-audio.md) · [动态图形与动态海报（英文）](./prompts/22-motion-graphics-dynamic-posters.md)
 
@@ -249,7 +263,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### 悬崖追逐：连续运镜的空间路线
 
-[![悬崖追逐：连续运镜的空间路线 — @umesh_ai](https://pbs.twimg.com/amplify_video_thumb/2082499279680405504/img/sccNuuy1xWEtEzVo.jpg)](https://x.com/umesh_ai/status/2082499539735588916/video/1)
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2082499279680405504/img/sccNuuy1xWEtEzVo.jpg" alt="悬崖追逐：连续运镜的空间路线 — @umesh_ai" width="480">](https://pbs.twimg.com/amplify_video_thumb/2082499279680405504/img/sccNuuy1xWEtEzVo.jpg)
+
+[观看视频](https://x.com/umesh_ai/status/2082499539735588916/video/1)
 
 **学什么：** 让障碍推动运镜，保持追逐路线清楚。
 
@@ -257,7 +273,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### 游泳片段：区分四种动作
 
-[![游泳片段：区分四种动作 — @johnAGI168](https://pbs.twimg.com/amplify_video_thumb/2082798728948125696/img/cgvj4miYM0jtq8zu.jpg)](https://x.com/johnAGI168/status/2082798969499832514/video/1)
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2082798728948125696/img/cgvj4miYM0jtq8zu.jpg" alt="游泳片段：区分四种动作 — @johnAGI168" width="480">](https://pbs.twimg.com/amplify_video_thumb/2082798728948125696/img/cgvj4miYM0jtq8zu.jpg)
+
+[观看视频](https://x.com/johnAGI168/status/2082798969499832514/video/1)
 
 **学什么：** 检查动作切换后，每种泳姿是否仍清楚可辨。
 
@@ -267,7 +285,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### [攀岩：只留最后一次抓握（英文进阶）](./prompts/09-action-sports.md#act-001-indoor-climbing-final-move)
 
-![配备安全装备、正在室内黄色线路攀爬的虚构成年运动员](./assets/gallery/indoor-climbing-final-hold.webp)
+[<img src="./assets/gallery/indoor-climbing-final-hold.webp" alt="配备安全装备、正在室内黄色线路攀爬的虚构成年运动员" width="480">](./assets/gallery/indoor-climbing-final-hold.webp)
 
 **继续找同类题材：** [旅行与酒店（英文）](./prompts/04-travel-hospitality.md) · [电影叙事（英文）](./prompts/07-cinematic-storytelling.md) · [动作与运动（英文）](./prompts/09-action-sports.md) · [汽车与出行（英文）](./prompts/16-automotive-mobility.md) · [视频编辑、续写与本地化（英文）](./prompts/19-editing-continuation-localization.md) · [多参考与运镜迁移（英文）](./prompts/20-multireference-camera-transfer.md)
 
@@ -315,7 +333,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### 蓝色摄影棚时尚片：三参考同场
 
-[![蓝色摄影棚时尚片：三参考同场 — @egeberkina](https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg)](https://x.com/egeberkina/status/2083301476206588086/video/1)
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg" alt="蓝色摄影棚时尚片：三参考同场 — @egeberkina" width="480">](https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg)
+
+[观看视频](https://x.com/egeberkina/status/2083301476206588086/video/1)
 
 **学什么：** 为每份参考素材指定角色，再安排同场动作。
 
@@ -323,7 +343,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### 竹林悬疑：用近景与正反打建立张力
 
-[![竹林悬疑：用近景与正反打建立张力 — @sipteaandcoffee](https://pbs.twimg.com/amplify_video_thumb/2083131917797556224/img/7PDZpzJGurMtyH6Q.jpg)](https://x.com/sipteaandcoffee/status/2083132770650571041/video/1)
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2083131917797556224/img/7PDZpzJGurMtyH6Q.jpg" alt="竹林悬疑：用近景与正反打建立张力 — @sipteaandcoffee" width="480">](https://pbs.twimg.com/amplify_video_thumb/2083131917797556224/img/7PDZpzJGurMtyH6Q.jpg)
+
+[观看视频](https://x.com/sipteaandcoffee/status/2083132770650571041/video/1)
 
 **学什么：** 用色彩、景深和正反打营造悬念。
 
@@ -331,7 +353,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### 角色登场：从局部揭示到完整轮廓
 
-[<img src="https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg" alt="角色登场：从局部揭示到完整轮廓 — @aimikoda" width="600">](https://x.com/aimikoda/status/2086412223061135392/video/1)
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg" alt="角色登场：从局部揭示到完整轮廓 — @aimikoda" width="320">](https://pbs.twimg.com/amplify_video_thumb/2086412141729402880/img/8hxZX-hc394yGe7P.jpg)
+
+[观看视频](https://x.com/aimikoda/status/2086412223061135392/video/1)
 
 **学什么：** 用同一角色参考图衔接细节、全身和表情。
 
@@ -339,7 +363,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### 悬疑短片：对白、反应与声音反转
 
-[![悬疑短片：对白、反应与声音反转 — @drjoetw](https://pbs.twimg.com/amplify_video_thumb/2082668962203230208/img/qTeIl8rcO_BopQxq.jpg)](https://x.com/drjoetw/status/2082669221222207488/video/1)
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2082668962203230208/img/qTeIl8rcO_BopQxq.jpg" alt="悬疑短片：对白、反应与声音反转 — @drjoetw" width="480">](https://pbs.twimg.com/amplify_video_thumb/2082668962203230208/img/qTeIl8rcO_BopQxq.jpg)
+
+[观看视频](https://x.com/drjoetw/status/2082669221222207488/video/1)
 
 **学什么：** 用指向、反应和声音变化完成剧情转折。
 
@@ -347,7 +373,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### 日语动画预告：身份与表情控制
 
-[![日语动画预告：身份与表情控制 — @haruuraeadss](https://pbs.twimg.com/amplify_video_thumb/2082945330925240322/img/v7Ke-e6Pa0EJnv3G.jpg)](https://x.com/haruuraeadss/status/2082945363431080299/video/1)
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2082945330925240322/img/v7Ke-e6Pa0EJnv3G.jpg" alt="日语动画预告：身份与表情控制 — @haruuraeadss" width="480">](https://pbs.twimg.com/amplify_video_thumb/2082945330925240322/img/v7Ke-e6Pa0EJnv3G.jpg)
+
+[观看视频](https://x.com/haruuraeadss/status/2082945363431080299/video/1)
 
 **学什么：** 固定角色外观，再按剧情节点改变表情和镜头。
 
@@ -357,7 +385,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### [纸鸟：先听声，再做反应（英文进阶）](./prompts/21-character-dialogue-performance.md#chr-001-paper-birds-plan-for-the-storm)
 
-![暴雨温室中的原创靛蓝和藏红纸艺鸟角色](./assets/gallery/paper-birds-storm-shelter.webp)
+[<img src="./assets/gallery/paper-birds-storm-shelter.webp" alt="暴雨温室中的原创靛蓝和藏红纸艺鸟角色" width="480">](./assets/gallery/paper-birds-storm-shelter.webp)
 
 **继续找同类题材：** [动画与风格化影像（英文）](./prompts/08-animation-stylized.md) · [转场、喜剧与社交内容（英文）](./prompts/12-transitions-comedy-social.md) · [角色、对白与表演（英文）](./prompts/21-character-dialogue-performance.md)
 
@@ -408,7 +436,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### 游戏界面：让回合过程清楚可读
 
-[![游戏界面：让回合过程清楚可读 — @AllaAisling](https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg)](https://x.com/AllaAisling/status/2082909383424446745/video/1)
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg" alt="游戏界面：让回合过程清楚可读 — @AllaAisling" width="480">](https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg)
+
+[观看视频](https://x.com/AllaAisling/status/2082909383424446745/video/1)
 
 **学什么：** 逐步呈现界面状态，检查图层是否跟随画面漂移。
 
@@ -461,7 +491,9 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 #### 日常影像与不可能事件：值得研究的偏差
 
-[![日常影像与不可能事件：值得研究的偏差 — @cocktailpeanut](https://pbs.twimg.com/amplify_video_thumb/2086878515744669696/img/-jjYBSEiZo_2M_eS.jpg)](https://x.com/cocktailpeanut/status/2086879654116495564/video/1)
+[<img src="https://pbs.twimg.com/amplify_video_thumb/2086878515744669696/img/-jjYBSEiZo_2M_eS.jpg" alt="日常影像与不可能事件：值得研究的偏差 — @cocktailpeanut" width="480">](https://pbs.twimg.com/amplify_video_thumb/2086878515744669696/img/-jjYBSEiZo_2M_eS.jpg)
+
+[观看视频](https://x.com/cocktailpeanut/status/2086879654116495564/video/1)
 
 **学什么：** 比较日常铺垫与意外事件，也检查结果是否符合提示词。
 

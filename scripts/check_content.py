@@ -177,13 +177,13 @@ for filename in ['README.md', 'README_zh.md']:
     explicit_ids = re.findall(r'<a id="([^"]+)"></a>', home)
     require(len(explicit_ids) == len(set(explicit_ids)), f'{filename}: duplicate explicit anchor')
     for entry in entries:
-        require(len(re.findall(r'(?:\]\(|src=")' + re.escape(entry['thumbnail_url']) + r'(?:\)|")', home)) == 1, f'{filename}: expected one inline case preview {entry["id"]}')
+        require(len(re.findall(r'(?:!\[[^\]]*\]\(|<img\b[^>]*\bsrc=")' + re.escape(entry['thumbnail_url']) + r'(?:\)|")', home)) == 1, f'{filename}: expected one inline case preview {entry["id"]}')
         for field in ['video_url', 'prompt_url']:
             require(entry[field] in home, f'{filename}: missing direct {field} for {entry["id"]}')
     for path in ROOT.glob('prompts/[0-9]*.md'):
         require(f'./prompts/{path.name}' in home, f'{filename}: missing category {path.name}')
     for path in ROOT.glob('assets/gallery/*.webp'):
-        require(len(re.findall(r'(?:\]\(|src=")\./assets/gallery/' + re.escape(path.name) + r'(?:\)|")', home)) == 1, f'{filename}: expected one inline reference {path.name}')
+        require(len(re.findall(r'(?:!\[[^\]]*\]\(|<img\b[^>]*\bsrc=")\./assets/gallery/' + re.escape(path.name) + r'(?:\)|")', home)) == 1, f'{filename}: expected one inline reference {path.name}')
     require(home.count('```text\n') >= 4, f'{filename}: missing copy-ready homepage practice')
     require(home.count('.gif)](') >= 3, f'{filename}: missing official motion previews')
 
