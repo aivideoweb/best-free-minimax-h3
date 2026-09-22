@@ -10,7 +10,7 @@ Turn an idea into your first **five-second video shot**. Choose one of six workf
 
 **Free settings:** all 13 pages list no signup and 5s / 480p output, checked on September 22, 2026. The prompts and tool combinations below are suggestions to try; generation results have not been tested.
 
-[Video gallery: popup player and access instructions](./docs/video-gallery.md)
+[Watch the video gallery](https://boogeyyagaa.github.io/minimax-h3-video-gallery/?lang=en) · [Gallery guide](./docs/video-gallery.md)
 
 ## See H3 in motion
 

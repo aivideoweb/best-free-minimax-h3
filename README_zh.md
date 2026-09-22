@@ -10,7 +10,7 @@
 
 **免费规格：** 13 个工具的页面均标注免注册、5 秒 / 480p（2026-09-22 核对）。以下练习与工具组合供试拍参考，尚未验证实际生成效果。
 
-[视频案例展示页：弹窗播放与访问说明](./docs/video-gallery.md)
+[打开视频案例展示页](https://boogeyyagaa.github.io/minimax-h3-video-gallery/) · [使用说明](./docs/video-gallery.md)
 
 ## 先看 H3 能做什么
 
