@@ -181,7 +181,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 <table>
 <tr><th colspan="2">动态海报：逐步组装但不破坏版式</th></tr>
-<tr><td width="30%"><a href="https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg" alt="动态海报：逐步组装但不破坏版式 — @LudovicCreator" width="180"></a></td>
+<tr><td width="36%"><a href="https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg" alt="动态海报：逐步组装但不破坏版式 — @LudovicCreator" width="100%"></a></td>
 <td width="9999" valign="middle"><p><strong>学什么：</strong> 图层依次进入，版式稳定后留出阅读时间。<br><br><a href="https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12">▶ 打开 MP4</a><br><br>@LudovicCreator<br><a href="https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12">MP4</a> · <a href="https://x.com/LudovicCreator/status/2083628879407632890">完整提示词</a> · <a href="./docs/x-community-showcase.md#xh3-014">解析与 5 秒改写</a></p></td></tr>
 </table>
 
@@ -189,7 +189,7 @@ H3 能生成画面与声音；免费试拍时，先把想法写成 **主体 + �
 
 <table>
 <tr><th colspan="2"><a href="./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat">海报：一层进入，其余不动（英文进阶）</a></th></tr>
-<tr><td width="30%"><img src="./assets/gallery/dynamic-night-market-poster.webp" alt="夜市纸拼贴海报，保留空白标题区" width="180"></td>
+<tr><td width="36%"><img src="./assets/gallery/dynamic-night-market-poster.webp" alt="夜市纸拼贴海报，保留空白标题区" width="100%"></td>
 <td width="9999" valign="middle"><p>每次只让一个图层进入，其余版式不动。结尾停留，给观众留出读标题的时间。<br><br><a href="https://musicmaker.im/free-minimax-h3/">用 MusicMaker 试拍</a></p></td></tr>
 </table>
 

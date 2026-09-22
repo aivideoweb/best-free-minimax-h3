@@ -181,7 +181,7 @@ Room ambience only; no generated song, lyrics or text.
 
 <table>
 <tr><th colspan="2">Motion poster: assemble a layout without losing it</th></tr>
-<tr><td width="30%"><a href="https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg" alt="Motion poster: assemble a layout without losing it — @LudovicCreator" width="180"></a></td>
+<tr><td width="36%"><a href="https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083628836285984768/pu/img/qvO3Ra84RHxRQhEy.jpg" alt="Motion poster: assemble a layout without losing it — @LudovicCreator" width="100%"></a></td>
 <td width="9999" valign="middle"><p><strong>Learn:</strong> Bring layers in sequentially, then hold the finished layout for reading.<br><br><a href="https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12">▶ Open MP4</a><br><br>@LudovicCreator<br><a href="https://video.twimg.com/ext_tw_video/2083628836285984768/pu/vid/avc1/720x1280/GfseYcSENCN1XmIr.mp4?tag=12">MP4</a> · <a href="https://x.com/LudovicCreator/status/2083628879407632890">Full prompt</a> · <a href="./docs/x-community-showcase.md#xh3-014">Notes + 5s adaptation</a></p></td></tr>
 </table>
 
@@ -189,7 +189,7 @@ Room ambience only; no generated song, lyrics or text.
 
 <table>
 <tr><th colspan="2"><a href="./prompts/22-motion-graphics-dynamic-posters.md#mog-001-night-market-poster-builds-on-the-beat">Poster: move one layer, hold the rest</a></th></tr>
-<tr><td width="30%"><img src="./assets/gallery/dynamic-night-market-poster.webp" alt="Paper-collage night-market poster with a blank title panel" width="180"></td>
+<tr><td width="36%"><img src="./assets/gallery/dynamic-night-market-poster.webp" alt="Paper-collage night-market poster with a blank title panel" width="100%"></td>
 <td width="9999" valign="middle"><p>Move one layer at a time and hold the other layout elements fixed. Leave time to read the finished title.<br><br><a href="https://musicmaker.im/free-minimax-h3/">Try in MusicMaker</a></p></td></tr>
 </table>
 
